@@ -125,8 +125,8 @@ generale.
       esperienze digitali ben più “sofisticate” di quanto un normale     
       sito comunale possa offrire.                                       
                                                                          
-   4. Ci sono molti modi diversi per arrivare a fare le cose: senza      
-      capire l'organizzazione del sito, gli utenti hanno l'impressione di 
+   4. Ci sono molti modi diversi per arrivare a fare le cose: quando non      
+      capiscono com’è organizzato il sito, gli utenti hanno l'impressione di 
       trovare quello che cercano per caso.                               
                                                                          
    5. È importante curare il modo in cui si accede e si fruisce ai       
