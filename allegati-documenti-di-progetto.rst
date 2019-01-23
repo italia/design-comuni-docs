@@ -17,11 +17,15 @@ condiviso, a parte dove indicato diversamente.
 +-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
 | Scenari                     | Spreadsheet | `Vai al documento <https://docs.google.com/spreadsheets/d/1QErVMJk8uXn1EiepoJkknO9248UjifRtWsoBnvRhnMU/edit?usp=sharing>`_ |
 +-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
-| Prototipi media definizione | Sketch      | `Vai al documento <https://invis.io/KNL7CMVY67P>`_                                                                         |
-+-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
-| Prototipi hi-fi             | Sketch      | `Vai al concept <https://invis.io/Q2OTF1RMNUB>`_                                                                           |
+| Prototipi media definizione | Sketch      | `Visualizza il prototipo su Invision <https://invis.io/KNL7CMVY67P>`_                                                      |
 |                             |             |                                                                                                                            |
-|                             |             | `File di sviluppo <https://invis.io/9FL7CESJ8ZU>`_                                                                         |
+|                             |             | `Usa il prototipo: vai al repository GitHub <https://github.com/italia/design-comuni-prototipi>`_                          |
++-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
+| Prototipi hi-fi             | Sketch      | `Visualizza il concept su Invision <https://invis.io/Q2OTF1RMNUB>`_                                                        |
+|                             |             |                                                                                                                            |
+|                             |             | `Visualizza il file di sviluppo su Invision <https://invis.io/9FL7CESJ8ZU>`_                                               |
+|                             |             |                                                                                                                            |
+|                             |             | `Usa il prototipo: vai al repository GitHub <https://github.com/italia/design-comuni-prototipi>`_                          |
 +-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
 | Kit comunicazione           | Slides      | In lavorazione                                                                                                             |
 +-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+

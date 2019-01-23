@@ -24,4 +24,3 @@ Design dei siti web dei Comuni italiani
    dalla-ricerca-al-prodotto-la-prototipazione.rst
    modello-di-adozione.rst
    allegati-documenti-di-progetto.rst
-   file-sorgente.rst
