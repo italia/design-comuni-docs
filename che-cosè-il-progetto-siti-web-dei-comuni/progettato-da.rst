@@ -2,7 +2,7 @@ Progettato da
 =============
 
 +--------------------+-----------------------------------------------------------------+
-| Lorenzo Fabbri:    |  Service / Content design – Team per la trasformazione digitale |
+| Lorenzo Fabbri:    |  Service / Content design                                       |
 +--------------------+-----------------------------------------------------------------+
 | Roberta Tassi:     |  Design research                                                |
 +--------------------+-----------------------------------------------------------------+
@@ -12,11 +12,11 @@ Progettato da
 +--------------------+-----------------------------------------------------------------+
 | Laura Toffetti:    |  UX/UI design                                                   |
 +--------------------+-----------------------------------------------------------------+
-| Alberto Torin:     |  Documentazione tecnica                                         |
+| Francesco Zaia:    |  UX/UI development                                              |
 +--------------------+-----------------------------------------------------------------+
 | Matteo Troìa:      |  Architettura dell'Informazione e documentazione tecnica        |
 +--------------------+-----------------------------------------------------------------+
-| Francesco Zaia:    |  Documentazione tecnica                                         |
+| Alberto Torin:     |  Documentazione tecnica                                         |
 +--------------------+-----------------------------------------------------------------+
 
 
