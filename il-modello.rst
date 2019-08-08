@@ -53,3 +53,4 @@ modello di sito interattivo, fondato su queste linee di azione.
   il-modello/scenari-duso.rst
   il-modello/prototipo-interattivo-a-media-definizione.rst
   il-modello/prototipo-hi-fi.rst
+  il-modello/diffusione-del-modello.rst
