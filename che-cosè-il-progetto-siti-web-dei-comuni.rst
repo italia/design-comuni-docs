@@ -19,7 +19,7 @@ Tutti i comuni, o più in generale la comunità open source e le
 software house che realizzano le soluzioni web per i comuni, possono
 usare il kit per i Comuni per sviluppare la propria offerta digitale in
 modo rapido e a basso costo. E’ utile inserire un riferimento a questo
-documento, così come un riferimento alle**\ `linee guida di Designers
+documento, così come un riferimento alle `linee guida di Designers
 Italia <https://designers.italia.it/guide/>`__ sul design dei
 servizi, nei capitolati di gara per la fornitura di servizi della
 pubblica amministrazione.
