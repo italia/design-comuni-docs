@@ -4,8 +4,8 @@ Che cos’è il progetto siti web dei comuni
 Il progetto vuole definire un modello standard per i siti web dei
 Comuni italiani. Questo modello viene messo a disposizione gratuitamente
 sulla piattaforma di \ `Designers
-Italia <https://designers.italia.it/>`__\ **sotto forma di prototipi
-hi-fi e templateche rappresentano l’esperienza di navigazione del sito
+Italia <https://designers.italia.it/>`__\ sotto forma di prototipi
+hi-fi e template che rappresentano l’esperienza di navigazione del sito
 nelle versioni desktop e mobile, basati sulle linee guida e sui kit di
 Designers Italia.
 
@@ -20,7 +20,7 @@ software house che realizzano le soluzioni web per i comuni, possono
 usare il kit per i Comuni per sviluppare la propria offerta digitale in
 modo rapido e a basso costo. E’ utile inserire un riferimento a questo
 documento, così come un riferimento alle**\ `linee guida di Designers
-Italia <https://designers.italia.it/guide/>`__\ sul design dei
+Italia <https://designers.italia.it/guide/>`__ sul design dei
 servizi, nei capitolati di gara per la fornitura di servizi della
 pubblica amministrazione.
 
@@ -35,12 +35,12 @@ Comunweb che aggrega tutti i comuni del Trentino.
 Analogamente al progetto per lo `sviluppo di un modello di sito web
 per le
 scuole <https://docs.italia.it/italia/designers-italia/design-scuole-docs/>`__\,
-questo progetto si basa sul design system della Pubblica Amministrazione
+questo progetto si basa sul *design system* della Pubblica Amministrazione
 italiana e a sua volta contribuisce ad alimentarlo, fornendo componenti
 e pattern riutilizzabili e aperti ai contributi della comunità open
 source. A loro volta, tutti i soggetti che lo utilizzeranno potranno
 mettere a disposizione template Html e componenti open source basati su
-questo modello, secondo quanto previsto dalle**\ `linee guida per il
+questo modello, secondo quanto previsto dalle `linee guida per il
 software open
 source <https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/index.html>`__\ della Pubblica Amministrazione.
 
