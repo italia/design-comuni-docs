@@ -42,7 +42,7 @@ source. A loro volta, tutti i soggetti che lo utilizzeranno potranno
 mettere a disposizione template Html e componenti open source basati su
 questo modello, secondo quanto previsto dalle `linee guida per il
 software open
-source <https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/index.html>`__\ della Pubblica Amministrazione.
+source <https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/index.html>`__ della Pubblica Amministrazione.
 
 .. toctree::
   :maxdepth: 3
