@@ -1,4 +1,4 @@
-Modello di adozione
+L'adozione
 ===================
 
 .. toctree::
