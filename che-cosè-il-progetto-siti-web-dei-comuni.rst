@@ -1,4 +1,5 @@
 Che cos’è il progetto siti web dei comuni
+-----------------------------------------
 
 Il progetto vuole definire un modello standard per i siti web dei
 Comuni italiani. Questo modello viene messo a disposizione gratuitamente
