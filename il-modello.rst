@@ -1,4 +1,4 @@
-Dalla ricerca al prodotto: la prototipazione
+Il modello
 ============================================
 
 Dopo aver terminato la fase di ricerca iniziale e aver identificato i
