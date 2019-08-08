@@ -4,7 +4,7 @@ Che cos’è il progetto siti web dei comuni
 Il progetto vuole definire un modello standard per i siti web dei
 Comuni italiani. Questo modello viene messo a disposizione gratuitamente
 sulla piattaforma di \ `Designers
-Italia <https://designers.italia.it/>`__\ sotto forma di prototipi
+Italia <https://designers.italia.it/>`__ sotto forma di prototipi
 hi-fi e template che rappresentano l’esperienza di navigazione del sito
 nelle versioni desktop e mobile, basati sulle linee guida e sui kit di
 Designers Italia.
