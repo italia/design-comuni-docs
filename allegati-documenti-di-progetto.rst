@@ -12,7 +12,7 @@ condiviso, a parte dove indicato diversamente.
 +-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
 | D1 \_ Report ricerca        | Slides      | `Vai al documento <https://docs.google.com/presentation/d/1PUoY6dVSNJpHVT1YiE1YW6aYFmyr80dDYTkOiqvYDTo/edit?usp=sharing>`_ |
 +-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
-| Architettura                | Spreadsheet | `Vai al documento <https://docs.google.com/spreadsheets/d/1A7AzDZ1CI-M2e8lMHjd29xXRCTUgCTYzBhl1LwTvDEE/edit?usp=sharing>`_ |
+| Architettura                | Spreadsheet | `Vai al documento <https://docs.google.com/spreadsheets/d/1bE0Ns0LsU0VDvCBT1WXZ5_yIxJU5AbUYcu_F8yMfpHQ/edit?usp=sharingM2e8lMHjd29xXRCTUgCTYzBhl1LwTvDEE/edit?usp=sharing>`_ |
 | informazione                |             |                                                                                                                            |
 +-----------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------+
 | Scenari                     | Spreadsheet | `Vai al documento <https://docs.google.com/spreadsheets/d/1QErVMJk8uXn1EiepoJkknO9248UjifRtWsoBnvRhnMU/edit?usp=sharing>`_ |
