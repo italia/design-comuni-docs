@@ -6,4 +6,4 @@ Per creare il sito di un Comune utilizza il documento di architettura dell’inf
 Il kit è indipendente rispetto alle scelte tecnologiche di un comune (per esempio la scelta di un CMS), ma contemporaneamente pone delle sfide tecnologiche fondamentali per realizzare in modo efficace l’esperienza d’uso del servizio (ad esempio, funzionalità di ricerca tra i contenuti). Rappresentando uno standard, favorisce l’utilizzo di soluzioni tecnologiche condivise e la diffusione di best practice.
 Attraverso gli strumenti di Designers Italia e Developers Italia è possibile interagire, confrontarsi, ricevere feedback sul progetto e partecipare alla sua evoluzione.
 
-`Vai al kit per i Comuni https://designers.italia.it/kit/comuni/`__
+`Vai al kit per i Comuni <https://designers.italia.it/kit/comuni/>`__
