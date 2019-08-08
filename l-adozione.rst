@@ -5,4 +5,4 @@ L'adozione
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  modello-di-adozione/progetto-pilota-con-il-comune-di-cagliari.rst
+  l-adozione/progetto-pilota-con-il-comune-di-cagliari.rst
