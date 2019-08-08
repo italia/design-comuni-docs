@@ -52,7 +52,7 @@ in tabella 5
    scheda che ne evidenzia i servizi e i contenuti (destra).
    
 I content type che descrivono un Comune
-=======================================
+---------------------------------------
 
 I content type (modelli di pagina) sono il punto di collegamento logico
 tra l’organizzazione dei contenuti di front-end in pagine HTML e la loro
@@ -92,7 +92,7 @@ presentati in forma organica all’utente.
 
 
 La scheda di un servizio
-========================
+---------------------------------------
 
 I servizi del comune permettono di esercitare dei diritti e facilitare i
 cittadini nell’adempimento dei loro doveri.
@@ -118,7 +118,7 @@ al flusso di prenotazione di un appuntamento.
    Struttura di una scheda servizio.
 
 User flow di un servizio
-========================
+---------------------------------------
 
 .. figure:: ../media/image5.png
    :alt: Flusso di accesso e fruizione di un servizio
@@ -133,7 +133,7 @@ pagamento (pagoPA).
 
 
 Le pagine argomento, un’alternativa ai siti tematici
-====================================================
+---------------------------------------
 
 La struttura flessibile basata sugli argomenti permette di superare la
 necessità di sviluppare e mantenere la maggior parte dei siti tematici
@@ -206,7 +206,7 @@ proprie iniziative.
 informazioni <https://docs.google.com/spreadsheets/d/1bE0Ns0LsU0VDvCBT1WXZ5_yIxJU5AbUYcu_F8yMfpHQ/edit?usp=sharing>`__.
 
 L’area personale
-================
+---------------------------------------
 
 La comunicazione con i cittadini che usufruiscono di un servizio è
 gestita dall’area personale, che permette di visualizzare i messaggi, le
@@ -229,7 +229,7 @@ modellazione dei dati coerente tra i due progetti.
    archiviati.
 
 Interfaccia utente
-==================
+---------------------------------------
 
 Un sistema di indice di pagina permette di vedere a colpo d’occhio i
 contenuti di una pagina e scorrere velocemente tra i paragrafi: l’idea è
@@ -247,7 +247,7 @@ navigazione flessibile (vedi `Figura
    
    
 Tassonomie utilizzate
-=====================
+---------------------------------------
 
 Per aiutare l’utente a navigare tra i contenuti del sito, abbiamo
 costruito delle apposite tassonomie per suddividere i luoghi, i servizi,
@@ -275,7 +275,7 @@ che permette di generare pagine tematiche, è una tassonomia.
 Ulteriori tassonomie di supporto all'architettura dell'informazione del progetto sono in fase di costruzione.
 
 Template HTML
-=============
+---------------------------------------
 
 Il progetto di design di un sito comunale è stato tradotto in una serie
 di template HTML già pronti all’uso e validati in termini di
