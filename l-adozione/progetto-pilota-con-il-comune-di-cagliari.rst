@@ -66,5 +66,5 @@ Il progetto
    svolti numerosi test di usabilità per verificare le funzionalità del
    maggior numero di sezioni del nuovo sito.
 
-Il sito ufficiale del progetto è visualizzabile `qui <https://italia.github.io/design-comuni-prototipi/>`_.
+
 
