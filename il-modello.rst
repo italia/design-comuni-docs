@@ -49,7 +49,7 @@ modello di sito interattivo, fondato su queste linee di azione.
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  dalla-ricerca-al-prodotto-la-prototipazione/architettura-dellinformazione.rst
-  dalla-ricerca-al-prodotto-la-prototipazione/scenari-duso.rst
-  dalla-ricerca-al-prodotto-la-prototipazione/prototipo-interattivo-a-media-definizione.rst
-  dalla-ricerca-al-prodotto-la-prototipazione/prototipo-hi-fi.rst
+  il-modello/architettura-dellinformazione.rst
+  il-modello/scenari-duso.rst
+  il-modello/prototipo-interattivo-a-media-definizione.rst
+  il-modello/prototipo-hi-fi.rst
