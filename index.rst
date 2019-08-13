@@ -20,7 +20,7 @@ Design dei siti web dei Comuni italiani
 
    che-cosè-il-progetto-siti-web-dei-comuni.rst
    attività-di-ricerca.rst
+   il-modello.rst
+   l-adozione.rst
    principi-guida-lanalisi-dei-risultati-della-ricerca.rst
-   dalla-ricerca-al-prodotto-la-prototipazione.rst
-   modello-di-adozione.rst
    allegati-documenti-di-progetto.rst

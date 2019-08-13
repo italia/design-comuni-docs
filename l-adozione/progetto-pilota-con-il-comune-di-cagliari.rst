@@ -66,5 +66,5 @@ Il progetto
    svolti numerosi test di usabilità per verificare le funzionalità del
    maggior numero di sezioni del nuovo sito.
 
-Il rilascio finale del sito è previsto per maggio del 2019.
+
 
