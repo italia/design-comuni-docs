@@ -19,8 +19,8 @@ Design dei siti web dei Comuni italiani
    :caption: Indice dei contenuti
 
    che-cosè-il-progetto-siti-web-dei-comuni.rst
-   attività-di-ricerca.rst
    il-modello.rst
    l-adozione.rst
+   attività-di-ricerca.rst
    principi-guida-lanalisi-dei-risultati-della-ricerca.rst
    allegati-documenti-di-progetto.rst
