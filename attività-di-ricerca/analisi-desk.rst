@@ -35,7 +35,7 @@ ai siti dei comuni. Per esempio abbiamo da subito notato:
 Abbiamo inoltre preso in esame alcuni dati disponibili gratuitamente,
 frutto di una ricerca di `Search On Media Group presentata a Web Marketing
 Festival. <https://www.engage.it/ricerche/web-marketing-festival-comuni-online/151608#J1RdjgWmLSg0cjL9.97>`__
-I dati mostrano che:
+I dati ci mostrano che:
 
 1. è in corso un processo di realizzazione di siti comunali *responsive*
    (fruibili da smartphone), ma che più della metà dei siti comunali
