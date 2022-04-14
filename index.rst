@@ -11,6 +11,9 @@ Documentazione siti web comuni italiani
    :caption: Indice dei contenuti
 
   introduzione.rst
+  
   modello-sito-comunale.rst
+  
   flussi-di-servizio.rst
+  
   allegati-tecnici.rst
