@@ -11,6 +11,6 @@ Introduzione al modello comuni
    :maxdepth: 3
    :caption: Indice dei contenuti
 
-   aggiornamento-evoluzione-modello.rst
-   principi-di-progettazione.rst
+   introduzione/aggiornamento-evoluzione-modello.rst
+   introduzione/principi-di-progettazione.rst
   
