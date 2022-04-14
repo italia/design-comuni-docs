@@ -6,7 +6,7 @@ I criteri di conformità guidano alla corretta adozione del modello in termini d
 Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del sito comunale, il DTD verifica a campione il rispetto dei requisiti di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali.
 
 Esperienza utente
------------------
+"""""""""""""""""
 
 1. **Le schede servizio presentano tutte le informazioni obbligatorie e nell’ordine segnalato nell’architettura dell’informazione, con particolare attenzione ai tempi di risposta del Comune alla richiesta del cittadino.**
 
