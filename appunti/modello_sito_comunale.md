@@ -246,7 +246,7 @@ todo:
 
 
 
-home / area personale / messaggi | attività | servizi | profilo
+home / area personale / messaggi | attività (pratiche e pagamenti) | servizi | profilo
 
 scrivania cosa ci dev'essere, messaggi, attività, ....
 
