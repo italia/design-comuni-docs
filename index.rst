@@ -13,3 +13,4 @@ Documentazione siti web comuni italiani
   introduzione.rst
   modello-sito-comunale.rst
   flussi-di-servizio.rst
+  allegati-tecnici.rst
