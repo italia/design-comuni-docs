@@ -11,8 +11,8 @@ I flussi di servizio
    :maxdepth: 3
    :caption: Indice dei contenuti
 
-   flussi-di-servizio/tipologie-flussi-servizio.rst
-   flussi-di-servizio/blocchi.rst
-   flussi-di-servizio/bricks.rst
-   flussi-di-servizio/conformita-flussi-servizio.rst
+   flussi-di-servizi/tipologie-flussi-servizio.rst
+   flussi-di-servizi/blocchi.rst
+   flussi-di-servizi/bricks.rst
+   flussi-di-servizi/conformita-flussi-servizio.rst
   
