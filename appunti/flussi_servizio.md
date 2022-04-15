@@ -108,11 +108,11 @@ Nella fase di ricerca e progettazione sono stati identificati {5} archetipi di p
 
 ### Gli archetipi
 
-Domanda di iscrizione a servizi, compreso lo scenario in cui l'accesso al servizio è soggetto a graduatoria e quello in cui il servizio è a pagamento
-Pagamento di imposte, tasse, contravvenzioni o rette di servizi a pagamento
-Richiesta di benefici economici, quali bonus e finanziamenti
-Richiesta di permessi e autorizzazioni
-Richiesta di documenti, certificati, attestazioni di identità
+1. Domanda di iscrizione a servizi, compreso lo scenario in cui l'accesso al servizio è soggetto a graduatoria e quello in cui il servizio è a pagamento
+2. Pagamento di imposte, tasse, contravvenzioni o rette di servizi a pagamento
+3. Richiesta di benefici economici, quali bonus e finanziamenti
+4. Richiesta di permessi e autorizzazioni
+5. Richiesta di documenti, certificati, attestazioni di identità
 
 
 ### I passaggi (gli step)
@@ -140,14 +140,31 @@ La seguente tabella riassume indicativamente quali passaggi sono presenti in qua
 | Richiesta di permessi e autorizzazioni | presente | presente | presente | presente | presente | presente | presente |  | presente |  |  |  |
 | Richiesta di documenti | presente | presente | presente | presente |  | presente | presente |  |  |  | presente |  |
 
-Nel flusso digitale, ogni "passggio" corrisponde ad una pagina
+Nel flusso digitale, ogni "passaggio" corrisponde ad una pagina.
 
-### Le *molecole* del processo
+### Le componenti dei passaggi
 
-{descrivere i bricks. Li ho rinominati molecole, in linea con l'atomic design. Mi sto riferendo ai `blocchi` come passaggi del processo, ragioniamo se ha senso}
-da fare:
-	- molecole legate a concetti: persona fisica, nucleo famigliare, persona giuridica, autoveicolo, edificio
-	- molecole costituite da form per richiedere dati specifici del servizio
+Ogni passaggio corrisponde ad una schermata, ed ogni schermata è composta da elementi semplici e complessi.
+Nella terminologia dell'[atomic design](https://atomicdesign.bradfrost.com/chapter-2/), sono molecole e organismi.
+
+Gli elementi semplici sono composti da etichette (`label`), elementi testuali ed elementi di `input`.
+Gli elementi complessi sono oggetti definiti dalla specifica ontologia.
+
+Tabella degli elementi complessi: ontologia e interfaccia grafica nelle modalità card
+
+Ontologia | anteprima | riepilogo | inserimento/modifica |
+-------|------|-----------------|----------------------|
+[Persona fisica](https://docs.google.com/spreadsheets/d/1zKMxXiA9xW07YpKfp-zmmOBglqcrhF6ktTtE3Xamel0/edit#gid=1976973956) | [anteprima](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=314%3A7943) | [riepilogo](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=371%3A11482) | [inserimento/modifica](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=314%3A7536) |
+[Persona giuridica](https://docs.google.com/spreadsheets/d/1zKMxXiA9xW07YpKfp-zmmOBglqcrhF6ktTtE3Xamel0/edit#gid=1890595992) | anteprima | riepilogo | inserimento/modifica |
+[Nucleo famigliare](https://docs.google.com/spreadsheets/d/1zKMxXiA9xW07YpKfp-zmmOBglqcrhF6ktTtE3Xamel0/edit#gid=1138681894) | anteprima | riepilogo | inserimento/modifica |
+[Immobile](https://docs.google.com/spreadsheets/d/1zKMxXiA9xW07YpKfp-zmmOBglqcrhF6ktTtE3Xamel0/edit#gid=968485277) | [anteprima](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=371%3A12040) | [riepilogo](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=433%3A7324) | [inserimento/modifica](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=371%3A12023) |
+[Autoveicolo](https://docs.google.com/spreadsheets/d/1zKMxXiA9xW07YpKfp-zmmOBglqcrhF6ktTtE3Xamel0/edit#gid=1827203775) | [anteprima](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=365%3A3373) | [riepilogo](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=425%3A6506) | [inserimento/modifica](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=365%3A3357) |
+[Indirizzo](https://docs.google.com/spreadsheets/d/1zKMxXiA9xW07YpKfp-zmmOBglqcrhF6ktTtE3Xamel0/edit#gid=1437629769) | [anteprima]() | [riepilogo]() | [inserimento/modifica]() |
+[Conto corrente](https://docs.google.com/spreadsheets/d/1zKMxXiA9xW07YpKfp-zmmOBglqcrhF6ktTtE3Xamel0/edit#gid=2050386250) | [anteprima](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=365%3A2939) | [riepilogo](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=427%3A6630) | [inserimento/modifica](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=365%3A2923) |
+
+Gli elementi complessi (persona fisica, persona giuridica, nucleo famigliare, conto corrente) sono utilizzati principalmente nel passaggio `Inserire/Controllare i dati generali`.  
+Gli elementi semplici sono utilizzati principalmente nel passaggio `Inserire i dati specifici del servizio`.
+
 
 
 ## Come si costruisce un servizio
