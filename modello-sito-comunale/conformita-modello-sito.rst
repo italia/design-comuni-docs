@@ -14,7 +14,7 @@ Esperienza utente
   - Non conforme: Anche soltanto una scheda servizio non presenta un’informazione obbligatoria o le presenta in un ordine diverso
 
 
-**2. I contenuti del sito comunale sono taggati con le voci della lista degli argomenti definita nel documento di architettura dell’informazione, appartenenti al `vocabolario controllato EuroVOC <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_**
+**2. I contenuti del sito comunale sono taggati con le voci della lista degli argomenti definita nel documento di architettura dell’informazione, appartenenti al `vocabolario controllato EuroVOC<https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_**
 
   - Conforme: Almeno il 50% degli argomenti utilizzati corrisponde a quelli della lista del modello
   - Non conforme: Meno del 50% degli argomenti utilizzati corrisponde a quelli della lista del modello
@@ -89,7 +89,7 @@ Sicurezza
 
 **14. Il sito ha un certificato https valido e attivo**
 
-  In conformità con le `Raccomandazioni AgID in merito allo standard Transport Layer Security (TLS) <https://cert-agid.gov.it/wp-content/uploads/2020/11/AgID-RACCSECTLS-01.pdf>_`
+  In conformità con le `Raccomandazioni AgID in merito allo standard Transport Layer Security (TLS) <https://cert-agid.gov.it/wp-content/uploads/2020/11/AgID-RACCSECTLS-01.pdf>`_
 
   - Conforme: il certificato è presente e non è scaduto
   - Non conforme: il certificato non è presente,  o è presente ma è scaduto
