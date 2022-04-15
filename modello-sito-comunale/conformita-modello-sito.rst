@@ -14,7 +14,7 @@ Esperienza utente
   - Non conforme: Anche soltanto una scheda servizio non presenta un’informazione obbligatoria o le presenta in un ordine diverso
 
 
-**2. I contenuti del sito comunale sono taggati con le voci della lista degli argomenti definita nel documento di architettura dell’informazione, appartenenti al `vocabolario controllato EuroVOC<https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_**
+**2. I contenuti del sito comunale sono taggati con le voci della lista degli argomenti definita nel documento di architettura dell’informazione, appartenenti al** `vocabolario controllato EuroVOC <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_
 
   - Conforme: Almeno il 50% degli argomenti utilizzati corrisponde a quelli della lista del modello
   - Non conforme: Meno del 50% degli argomenti utilizzati corrisponde a quelli della lista del modello
@@ -127,7 +127,7 @@ Normativa
 
 **19. Il Comune pubblica dati, documenti e informazioni sul sito con licenza aperta (es. CC-BY 4.0)**
 
-   In conformità con `Linee guida AgID per l'acquisizione e il riuso software PA <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>_`, l'`Art. 52 d.lgs. 82/2005 del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_52.html>`_,  l'`Art. 7, comma 1, D.Lgs. n. 33/2013 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33>`_ e il `D.lgs. n. 36/2006 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig=>`_
+   In conformità con `Linee guida AgID per l'acquisizione e il riuso software PA <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_, l'`Art. 52 d.lgs. 82/2005 del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_52.html>`_,  l'`Art. 7, comma 1, D.Lgs. n. 33/2013 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33>`_ e il `D.lgs. n. 36/2006 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig=>`_
 
 
 Performance
@@ -157,8 +157,9 @@ In conformità con le Linee Guida Riuso delle soluzioni e standard aperti e `Acq
   - Parzialmente conforme: tra il 50 e il 75% delle voci della scheda servizi presenta i corretti metatag
   - Non conforme: meno del 50% delle voci della scheda servizi presenta i corretti metatag
 
+**3. Il sito usa tecnologie e infrastrutture cloud**
 
-**3. Il sito usa tecnologie e infrastrutture cloud delineate nella `Stategia Cloud Italia <https://cloud.italia.it/strategia-cloud-pa/>`_**
+In conformità con la `Stategia Cloud Italia <https://cloud.italia.it/strategia-cloud-pa/>`_
 
 L'uso di infrastrutture cloud consente un'erogazione più sicura, efficiente e scalabile del sito comunale. L'adozione di queste tecnologie può essere finanziato attraverso categoria "servizi informativi e open data" all'interno della misura 1.2 Abilitazione e facilitazione migrazione al Cloud.
 
