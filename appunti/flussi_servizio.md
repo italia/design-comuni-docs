@@ -52,16 +52,14 @@ Secondo [gov.uk](https://gds.blog.gov.uk/2018/04/04/what-do-we-mean-when-we-talk
 
 Coerentemente con le definizioni proposte, i servizi possono essere classificati in base alla tipologia di beneficari, al risultato atteso e alle tipologie di attività necessarie per realizzarli.
 
-
-Beneficiari del servizio possono essere
+Beneficiari del servizio possono essere:
 
 * i cittadini (G2C: Government-to-Citizen)
 * le imprese (G2B: Government-to-Business)
 * altri enti pubblici o altre unità organizzative nello stesso ente (G2G: Government-to-Government)
 * gli impiegati dell'ente stesso (G2E: Government-to-Employee)
 
-
-I servizi sono finalizzati a soddisfare un bisogno o realizzare gli scopi dei destinatari. Un servizio può essere pertanto classificato anche in base a ciò che il destinatario desidera ottenere. Un cittadino si rivolge ad una pubblica amministrazione
+I servizi sono finalizzati a soddisfare un bisogno o realizzare gli scopi dei destinatari. Un servizio può essere pertanto classificato anche in base a ciò che il destinatario desidera ottenere. Un cittadino si rivolge ad una pubblica amministrazione:
 
 * per adempiere ad un obbligo (tipicamente il pagamento di imposte, tasse, contravvenzioni o rette di servizi a pagamento)
 * per ottenere dei documenti (documento di identità, certificati, documenti amministrativi)
@@ -75,10 +73,10 @@ Durante il processo possono venir rilasciate delle ricevute di presentazione del
 
 Le attività necessarie per portare a termine un servizio possono essere classificate in base a due dimensioni dicotomiche:
 
-* attività tangibili e non tangibili
+* attività *tangibili* e *non tangibili*
 * attività nei confronti di persone o di *cose* (beni materiali)
 
-I servizi alla persona, ad esempio, sono attività tangibili nei confronti di persone; la trasformazione, conservazione e il trasporto di beni sono attività tangibili nei confronti di beni materiali {esempi per un ocmune? Illuminazione pubblica? Gestione strade comunali?}; i servizi assicurativi sono attività non tangibili nei confronti di persone (polizze vita) o di cose (danni auto, danni ad altri beni) {esempi comune?}.
+I servizi alla persona, ad esempio, sono attività tangibili nei confronti di persone; la trasformazione, conservazione e il trasporto di beni sono attività tangibili nei confronti di beni materiali; i servizi assicurativi sono attività non tangibili nei confronti di persone (polizze vita) o di cose (danni auto, danni ad altri beni).
 
 Nel caso dei comuni, un esempio di attività tangibile nei confronti di persone è l'asilo nido, o il servizio mensa; la manutenzione delle strade comunali o dell'illuminazione pubblica è un servizio tangibile rivolto a beni materiali; la dichiarazione di consenso alla donazione degli organi è un servizio intangibile nei confronti delle persone, mentre l'autorizzazione al transito (pass) nelle zone a traffico limitato è un servizio non tangibile nei confronti di una o più persone e uno o più autoveicoli.
 
@@ -90,7 +88,7 @@ Alcuni dei servizi erogati dalle pubbliche amministrazioni sono prettamente buro
 
 Possono inoltre essere digitalizzate tutte le attività di tipo informativo e burocratico necessarie a portare a termine anche i servizi tangibili. L'asilo nido, ad esempio, è un servizio alla persona tangibile, ma la pubblicazione degli atti e delle informazioni relative al servizio, la richiesta di iscrizione, la pubblicazione della graduatoria e il pagamento delle rette sono attività non tangibili che possono essere digitalizzate.
 
-In base ai principi per l'e-government (il principio "digitale per definizione") la pubblica amministrazione è tenuta a fornire servizi digitali come opzione preferita, e dunque di mettere a disposizione in forma digitale:
+In base al principio "digitale per definizione" la pubblica amministrazione è tenuta a fornire servizi digitali come opzione preferita, e dunque di mettere a disposizione in forma digitale:
 
 * le informazioni e gli atti di tutti i servizi (tangibili e intangibili) attraverso la "Scheda informativa di servizio al cittadino" descritta in {linka}
 * le attività non tangibili digitalizzabili dei servizi tangibili (la domanda di iscrizione, la pubblicazione di graduatorie, il pagamento del servizio)
@@ -101,12 +99,11 @@ In base ai principi per l'e-government (il principio "digitale per definizione")
 Un servizio, anche digitale, è un processo che prevede una serie di passaggi lungo un percorso (journey). Sebbene alcuni di questi passaggi siano comuni a tutti i servizi, tipologie di servizi diversi implicano percorsi in parte diversi.  
 È possibile identificare i percorsi ed i passaggi in base alle classificazioni di servizio: risultati attesi diversi implicano percorsi diversi.
 
-
-
-
-Nella fase di ricerca e progettazione sono stati identificati {5} archetipi di percorso e 12 passaggi complessivi.
+Nella fase di ricerca e progettazione sono stati identificati 5 archetipi di percorso e 12 passaggi complessivi.
 
 ### Gli archetipi
+
+I cinque archetipi di percorso identificati sono:
 
 1. Domanda di iscrizione a servizi, compreso lo scenario in cui l'accesso al servizio è soggetto a graduatoria e quello in cui il servizio è a pagamento
 2. Pagamento di imposte, tasse, contravvenzioni o rette di servizi a pagamento
@@ -115,18 +112,18 @@ Nella fase di ricerca e progettazione sono stati identificati {5} archetipi di p
 5. Richiesta di documenti, certificati, attestazioni di identità
 
 
-### I passaggi (gli step)
+### I passaggi (gli `step`)
 
-Nella fase di ricerca e progettazione sono stati identificati i seguenti passaggi relativi ai servizi digitali
+Nella fase di ricerca e progettazione sono stati identificati i seguenti passaggi relativi ai servizi digitali:
 
-- Trovare informazioni sul servizio: ci si riferisce alla "Scheda informativa di servizio al cittadino", descritta in {link}. Dalla scheda è possibile accedere al servizio digitale.
-- Autenticarsi (Fare Log in): per iniziare il processo è necessario essere autenticati nel portale. Se non si è già autenticati, il sistema dovrà reindirizzare l'utente al sistema di autenticazione, per poi tornare al processo. Il sistema di autenticazione dovrà permettere all'utente di utilizzare la modalità preferita (SPID, CIE, altre modalità); in caso di accesso con SPID verrà indirizzato al servizio di autenticazione.
-- Acconsentire al trattamento dei dati che verranno inseriti. Questo passaggio è collocato all'inizio della procedura per permettere al sistema di raccogliere i dati necessari. All'utente vengono presentati i testi di tutte le autorizzazioni che è necessario autorizzare. L'azione principale permette all'utente di accettare tutto e proseguire.
-- Inserire/Controllare i dati generali: in questo passaggio vengono raccolti i dati relativi al richiedente (la persona autenticata) e, in base al servizio, i dati relativi ad altre persone fisiche (es i genitori del bambino per l'iscrizione all'asilo nido) o giuridiche (es richiesta finanziamenti per aziende), del nucleo famigliare (es. per le graduatorie per l'asilo nido), di immobili (es per pagamento imposte e tasse) o autoveicoli (es per richiesta permesso ZTL). In base al principio "una tantum" il servizio è tenuto a non richiedere le informazioni già in possesso della pubblica amministrazione (ad esempio attraverso l'Anagrafe Nazionale della Popolazione Residente).
-- Inserire i dati specifici del servizio (Preferenze di servizio): in questo passaggio vengono raccolti tutti gli dati necessari per perfezionare il processo.
-- Riepilogo, firma e invio: questo passaggio permette all'utente di verificare le informazioni immesse o recuperate dal sistema per assicurarsi della correttezza delle stesse. Attraverso la Call to action "Firma e invia" si scatena il processo di firma digitale ed invio della domanda. In questo passaggio il sistema deve dare contezza del fatto che, procedendo, il cittadino sta firmando digitalmente la richiesta ed è pertanto soggetto alle responsabilità che ne convengono {rivedere forma in termini legali}
-- Effettuare un pagamento, se possibile scegliendo il canale e perfezionando contestualmente il processo. In tutte le circostanze possibili, il servizio è invitato a mettere a disposizione i servizi PagoPA.
-- Conferma di ricezione della domanda o del pagamento: in questo passaggio il sistema conferma la ricezione della domanda, l'eventuale codice di protocollo ed eventualmente l'invio di un riepilogo all'indirizzo di posta elettronica del cittadino. Il cittadino viene inoltre invitato ad accedere al cruscotto dell'area personale, dove ha la possibilità di verificare lo stato della pratica o, in caso di pagamento, la presenza della ricevuta di pagamento
+* **Trovare informazioni sul servizio**: ci si riferisce alla "Scheda informativa di servizio al cittadino", descritta in {link}. Dalla scheda è possibile accedere al servizio digitale.
+* **Autenticarsi** (Fare Log in): per iniziare il processo è necessario essere autenticati nel portale. Se non si è già autenticati, il sistema dovrà reindirizzare l'utente al sistema di autenticazione, per poi tornare al processo. Il sistema di autenticazione dovrà permettere all'utente di utilizzare la modalità preferita (SPID, CIE, altre modalità); in caso di accesso con SPID verrà indirizzato al servizio di autenticazione.
+* **Acconsentire al trattamento dei dati** che verranno inseriti. Questo passaggio è collocato all'inizio della procedura per permettere al sistema di raccogliere i dati necessari. All'utente vengono presentati i testi di tutte le autorizzazioni che è necessario autorizzare. L'azione principale permette all'utente di accettare tutto e proseguire.
+* **Inserire/Controllare i dati generali**: in questo passaggio vengono raccolti i dati relativi al richiedente (la persona autenticata) e, in base al servizio, i dati relativi ad altre persone fisiche (es il bambino e l'altro genitore per l'iscrizione all'asilo nido) o giuridiche (es richiesta finanziamenti per aziende), del nucleo famigliare (es. per le graduatorie per l'asilo nido), di immobili (es per pagamento imposte e tasse) o autoveicoli (es per richiesta permesso ZTL). In base al principio "una tantum" il servizio è tenuto a non richiedere le informazioni già in possesso della pubblica amministrazione (ad esempio attraverso l'Anagrafe Nazionale della Popolazione Residente).
+* **Inserire i dati specifici del servizio** (Preferenze di servizio): in questo passaggio vengono raccolti tutti gli dati necessari per perfezionare il processo.
+* **Riepilogo, firma e invio**: questo passaggio permette all'utente di verificare le informazioni immesse o recuperate dal sistema per assicurarsi della correttezza delle stesse. Attraverso l'azione principale "Firma e invia" si scatena il processo di firma digitale ed invio della domanda. In questo passaggio il sistema deve dare contezza del fatto che, procedendo, il cittadino sta firmando digitalmente la richiesta ed è pertanto soggetto alle responsabilità che ne convengono {rivedere forma in termini legali}
+* **Effettuare un pagamento**, se possibile scegliendo il canale e perfezionando contestualmente il processo. In tutte le circostanze possibili, il servizio è invitato a mettere a disposizione i servizi PagoPA.
+* **Ricevere conferma di ricezione** della domanda o del pagamento: in questo passaggio il sistema conferma la ricezione della domanda, l'eventuale codice di protocollo ed eventualmente l'invio di un riepilogo all'indirizzo di posta elettronica del cittadino. Il cittadino viene inoltre invitato ad accedere al cruscotto dell'area personale, dove ha la possibilità di verificare lo stato della pratica o, in caso di pagamento, la presenza della ricevuta di pagamento.
 
 Al cittadino deve inoltre essere consentito di valutare l'esperienza d'uso del servizio digitale.
 
@@ -140,17 +137,16 @@ La seguente tabella riassume indicativamente quali passaggi sono presenti in qua
 | Richiesta di permessi e autorizzazioni | presente | presente | presente | presente | presente | presente | presente |  | presente |  |  |  |
 | Richiesta di documenti | presente | presente | presente | presente |  | presente | presente |  |  |  | presente |  |
 
-Nel flusso digitale, ogni "passaggio" corrisponde ad una pagina.
 
 ### Le componenti dei passaggi
 
-Ogni passaggio corrisponde ad una schermata, ed ogni schermata è composta da elementi semplici e complessi.
-Nella terminologia dell'[atomic design](https://atomicdesign.bradfrost.com/chapter-2/), sono molecole e organismi.
+Nel flusso digitale ad ogni passaggio corrisponde ad una schermata, ed ogni schermata è composta da elementi semplici e complessi.
+Nella terminologia dell'[atomic design](https://atomicdesign.bradfrost.com/chapter-2/), sono `molecole` e `organismi`.
 
 Gli elementi semplici sono composti da etichette (`label`), elementi testuali ed elementi di `input`.
-Gli elementi complessi sono oggetti definiti dalla specifica ontologia.
+Gli elementi complessi sono `oggetti` definiti dalla specifica ontologia (pertanto ci riferiremo ad essi sia come `organismi` che come `oggetti`.
 
-Tabella degli elementi complessi: ontologia e interfaccia grafica nelle modalità card
+Tabella degli elementi complessi (`oggetti`): ontologia e interfaccia grafica nelle modalità anteprima, riepilogo e inserimento/modifica
 
 Ontologia | anteprima | riepilogo | inserimento/modifica |
 -------|------|-----------------|----------------------|
@@ -162,19 +158,19 @@ Ontologia | anteprima | riepilogo | inserimento/modifica |
 [Indirizzo](https://docs.google.com/spreadsheets/d/1zKMxXiA9xW07YpKfp-zmmOBglqcrhF6ktTtE3Xamel0/edit#gid=1437629769) | [anteprima]() | [riepilogo]() | [inserimento/modifica]() |
 [Conto corrente](https://docs.google.com/spreadsheets/d/1zKMxXiA9xW07YpKfp-zmmOBglqcrhF6ktTtE3Xamel0/edit#gid=2050386250) | [anteprima](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=365%3A2939) | [riepilogo](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=427%3A6630) | [inserimento/modifica](https://www.figma.com/file/pxLSfeOqPXAKrj0sCD0J9S/Designers-Italia---Bricks?node-id=365%3A2923) |
 
-Gli elementi complessi (persona fisica, persona giuridica, nucleo famigliare, conto corrente) sono utilizzati principalmente nel passaggio `Inserire/Controllare i dati generali`.  
-Gli elementi semplici sono utilizzati principalmente nel passaggio `Inserire i dati specifici del servizio`.
-
-
+Gli `oggetti` (persona fisica, persona giuridica, nucleo famigliare, conto corrente) sono utilizzati principalmente nel passaggio `Inserire/Controllare i dati generali`.  
+Le `molecole` sono utilizzate principalmente nel passaggio `Inserire i dati specifici del servizio`.
 
 ## Come si costruisce un servizio
 
+I comuni sono enti che erogano un numero molto ampio di servizi: i comuni più grandi ne contano centinaia. Nel processo di digitalizzazione questo costituisce una notevole difficoltà: è impossibile progettare a priori tutti i servizi, ed emerge il rischio che vengano creati dei processi e delle procedure che violano i principi di coerenza e di usabilità, rendendo meno efficace il processo di digitalizzazione.
 
-I comuni sono enti che erogano un numero molto ampio di servizi: i comuni più grandi ne contano più di 200. Nel processo di digitalizzazione questo costituisce una notevole difficoltà: è impossibile progettare a priori tutti i servizi, ed emerge il rischio che vengano creati dei processi e delle procedure che violano i principi di coerenza e di usabilità, rendendo meno efficace il processo di digitalizzazione.
+Attraverso l'uso delle schermate dei `passaggi`, degli `organismi`/`oggetti` e delle `molecole` è possibile costruire - salvo casi particolari - buona parte dei servizi digitali dei comuni.
 
-Attraverso l'uso dei `blocchi` (le pagine dei passaggi del percorso) e delle `molecole` è possibile costruire - salvo casi particolari - buona parte dei servizi digitali dei comuni.
+Per creare un servizio è necessario in primo luogo identificare l'archetipo - e quindi il percorso - a cui appartiene. Identificato il percorso si utilizzano i `passaggi`. Alcuni sono sempre presenti: la "Scheda informativa di servizio al cittadino", la funzione di autenticazione, il consenso al trattamento dei dati.  
+I passaggi "Inserire/Controllare i dati generali" e "Inserire i dati specifici del servizio" sono generalmente presenti in tutti i percorsi, ma i loro contenuti sono specifici per ogni servizio. I dati relativi alla persona richiedente, e dunque l'`oggetto` `persona fisica`, sono generalmente sempre richiesti. Possono essere presenti altri oggetti: una seconda e una terza `persona fisica` (ad esempio nella richiesta iscrizione asilo nido), una `persona giuridica`, ad esempio nella richiesta finanziamenti per una azienda, un `veicolo`, ad esempio nella richiesta pass ZTL, un `immobile`, ad esempio nel pagamento di imposte o tasse. L'oggetto `conto corrente` è utilizzato nei servizi in cui il cittadino richiede un beneficio economico. Nei percorsi che implicano un pagamento va utilizzato anche il passaggio "Effettuare un pagamento".
 
-{spiegazione del come costruire un servizio, usando blocchi (passaggi?) e bricks (molecole?)}
+{todo: aggiungere il grafico dei percorsi}
 
 da fare:
 
