@@ -39,7 +39,7 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
 
 **5. L'avanzamento e gli step necessari al completamento della procedura sono indicati chiaramente in ogni schermata, attraverso breadcrumbs navigabili che consentono di tornare indietro ed effettuare modifiche**
 
-  In conformità con gli `eGovernment benchmark 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1/language-en>`_, l'`Art.3 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_I-sezione_II-articolo_3.html>`_ e l'`Art. 41 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_III-sezione_II-articolo_41.html>` del CAD, e le `Linee guida AgID sulla formazione, gestione e conservazione dei documenti informatici <https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5385.html>`_
+  In conformità con gli `eGovernment benchmark 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1/language-en>`_, l'`Art.3 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_I-sezione_II-articolo_3.html>`_ e l'`Art. 41 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_III-sezione_II-articolo_41.html>`_ del CAD, e le `Linee guida AgID sulla formazione, gestione e conservazione dei documenti informatici <https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5385.html>`_
 
 **6. L'utente può visionare lo stato della propria richiesta tramite area personale o un codice univoco di referenza**
 
@@ -81,7 +81,7 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
   
 **12. La procedura presenta cookie tecnici**
 
-  In linea con le** `Linee guida cookie e altri strumenti di tracciamento - 10 giugno 2021 del Garante per la protezione dei dati personali <https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9677876>`_
+  In linea con le `Linee guida cookie e altri strumenti di tracciamento - 10 giugno 2021 del Garante per la protezione dei dati personali <https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9677876>`_
 
 
 **13. La procedura presenta una dichiarazione di accessibilità nel footer**
@@ -103,7 +103,7 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
 ``Performance``
 
 .. note:
-Solo nel caso di performance (media pesata di 6 metriche standard) inferiore a 50 secondo quanto calcolato e verificato dalla piattaforma PAdigitale2026 tramite le librerie Lighthouse
+  Solo nel caso di performance (media pesata di 6 metriche standard) inferiore a 50 secondo quanto calcolato e verificato dalla piattaforma PAdigitale2026 tramite le librerie Lighthouse
 
 **15. La procedura presenta nel footer un “Piano di miglioramento del sito” che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa, e le relative tempistiche di realizzazione attese**
 
@@ -122,7 +122,7 @@ Per migliorare ulteriormente l’esperienza degli utenti e garantire l’uso di 
 
 **2. L'utente riceve una notifica di completamento della presentazione della richiesta tramite App IO**
  
-  In conformità con la `direttiva CAD: art. 64-bis e c.1-ter <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_III-articolo_64-bis.html>`, e le `Linee guida AgID sul punto di accesso telematico ai servizi della Pubblica Amministrazione <https://www.agid.gov.it/sites/default/files/repository_files/lg_punto_accesso_telematico_servizi_pa_3112021.pdf>`_
+  In conformità con la `direttiva CAD: art. 64-bis e c.1-ter <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_III-articolo_64-bis.html>`_, e le `Linee guida AgID sul punto di accesso telematico ai servizi della Pubblica Amministrazione <https://www.agid.gov.it/sites/default/files/repository_files/lg_punto_accesso_telematico_servizi_pa_3112021.pdf>`_
   
  L'implementazione di questa funzionalità è finanziabile con l'adesione al bando 1.4.3 Adozione PagoPA e app IO.
 
