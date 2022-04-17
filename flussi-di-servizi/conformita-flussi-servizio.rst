@@ -102,7 +102,7 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
 
 ``Performance``
 
-.. note:
+.. note::
   Solo nel caso di performance (media pesata di 6 metriche standard) inferiore a 50 secondo quanto calcolato e verificato dalla piattaforma PAdigitale2026 tramite le librerie Lighthouse
 
 **15. La procedura presenta nel footer un “Piano di miglioramento del sito” che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa, e le relative tempistiche di realizzazione attese**
