@@ -5,8 +5,7 @@ I criteri di conformità guidano alla corretta adozione del modello in termini d
 
 Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del sito comunale, il DTD verifica a campione il rispetto dei requisiti di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali.
 
-Esperienza utente
-~~~~~~~~~~~~~~~~~
+``Esperienza utente``
 
 **1. Le schede servizio presentano tutte le informazioni obbligatorie e nell’ordine segnalato nell’architettura dell’informazione, con particolare attenzione ai tempi di risposta del Comune alla richiesta del cittadino**
 
@@ -52,8 +51,7 @@ Esperienza utente
   - Non conforme: il CMS non è aggiornato
 
 
-Funzionalità
-~~~~~~~~~~~~
+``Funzionalità``
 
 **8. Il sito presenta una sezione per le domande più frequenti (FAQ)**
 
@@ -84,8 +82,7 @@ Funzionalità
   - Conforme: Tutte le schede servizio presentano la funzione di valutazione e un resoconto sintetico della valutazione
   - Non conforme: almeno una delle schede servizio  non presenta  la funzione di valutazione
 
-Sicurezza
-~~~~~~~~~
+``Sicurezza``
 
 **14. Il sito ha un certificato https valido e attivo**
 
@@ -103,8 +100,7 @@ Sicurezza
   - Non conforme: il dominio non è conforme alle regole AgID
 
 
-Normativa
-~~~~~~~~~
+``Normativa``
 
 **16. Il sito presenta cookie tecnici**
 
@@ -130,12 +126,12 @@ Normativa
    In conformità con `Linee guida AgID per l'acquisizione e il riuso software PA <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_, l'`Art. 52 d.lgs. 82/2005 del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_52.html>`_,  l'`Art. 7, comma 1, D.Lgs. n. 33/2013 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33>`_ e il `D.lgs. n. 36/2006 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig=>`_
 
 
-Performance
-~~~~~~~~~~~
-
-Solo nel caso di performance del sito (media pesata di 6 metriche standard) inferiore a 50 secondo quanto calcolato e verificato dalla piattaforma PAdigitale2026 tramite le librerie Lighthouse 
+``Performance``
 
 **20. Il sito presenta nel footer un "Piano di miglioramento del sito" che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa, e le relative tempistiche di realizzazione attese**
+
+.. note::
+  Solo nel caso di performance (media pesata di 6 metriche standard) inferiore a 50 secondo quanto calcolato e verificato dalla piattaforma PAdigitale2026 tramite le librerie Lighthouse
 
 
 Raccomandazioni
