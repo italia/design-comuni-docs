@@ -120,7 +120,7 @@ Per migliorare ulteriormente l’esperienza degli utenti e garantire l’uso di 
   L'implementazione di questa funzionalità è finanziabile con l'adesione al bando 1.4.4 Adozione identità digitale
 
 
- **2. L'utente riceve una notifica di completamento della presentazione della richiesta tramite App IO**
+**2. L'utente riceve una notifica di completamento della presentazione della richiesta tramite App IO**
  
   In conformità con la `direttiva CAD: art. 64-bis e c.1-ter <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_III-articolo_64-bis.html>`, e le `Linee guida AgID sul punto di accesso telematico ai servizi della Pubblica Amministrazione <https://www.agid.gov.it/sites/default/files/repository_files/lg_punto_accesso_telematico_servizi_pa_3112021.pdf>`_
   
