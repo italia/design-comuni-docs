@@ -41,7 +41,7 @@ Completata la fase pre-migrazione, si è pronti per le attività per la messa on
    
    4. Aggiorna i link in ingresso (backlinks) sui profili social e su altri siti web.
    
-Completata la migrazione, è opportuno effettuare alcune verifiche per controllare il SEO check dell’indicizzazione, dei posizionamenti e delle performance del nuovo sito.
+Completata la migrazione, è opportuno effettuare alcune verifiche per controllare l'indicizzazione, i posizionamenti e la performance del nuovo sito.
 
 .. topic:: Attività post-migrazione
    :class: procedure
