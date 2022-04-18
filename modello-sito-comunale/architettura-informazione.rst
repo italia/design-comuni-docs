@@ -5,9 +5,9 @@ L'architettura dell'informazione definisce la struttura di un sito, il modo in c
 
 Il documento di architettura dell’informazione **(link)** presenta:
 
- - le **tipologie di contenuto** e le loro proprietà, che servono a creare le varie pagine del sito;
- - le **tassonomie** e i **vocabolari controllati**, utili a classificare i vari contenuti del sito per renderli fruibili tramite motore di ricerca interno e a definire la struttura di secondo e terzo livello del sito;
- - la coreografia del sito, ovvero la **struttura (alberatura)**, il **sistema di navigazione** e la presentazione dei contenuti sulle **specifiche pagine**.
+- le **tipologie di contenuto** e le loro proprietà, che servono a creare le varie pagine del sito;
+- le **tassonomie** e i **vocabolari controllati**, utili a classificare i vari contenuti del sito per renderli fruibili tramite motore di ricerca interno e a definire la struttura di secondo e terzo livello del sito;
+- la coreografia del sito, ovvero la **struttura (alberatura)**, il **sistema di navigazione** e la presentazione dei contenuti sulle **specifiche pagine**.
 
 
 L'architettura del sito di un Comune è organizzata in alcune sezioni principali, corrispondenti al primo livello di navigazione:
@@ -29,21 +29,21 @@ La definizione di un'ontologia è utile non solo per capire l'ordine e la dispos
 
 Le **tipologie di contenuto** del sito di un Comune sono:
 
- - Punto di contatto
- - Unità organizzativa
- - Persona pubblica
- - Incarico
- - Luogo
- - Notizia
- - Evento
- - Servizio
- - Documento pubblico
- - Dataset
- - Pratica
- - Pagamento
- - Documento privato
- - Messaggio
- - Appuntamento
+- Punto di contatto
+- Unità organizzativa
+- Persona pubblica
+- Incarico
+- Luogo
+- Notizia
+- Evento
+- Servizio
+- Documento pubblico
+- Dataset
+- Pratica
+- Pagamento 
+- Documento privato
+- Messaggio
+- Appuntamento
 
 Ogni tipologia di contenuto è presentata su una scheda specifica del documento di architettura, dove è presente una lista di *attributi* o *campi (slot)* che vanno a formare l'effettivo contenuto. Alcuni attributi rappresentano una relazione con altri concetti, altri rappresentano dei valori di tipo testuale, booleano (vero o falso), numerico, temporale (data, ora) o categoriale. Altri ancora rappresentano degli oggetti digitali (file di documenti, immagini, video, audio e così via) allegati all'oggetto rappresentato.
 
