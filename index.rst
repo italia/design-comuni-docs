@@ -7,14 +7,10 @@ Documentazione siti web comuni italiani
    design system di Designers Italia.
 
 .. toctree::
-   :numbered:
    :maxdepth: 3
-   :caption: Indice dei contenuti
+   :numbered:
 
   introduzione.rst
-  
   modello-sito-comunale.rst
-  
   flussi-di-servizio.rst
-  
   allegati-tecnici.rst
