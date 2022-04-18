@@ -5,9 +5,9 @@ L'architettura dell'informazione definisce la struttura di un sito, il modo in c
 
 I compiti dell'architettura dell'informazione sono:
 
-- identificare le tipologie di concetti (l'ontologia);
-- strutturare la disposizione degli oggetti;
- -permettere agli utenti di muoversi all'interno della struttura (la navigazione);
+- identificare le tipologie di oggetti (l'ontologia), in questo caso i contenuti;
+- strutturare la disposizione dei contenuti;
+- permettere agli utenti di muoversi all'interno della struttura (la navigazione);
 - rappresentare gli oggetti e le funzioni.
 
 Il documento di architettura dell’informazione **(link)** contiene indicazioni sulla gerarchia delle pagine di primo e secondo livello, sulle tipologie di contenuto (content type), sui sistemi di navigazione e sulle tassonomie per tutte le aree del sito.
@@ -28,26 +28,16 @@ Ontologia
 ---------
 Affinché il sistema informativo sia comprensibile per gli utenti è necessario che ne rappresenti la concettualizzazione implicita, ovvero le tipologie di oggetti (concreti o astratti), di agenti (persone e ruoli), di contesti (i luoghi) ed eventi (esperienze, attività, servizi), che le persone usano per rappresentarsi e per comunicare il dominio.
 
-L'ontologia è una esplicita specificazione di una concettualizzazione
+La definizione di ontologie, vocabolari controllati e tassonomie esplicite è utile non solo nella definizione dell'architettura dell'informazione, ma anche per promuovere:
 
-Una ontologia è una specificazione formale ed esplicita di una concettualizzazione condivisa. Esplicito significa che i concetti usati, e i loro vincoli, sono definiti esplicitamente.
+ - l'interoperabilità fra basi di dati, enti e servizi diversi, a livello nazionale, europeo, internazionale;
+ - l'analisi e verifica automatica dei contenuti, attraverso specifici software;
+ - il loro riuso in domini informativi diversi;
+ - la rappresentazione semantica dei risultati dei motori di ricerca;
 
-La definizione di ontologie, vocabolari controllati e tassonomie esplicite è utile non solo nella definizione dell'architettura dell'informazione, ma anche per promuovere
+Ogni concetto dell'ontologia è formato da una lista di *attributi* o *campi (slot)* che ne definiscono il contenuto. Alcuni attributi rappresentano una relazione con altri concetti, altri rappresentano dei valori di tipo testuale, booleano (vero o falso), numerico, temporale (data, ora) o categoriale. Altri ancora rappresentano degli oggetti digitali (file di documenti, immagini, video, audio e così via) allegati all'oggetto rappresentato.
 
-l'interoperabilità fra basi di dati, enti e servizi diversi, a livello nazionale, europeo, internazionale
-l'analisi e verifica automatica dei contenuti, attraverso specifici software
-il loro riuso in domini informativi diversi
-la rappresentazione semantica dei risultati dei motori di ricerca
-Per questa ragione, nella definizione delle entità si è fatto, per quanto possibile, riferimento ai content type corrispondenti del vocabolario schema.org
-
-Le ontologie definiscono un sistema di conoscenza attraverso **istanze individuali** di entità (i concetti), con specifici **attributi** e **relazioni**.
-{da riscrivere}
-
-Ogni concetto dell'ontologia è formato da una lista di attributi o campi (slot) che ne definiscono il contenuto. Alcuni attributi rappresentano una relazione con altri concetti, altri rappresentano dei valori di tipo testuale, booleano (vero o falso), numerico, temporale (data, ora) o categoriale. Altri ancora rappresentano degli oggetti digitali (file di documenti, immagini, video, audio e così via) allegati all'oggetto rappresentato.
-I campi di tipo categoriale ammettono un numero predefinito di categorie, definite da un vocabolario controllato. Si ha una tassonomia (propriamente detta) quando una o più categorie (le voci del vocabolario controllato) si dividono in categorie di secondo, terzo livello e così via, in una struttura gerarchica. Per semplicità, sono state definite tassonomie anche le categorie piatte, ovvero prive di struttura gerarchica.
-
-In questo documento e nei documenti allegati ci riferiremo ai concetti formalizzati nelle ontologie con il termine di tipologie di contenuto ("content type"), in parte per una ragione di continuità con la terminologia adottata nella versione precedente, ma soprattutto perché questi documenti si rivolgono prevalentemente a chi produce i contenuti per i siti internet dei comuni e degli enti locali. In letteratura i concetti formalizzati in ontologie vengono generalmente definiti entità, o classi (termine utilizzato anche nella programmazione orientata agli oggetti). Nelle categorie aristoteliche i concetti radice sono definiti generi, mentre le classi rappresentano le tassonomie del genere.
-
+In questo documento e nei documenti allegati ci riferiremo ai concetti formalizzati nelle ontologie con il termine di tipologie di contenuto ("content type"), in parte per una ragione di continuità con la terminologia adottata nella versione precedente, ma soprattutto perché questi documenti si rivolgono prevalentemente a chi produce i contenuti per i siti internet dei comuni e degli enti locali. In letteratura i concetti formalizzati in ontologie vengono generalmente definiti entità, o classi (termine utilizzato anche nella programmazione orientata agli oggetti).
 
 Tipologie di contenuti
 ----------------------
@@ -58,6 +48,8 @@ Tutti questi elementi di contenuto possono essere combinati per creare le specif
 Tassonomie e vocabolari controllati
 -----------------------------------
 Testo da incollare
+
+I campi di tipo categoriale ammettono un numero predefinito di categorie, definite da un vocabolario controllato. Si ha una tassonomia (propriamente detta) quando una o più categorie (le voci del vocabolario controllato) si dividono in categorie di secondo, terzo livello e così via, in una struttura gerarchica. Per semplicità, sono state definite tassonomie anche le categorie piatte, ovvero prive di struttura gerarchica.
 
 Nel classificare le varie risorse (luoghi, eventi, notizie ...) le voci vanno classificate nella categoria più specifica. Ad esempio un convegno va classificato nella categoria "evento culturale" -> "conferenza e summit" -> "convegno".
 
@@ -75,6 +67,7 @@ Amministrazione
 Servizi
 Novità
 Documenti e dati
+
 Amministrazione raggruppa tre tipologie di contenuti:
 
 unità organizzativa, definita dalla tassonomia "Tipi di unità organizzativa: struttura amministrativa (area, ufficio), politica (giunta, consiglio, commissione) e "altra struttura";
