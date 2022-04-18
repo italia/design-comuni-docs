@@ -1,18 +1,16 @@
 Architettura dell'informazione
-=======================================
+================================
 
-L'architettura dell'informazione definisce la struttura di un sito, il modo in cui l'informazione è raggruppata, i metodi di navigazione e la terminologia usata entro il sistema, al fine di facilitare l'accesso intuitivo ai contenuti e il completamento di compiti da parte degli utenti. L'architettura rappresenta la guida per la realizzazione delle strutture di front-end e di back-end del sito stesso.
+L'architettura dell'informazione definisce la struttura di un sito, il modo in cui le informazioni sono organizzate, i metodi di navigazione e la terminologia usata entro il sistema, al fine di facilitare l'accesso intuitivo ai contenuti e il completamento di compiti da parte degli utenti. L'architettura rappresenta la guida per la realizzazione delle strutture di front-end e di back-end del sito stesso.
 
-I compiti dell'architettura dell'informazione sono:
+Il documento di architettura dell’informazione **(link)** presenta:
 
-- identificare le tipologie di oggetti (l'ontologia), in questo caso i contenuti;
-- strutturare la disposizione dei contenuti;
-- permettere agli utenti di muoversi all'interno della struttura (la navigazione);
-- rappresentare gli oggetti e le funzioni.
+ - le **tipologie di contenuto** e le loro proprietà, che servono a creare le varie pagine del sito;
+ - le **tassonomie** e i **vocabolari controllati**, utili a classificare i vari contenuti del sito per renderli fruibili tramite motore di ricerca interno e a definire la struttura di secondo e terzo livello del sito;
+ - la coreografia del sito, ovvero la **struttura (alberatura)**, il **sistema di navigazione** e la presentazione dei contenuti sulle **specifiche pagine**.
 
-Il documento di architettura dell’informazione **(link)** contiene indicazioni sulla gerarchia delle pagine di primo e secondo livello, sulle tipologie di contenuto (content type), sui sistemi di navigazione e sulle tassonomie per tutte le aree del sito.
 
-I contenuti del sito di un Comune sono organizzati in varie sezioni:
+L'architettura del sito di un Comune è organizzata in alcune sezioni principali, corrispondenti al primo livello di navigazione:
 
 - *Amministrazione*, contiene tutti contenuti riguardanti la struttura politica e amministrativa del comune;
 - *Novità*, raggruppa notizie, comunicati stampa e eventi;
@@ -20,46 +18,48 @@ I contenuti del sito di un Comune sono organizzati in varie sezioni:
 - *Documenti e Dati*, presenta tutti i documenti e le statistiche che il comune produce e sono disponibili al pubblico;
 - *Area personale*, dove gli utenti possono trovare i documenti personali, lo stato d'avanzamento delle loro richieste e i messaggi o notifiche inviati dall'amministrazione comunale.
 
-Vai al documento di architettura dell'informazione **(link)**
+Gli ulteriori livelli di navigazione sono specificati nella sezione **Navigazione (anchor interno)**
 
-Vai alla rappresentazione grafica dell'architettura dell'informazione **(link)**
 
-Ontologia
----------
-Affinché il sistema informativo sia comprensibile per gli utenti è necessario che ne rappresenti la concettualizzazione implicita, ovvero le tipologie di oggetti (concreti o astratti), di agenti (persone e ruoli), di contesti (i luoghi) ed eventi (esperienze, attività, servizi), che le persone usano per rappresentarsi e per comunicare il dominio.
+Ontologia e tipologie di contenuti
+----------------------------------
+Il architettura informativa di un sito, per essere comprensibile agli utenti, deve essere strutturata come un'ontologia, ovvero la rappresentazione di un dominio concettuale (in questo caso, del Comuni). L'ontologia del sito di un Comune quindi definisce gli oggetti (concreti o astratti), gli agenti (persone e ruoli), i contesti (i luoghi) ed gli eventi (esperienze, attività, servizi) utili alla rappresentazione del Comune su un sito web e attraverso cui gli utenti (i cittadini) interagiscono con il Comune stesso. Tutti questi elementi sono suddivisi in Tipologie di contenuto, che presentano vari attributi (proprietà) che possono essere combinati per creare le pagine del sito. 
 
-La definizione di ontologie, vocabolari controllati e tassonomie esplicite è utile non solo nella definizione dell'architettura dell'informazione, ma anche per promuovere:
+La definizione di un'ontologia è utile non solo per capire l'ordine e la disposizione dei contenuti sulle varie pagine, ma anche per promuovere l'interoperabilità dei dati e il loro riuso all'interno dello stesso dominio informativo (il sito comunale, in questo caso) o in domini informativi diversi.
 
- - l'interoperabilità fra basi di dati, enti e servizi diversi, a livello nazionale, europeo, internazionale;
- - l'analisi e verifica automatica dei contenuti, attraverso specifici software;
- - il loro riuso in domini informativi diversi;
- - la rappresentazione semantica dei risultati dei motori di ricerca;
+Le **tipologie di contenuto** del sito di un Comune sono:
 
-Ogni concetto dell'ontologia è formato da una lista di *attributi* o *campi (slot)* che ne definiscono il contenuto. Alcuni attributi rappresentano una relazione con altri concetti, altri rappresentano dei valori di tipo testuale, booleano (vero o falso), numerico, temporale (data, ora) o categoriale. Altri ancora rappresentano degli oggetti digitali (file di documenti, immagini, video, audio e così via) allegati all'oggetto rappresentato.
+ - Punto di contatto
+ - Unità organizzativa
+ - Persona pubblica
+ - Incarico
+ - Luogo
+ - Notizia
+ - Evento
+ - Servizio
+ - Documento pubblico
+ - Dataset
+ - Pratica
+ - Pagamento
+ - Documento privato
+ - Messaggio
+ - Appuntamento
 
-In questo documento e nei documenti allegati ci riferiremo ai concetti formalizzati nelle ontologie con il termine di tipologie di contenuto ("content type"), in parte per una ragione di continuità con la terminologia adottata nella versione precedente, ma soprattutto perché questi documenti si rivolgono prevalentemente a chi produce i contenuti per i siti internet dei comuni e degli enti locali. In letteratura i concetti formalizzati in ontologie vengono generalmente definiti entità, o classi (termine utilizzato anche nella programmazione orientata agli oggetti).
+Ogni tipologia di contenuto è presentata su una scheda specifica del documento di architettura, dove è presente una lista di *attributi* o *campi (slot)* che vanno a formare l'effettivo contenuto. Alcuni attributi rappresentano una relazione con altri concetti, altri rappresentano dei valori di tipo testuale, booleano (vero o falso), numerico, temporale (data, ora) o categoriale. Altri ancora rappresentano degli oggetti digitali (file di documenti, immagini, video, audio e così via) allegati all'oggetto rappresentato.
 
-Tipologie di contenuti
-----------------------
-Testo da incollare
+vanno a formare pagine + riferimento alle matrici sul documento
 
-Tutti questi elementi di contenuto possono essere combinati per creare le specifiche pagine del sito (**anchor a sezione sotto**)
+attenzione
+
 
 Tassonomie e vocabolari controllati
 -----------------------------------
 Testo da incollare
 
-I campi di tipo categoriale ammettono un numero predefinito di categorie, definite da un vocabolario controllato. Si ha una tassonomia (propriamente detta) quando una o più categorie (le voci del vocabolario controllato) si dividono in categorie di secondo, terzo livello e così via, in una struttura gerarchica. Per semplicità, sono state definite tassonomie anche le categorie piatte, ovvero prive di struttura gerarchica.
-
-Nel classificare le varie risorse (luoghi, eventi, notizie ...) le voci vanno classificate nella categoria più specifica. Ad esempio un convegno va classificato nella categoria "evento culturale" -> "conferenza e summit" -> "convegno".
-
-Nelle pagine indice della categoria superiore è possibile, anzi consigliato, creare una sezione "In evidenza" dove riportare le voci delle categorie o delle sottocategorie che si ritengono più importanti, o le più recenti. Questa soluzione è utile sia nelle circostanze in cui nella categoria vi siano molte voci, per mettere in primo piano quelle considerate appunto più importanti, sia quando vi siano numerose sottocategorie con poche voci, in modo da permettere alle persone di trovarle senza dover cercare categoria per categoria.
-
-Il content management system dovrebbe nascondere le categorie (temporaneamente) vuote.
 
 Navigazione
 -----------
-La navigazione principale è organizzata in forma gerarchica, altrimenti detta alberatura, in quanto formata da una radice, che corrisponde alla home page, da rami (le sezioni del sistema informativo) e da foglie di contenuto) e rappresentata in forma di menu di navigazione. La gerarchia del menu è definita nel foglio Coreografia: sistema di navigazione
+La navigazione principale è organizzata in forma gerarchica, altrimenti detta alberatura, in quanto formata da una radice, che corrisponde alla homepage, da rami (le sezioni del sistema informativo) e da foglie di contenuto) e rappresentata in forma di menu di navigazione. La gerarchia del menu è definita nel foglio Coreografia: sistema di navigazione
 
 La gerarchia è formata da quattro voci di menu principali:
 
