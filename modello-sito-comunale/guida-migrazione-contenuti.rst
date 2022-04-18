@@ -1,12 +1,12 @@
-Guida alla migrazione dei contenuti
+Guida SEO alla migrazione dei contenuti
 ===================================
 
 Quando si modifica l’architettura o si cambia il nome dominio di un sito, è necessario prestare attenzione ad alcuni aspetti tecnici per non perdere la visibilità del sito sui motori di ricerca (Search Engine Optimization, SEO) e garantire la continuità della navigazione dei visitatori.
 
-Uno dei problemi più ricorrenti quando un sito viene ristrutturato o spostato è la possibilità che gli utenti finiscano sulle vecchie URL delle pagine, visualizzando il tipico errore 404 Pagina Non Trovata. Una corretta gestione della migrazione dei contenuti anche in termini SEO può minimizzare questi inconvenienti. Una corretta gestione della migrazione dei contenuti anche in termini SEO può minimizzare questi inconvenienti. 
+Uno dei problemi più ricorrenti quando un sito viene ristrutturato o spostato è la possibilità che gli utenti finiscano sulle vecchie URL delle pagine, visualizzando il tipico errore *404 Pagina Non Trovata*. Una corretta gestione della migrazione dei contenuti anche in termini SEO può minimizzare questi inconvenienti. 
 
-.. hint::
-   Lo scopo di questa guida, non esaustiva, è di fornire delle indicazioni per iniziare e per orientarsi nel processo di migrazione. Per informazioni più approfondite, si suggerisce di consultare le guide Google `SEO per principianti <https://developers.google.com/search/docs/beginner/get-started?hl=it>`_ e `SEO avanzata <https://developers.google.com/search/docs/advanced/guidelines/get-started?hl=it>`_.
+.. suggerimenti::
+   Lo scopo di questa guida, non esaustiva, è di fornire delle indicazioni per iniziare e per orientarsi nel processo di migrazione. Per informazioni più approfondite, si suggerisce di consultare il `kit SEO su Designers Italia <http://designers.italia.it/kit/SEO/>`_ e le guide Google `SEO per principianti <https://developers.google.com/search/docs/beginner/get-started?hl=it>`_ e `SEO avanzata <https://developers.google.com/search/docs/advanced/guidelines/get-started?hl=it>`_.
 
 
 
@@ -27,7 +27,7 @@ Uno dei problemi più ricorrenti quando un sito viene ristrutturato o spostato �
    
    7. Genera la Sitemap.xml del il nuovo sito per Google. Sul file vengono fornite informazioni sulle pagine, sulle immagini e su altri tipi di file presenti sul sito, nonché le correlazioni tra i vari elementi, la data dell’ultimo aggiornamento, la frequenza di modifica, le priorità delle varie pagine.
 
-   8. Genera il nuovo file Robots.txt per indicare le parti del sito che Googlebot può sottoporre a scansione.
+   8. `Genera il nuovo file Robots.txt <https://developers.google.com/search/docs/advanced/robots/create-robots-txt>`_ per indicare le parti del sito che Googlebot può sottoporre a scansione.
 
 Completata la fase pre-migrazione, si è pronti per le attività per la messa online.
 
