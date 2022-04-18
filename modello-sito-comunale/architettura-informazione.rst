@@ -45,7 +45,7 @@ Le **tipologie di contenuto** del sito di un Comune sono:
 - Messaggio
 - Appuntamento
 
-Ogni tipologia di contenuto è presentata su una scheda specifica del documento di architettura, dove è presente una lista di *attributi* o *campi (slot)* che vanno a formare l'effettivo contenuto. Alcuni attributi rappresentano una relazione con altri concetti, altri rappresentano dei valori di tipo testuale, booleano (vero o falso), numerico, temporale (data, ora) o categoriale. Altri ancora rappresentano degli oggetti digitali (file di documenti, immagini, video, audio e così via) allegati all'oggetto rappresentato.
+Ogni tipologia di contenuto è presentata su una scheda specifica del documento di architettura, dove è dettagliata la lista di *attributi* che vanno a formare l'effettivo contenuto. Alcuni attributi rappresentano una relazione con altri concetti, altri rappresentano dei valori di tipo testuale, booleano (vero o falso), numerico, temporale (data, ora) o categoriale. Altri ancora rappresentano degli oggetti digitali (file di documenti, immagini, video, audio e così via) allegati all'oggetto rappresentato.
 
 vanno a formare pagine + riferimento alle matrici sul documento
 
