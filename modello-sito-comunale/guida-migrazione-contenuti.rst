@@ -5,7 +5,7 @@ Quando si modifica l’architettura o si cambia il nome dominio di un sito, è n
 
 Uno dei problemi più ricorrenti quando un sito viene ristrutturato o spostato è la possibilità che gli utenti finiscano sulle vecchie URL delle pagine, visualizzando il tipico errore *404 Pagina Non Trovata*. Una corretta gestione della migrazione dei contenuti anche in termini SEO può minimizzare questi inconvenienti. 
 
-.. hint:: Suggerimento
+.. hint::
    Lo scopo di questa guida, non esaustiva, è di fornire delle indicazioni per iniziare e per orientarsi nel processo di migrazione. Per informazioni più approfondite, si suggerisce di consultare il `kit SEO su Designers Italia <http://designers.italia.it/kit/SEO/>`_ e le guide Google `SEO per principianti <https://developers.google.com/search/docs/beginner/get-started?hl=it>`_ e `SEO avanzata <https://developers.google.com/search/docs/advanced/guidelines/get-started?hl=it>`_.
 
 
