@@ -9,7 +9,6 @@ Il sito web e i servizi digitali dei Comuni italiani
 .. toctree::
    :numbered:
    :maxdepth: 3
-   :caption: Indice dei contenuti
 
    introduzione.rst
    modello-sito-comunale.rst
