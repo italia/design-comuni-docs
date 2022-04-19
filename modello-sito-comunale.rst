@@ -8,7 +8,6 @@ Il modello di sito comunale
 
 
 .. toctree::
-   :numbered:
    :maxdepth: 3
    :caption: Indice dei contenuti
 
