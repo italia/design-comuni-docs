@@ -49,7 +49,7 @@ Ogni tipologia di contenuto è presentata su una scheda specifica del documento 
 
 vanno a formare pagine + riferimento alle matrici sul documento
 
-.. important::
+.. importante::
   Il documento di architettura dell'informazione indica, per ogni tipologia di contenuto, gli **attributi obbligatori** da presentare a livello informativo.
 
 Tassonomie e vocabolari controllati
