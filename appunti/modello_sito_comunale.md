@@ -77,12 +77,7 @@ La definizione di ontologie, vocabolari controllati e tassonomie esplicite è ut
 
 Per questa ragione, nella definizione delle entità si è fatto, per quanto possibile, riferimento ai content type corrispondenti del vocabolario [schema.org](https://schema.org/)
 
-
-	Le ontologie definiscono un sistema di conoscenza attraverso **istanze individuali** di entità (i concetti), con specifici **attributi** e **relazioni**.
-	{da riscrivere}
-
-
-
+Una ontologia è una descrizione formale dei concetti di un dominio informativo e delle loro relazioni.
 Ogni concetto dell'ontologia è formato da una lista di `attributi` o `campi` (slot) che ne definiscono il contenuto. Alcuni attributi rappresentano una relazione con altri concetti, altri rappresentano dei valori di tipo testuale, booleano (vero o falso), numerico, temporale (data, ora) o categoriale. Altri ancora rappresentano degli oggetti digitali (file di documenti, immagini, video, audio e così via) *allegati* all'oggetto rappresentato.  
 I campi di tipo categoriale ammettono un numero predefinito di categorie, definite da un `vocabolario controllato`. Si ha una `tassonomia` (propriamente detta) quando una o più categorie (le voci del vocabolario controllato) si dividono in categorie di secondo, terzo livello e così via, in una struttura gerarchica. Per semplicità, sono state definite tassonomie anche le categorie *piatte*, ovvero prive di struttura gerarchica.
 
@@ -94,7 +89,7 @@ In questo documento e nei documenti allegati ci riferiremo ai concetti formalizz
 
 ### Navigazione principale
 
-La navigazione principale è organizzata in forma gerarchica, altrimenti detta `alberatura`, in quanto formata da una radice, che corrisponde alla home page, da rami (le sezioni del sistema informativo) e da *foglie* di contenuto) e rappresentata in forma di menu di navigazione.
+La navigazione principale è organizzata in forma gerarchica, altrimenti detta `alberatura`, in quanto formata da una radice, che corrisponde alla home page, da rami (le sezioni del sistema informativo) e da *foglie* di contenuto e rappresentata in forma di menu di navigazione.
 La gerarchia del menu è definita nel foglio [Coreografia: sistema di navigazione](https://docs.google.com/spreadsheets/d/1-oA52ff-UapXjh5xrCcJdeIx0eIBQ7vJtcq2OBj3WwM/edit#gid=0)
 
 La gerarchia è formata da quattro voci di menu principali:
@@ -147,10 +142,8 @@ Nell'area riservata (l'area del sito a cui si può accedere attraverso l'autenti
 
 Il modello prevede inoltre delle funzioni *trasversali* e dei servizi (descritti nella sezione {linka}). Funzioni trasversali e servizi sono realizzati utilizzando delle pagine "step" che corrispondono ai singoli passaggi del processo necessario per portare a termine l'attività da parte dell'utente.
 
-* PAGINE STEP {spiega}
+* le pagine `step` vengono utilizzate in quelle funzionalità che implicano due o più passaggi per essere portati a termine; tipicamente i servizi digitali, descritti in {link} utilizzano questa tipologia di pagina
 
-
-{funzione delle pagine?}
 
 ### La struttura delle pagine
 
@@ -162,7 +155,8 @@ L'intestazione è formata da tre componenti:
 
 * l'intestazione iniziale (`slim header`) che deve contenere a sinistra l'ente di appartenenza (per i comuni, la regione o provincia autonoma di appartenenza) e a destra il link di accesso all'area personale, con l'etichetta "Accedi all'area personale". Una volta fatto l'accesso, verrà presentato l'avatar e il nome e cognome della persona autenticata, con la possibilità di accedere a profilo e area personale.
 * l'intestazione principale (`header centrale`) deve contenere il nome dell'istituzione (nel caso dei comuni, "Comune di `nomecomune`") eventualmente preceduta dal logo/stemma, può contenere le icone con il collegamento ai social network dell'ente, e deve contenere il link al motore di ricerca;
-* l'intestazione di navigazione (`header nav`) deve contenere le voci di primo livello della navigazione, definite in {link all'excel} e descritte nei paragrafi precedenti, e può contenere 4 ulteriori collegamenti.
+* l'intestazione di navigazione (`header nav`) deve contenere le voci di primo livello della navigazione, definite in {link all'excel} e descritte nei paragrafi precedenti, e può contenere 4 ulteriori collegamenti.  
+Il tema "Bootstrap Italia 2.0" definisce la visualizzazione e il comportamento dell'intestazione di navigazione sia in modalità desktop che mobile.
 
 L'area principale (`main`) è composta da una intestazione di pagina (ad eccezione dell'home page, che ne è priva) e dalla sezione dedicata ai contenuti. Le pagine di contenuto presentano anche una sezione di navigazione interna, con l'indice alle sezioni principali del contenuto.
 
@@ -178,8 +172,13 @@ Il piè di pagina (`footer`) può {deve?} contenere la navigazione di primo e se
 * note legali
 * dichiarazioni di accessibilità
 
+#### Elementi delle pagine `step`
 
-{todo descrivere per medium e small}
+Nell'intestazione di pagina delle pagine step sono previste le briciole di pane, il nome della funzione o del servizio di cui la pagina fa parte, una numerazione del numero dello step e del numero di step totali (es `2 di 4`), il titolo del passaggio nel processo ed una sua breve descrizione.
+
+{allegare immagine hi-fi step 2/r di iscrizione alla scuola dell'infanzia}
+
+
 
 {todo: rimando ai CMS}
 
@@ -212,13 +211,57 @@ Le schede informative di servizio costituiscono la rappresentazione (la pagina d
 
 Alla scheda dovranno inoltre essere messi a disposizione, in formato elettronico, gli atti che normano il servizio e tutti i documenti di supporto.
 
+## Prenotazione appuntamenti
+
+Il sito del comune deve permettere ai cittadini di prenotare online un appuntamento presso uno degli uffici preposti.
+
+Il processo deve offrire la possibilità al cittadino di:
+
+* selezionare l'ufficio
+* scegliere fra le date e gli orari disponibili
+* scegliere l'argomento e spiegare il motivo della richiesta
+* lasciare il proprio nominativo e i propri contatti
+
+La funzionalità deve essere messa a disposizione sia come servizio stand alone (nell'elenco dei servizi) che come funzione trasversale agli altri servizi, all'interno della scheda servizio.
+
+Se l'utente accede alla funzione a partire dalla scheda di un servizio, la scelta dell'ufficio verrà circoscritta a quegli uffici competenti per quel servizio, e il titolo del servizio di accesso costituirà l'argomento pre-selezionato.  
+Se l'utente si è autenticato al portale, nominativo e contatti saranno quelli del profilo autenticato. In caso contrario verrà data al cittadino la possibilità di autenticarsi, oppure di inserire i dati nell'apposita form.
+
+
+## Valutazione dell'esperienza d'uso
+
+Al termine del processo di ogni servizio digitale l'utente deve poter valutare l'esperienza d'uso del servizio digitale stesso, in 3 passaggi.
+
+Nel primo passaggio all'utente viene posta la domanda "Quanto è stato facile per te concludere questa procedura?", a cui risponde con una scala likert 1-5 sotto forma di stelline.
+
+Se il punteggio dell'utente è inferiore a 4 (1-3) nel secondo passaggio viene posta la domanda a risposta multipla "Dove hai incontrato le maggiori difficoltà?". Le possibili risposte sono:
+
+1. a volte le indicazioni non erano chiare
+2. a volte le indicazioni non erano complete
+3. a volte non capivo se stavo procedendo correttamente 
+4. ho avuto problemi tecnici (es. nel caricamento dei file)
+5. altro
+
+Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: "Quali sono stati gli aspetti che hai preferito?". Le possibili risposte:
+
+1. le indicazioni erano chiare
+2. le indicazioni erano complete
+3. capivo sempre che stavo procedendo correttamente 
+4. non ho avuto problemi tecnici
+5. altro
+
+{va deciso quante risposte l'utente può segnare, forse una - radio button - è troppo poco}
+
+Nel terzo passaggio, all'utente viene data la possibilità di inserire un breve commento, corredato dal testo "Se vuoi, lasciaci un commento" {da rivedere}.
+
+{va smarcato il tema commento anonimo o, visto che è autenticato, chiediamo di salvare l'identità per rispondere?}
 
 
 
 
 
 
-	- prenotazione appuntamenti
+
 	- richiesta di assistenza / contatti, domande frequenti
 	- rimando ai CMS
 * Funzionalità: 
