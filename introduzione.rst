@@ -11,6 +11,7 @@ Il modello, infatti, permette a tutti i Comuni di soddisfare i requisiti previst
 
 
 .. toctree::
+   :numbered:
    :maxdepth: 3
    :caption: Indice dei contenuti
 
