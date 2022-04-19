@@ -1,9 +1,9 @@
-Il sito web e i servizi digitali al cittadino dei Comuni italiani
+Il sito web e i servizi digitali dei Comuni italiani
 =======================================
 
 .. highlights::
 
-   Documentazione tecnica e operativa per l’implementazione del modello di sito e dei servizi digitali basato sul
+   Documentazione tecnica e operativa per l’implementazione del modello di sito e dei servizi digitali per il cittadino, basati sul
    design system di Designers Italia.
 
 .. toctree::
