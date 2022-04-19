@@ -8,6 +8,7 @@ I flussi di servizio
 
 
 .. toctree::
+   :numbered:
    :maxdepth: 3
    :caption: Indice dei contenuti
 
