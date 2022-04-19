@@ -131,11 +131,11 @@ La seguente tabella riassume indicativamente quali passaggi sono presenti in qua
 
 |  | Informazioni sul servizio | Autenticazione | Consenso trattamento dati | Inserimento dati generali | Inserimento preferenze di servizio | Riepilogo | Firma (digitale) e invio | Pagamento | Verifica stato richiesta (pratica) | Storico dei pagamenti | Certificati e documenti | Pagamento post perfezionamento |
 ---|---------------------------|----------------|---------------------------|---------------------------|------------------------------------|-----------|--------------------------|-----------|------------------------------------|-----------------------|-------------------------|--------------------------------|
-| Domanda di iscrizione con graduatoria | presente | presente | presente | presente | presente | presente | presente |  |  | presente (1) |  | presente (1) |
-| Pagamento | presente | presente | presente | presente |  | presente | presente | presente |  | presente |  |  |
-| Richiesta di benefici | presente | presente | presente | presente |  | presente | presente |  | presente |  |  |  |
-| Richiesta di permessi e autorizzazioni | presente | presente | presente | presente | presente | presente | presente |  | presente |  |  |  |
-| Richiesta di documenti | presente | presente | presente | presente |  | presente | presente |  |  |  | presente |  |
+| Domanda di iscrizione con graduatoria | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |  | presente (1) |  | presente (1) |
+| Pagamento | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |  |  |
+| Richiesta di benefici | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |  |  |  |
+| Richiesta di permessi e autorizzazioni | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |  |  |  |
+| Richiesta di documenti | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: | :heavy_check_mark: |  |  |  | :heavy_check_mark: |  |
 
 
 ### Le componenti dei passaggi
