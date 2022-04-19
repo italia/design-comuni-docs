@@ -1,9 +1,9 @@
-Documentazione siti web comuni italiani
+Il sito web e i servizi digitali al cittadino dei Comuni italiani
 =======================================
 
 .. highlights::
 
-   Documentazione del modello per i siti web dei Comuni italiani basato sul
+   Documentazione tecnica e operativa per l’implementazione del modello di sito e dei servizi digitali basato sul
    design system di Designers Italia.
 
 .. toctree::
