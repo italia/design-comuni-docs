@@ -121,7 +121,7 @@ La navigazione di secondo livello dell'**Area personale** è suddivisa in: "Le m
 .. hint::
   L'adozione dei temi CMS per Wordpress o Drupal permette di impostare automaticamente la struttura del sito.
 
-Le pagine del modello
+Tipi di pagine
 ----------------------
 
 Nel modello possiamo identificare i seguenti tipi di pagine:
@@ -137,7 +137,7 @@ Nell'area riservata, l'area del sito a cui si può accedere attraverso l'autenti
 
 
 Le pagine argomento
-~~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 La struttura flessibile basata sugli argomenti permette di superare la
 necessità di sviluppare e mantenere la maggior parte dei siti tematici
@@ -167,28 +167,29 @@ proprie iniziative.
 
 
 Struttura delle pagine
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------
 
-I diversi tipi di pagina hanno componenti in parte diversi, ma la struttura principale è in buona parte comune.
+I diversi tipi di pagina hanno componenti in parte diversi, ma la struttura principale è in buona parte comune. Tutte le pagine sono formate da una intestazione (header), un'area principale (main) e da un'area piè di pagina (footer).
 
-Tutte le pagine sono formate da una intestazione (header), un'area principale (main) e da un'area piè di pagina (footer).
+L'**intestazione (header)** è formata da tre componenti:
 
-L'intestazione è formata da tre componenti:
+- l'intestazione iniziale (slim header) che deve contenere a sinistra l'ente di appartenenza (per i comuni, la regione o provincia autonoma di appartenenza) e a destra il link di accesso all'area personale, con l'etichetta "Accedi all'area personale". Una volta fatto l'accesso, verrà presentato l'avatar e il nome e cognome della persona autenticata, con la possibilità di accedere a profilo e area personale.
+-l'intestazione principale (header centrale) deve contenere il nome dell'istituzione (nel caso dei comuni, "Comune di nomecomune") eventualmente preceduta dal logo/stemma, può contenere le icone con il collegamento ai social network dell'ente, e deve contenere il link al motore di ricerca;
+- l'intestazione di navigazione (header nav) deve contenere le voci di primo livello della navigazione e può contenere 4 ulteriori collegamenti (ad esempio, a pagine argomento). Il tema "Bootstrap Italia 2.0" definisce la visualizzazione e il comportamento dell'intestazione di navigazione sia in modalità desktop che mobile.
 
-l'intestazione iniziale (slim header) che deve contenere a sinistra l'ente di appartenenza (per i comuni, la regione o provincia autonoma di appartenenza) e a destra il link di accesso all'area personale, con l'etichetta "Accedi all'area personale". Una volta fatto l'accesso, verrà presentato l'avatar e il nome e cognome della persona autenticata, con la possibilità di accedere a profilo e area personale.
-l'intestazione principale (header centrale) deve contenere il nome dell'istituzione (nel caso dei comuni, "Comune di nomecomune") eventualmente preceduta dal logo/stemma, può contenere le icone con il collegamento ai social network dell'ente, e deve contenere il link al motore di ricerca;
-l'intestazione di navigazione (header nav) deve contenere le voci di primo livello della navigazione, definite in {link all'excel} e descritte nei paragrafi precedenti, e può contenere 4 ulteriori collegamenti.
-Il tema "Bootstrap Italia 2.0" definisce la visualizzazione e il comportamento dell'intestazione di navigazione sia in modalità desktop che mobile.
-L'area principale (main) è composta da una intestazione di pagina (ad eccezione dell'home page, che ne è priva) e dalla sezione dedicata ai contenuti. Le pagine di contenuto presentano anche una sezione di navigazione interna, con l'indice alle sezioni principali del contenuto.
 
-L'intestazione di pagina è composta dalle briciole di pane, che mostrano la posizione della pagina all'interno della struttura di navigazione principale, dal titolo della pagina, da un eventuale sottotitolo o descrizione breve. Può inoltre contenere la funzione di condivisione della pagina ed un menu che abilita altre azioni (ad esempo "Scarica","Stampa","Invia").
-Le pagine indice possono contenere anche la navigazione locale delle categorie figlie o sorelle {si propone però di toglierle, a valle del test di usabilità e della valutazione euristica} e l'interfaccia del motore di ricerca.
-Le pagine di contenuto devono contenere anche la lista di argomenti definiti nella tassonomia argomenti.
+L'**area principale (main)** è composta da:
 
-Il piè di pagina (footer) può {deve?} contenere la navigazione di primo e secondo livello, e deve contenere i contenuti e i collegamenti previsti dalla normativa {link}:
+- una intestazione di pagina (ad eccezione dell'home page, che ne è priva) che presenta le breadcrumb di navigazione, il titolo della pagina e un eventuale sottotitolo o descrizione breve, e gli argomenti con cui è stato taggato il contenuto. Può inoltre contenere la funzione di condivisione della pagina ed un menu che abilita altre azioni (ad esempo "Scarica", "Stampa", "Invia").
 
-indirizzo, codice fiscale/partita IVA, contatti (compresa la posta elettronica certificata)
-riferimenti all'amministrazione trasparente
-privacy policy {ha senso tradurlo "Politiche di riservatezza" o è una forzatura eccessiva?}
-note legali
-dichiarazioni di accessibilità
+- la sezione con i contenuti principali, navigabili da un indice di pagina posto sulla sinistra.
+
+
+Il **piè di pagina (footer)** deve contenere obbligatoriamente i contenuti e i collegamenti previsti dalla normativa:
+
+- indirizzo, codice fiscale/partita IVA, contatti (compresa la posta elettronica certificata);
+- riferimenti all'amministrazione trasparente;
+- l'informativa al trattamento dei dati personali;
+- note legali;
+- `la dichiarazione di accessibilità <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_;
+- un piano di azioni future di miglioramento di eventuali risultati negativi a un test di performance del sito.
