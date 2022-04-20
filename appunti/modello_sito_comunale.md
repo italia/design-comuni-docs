@@ -271,6 +271,35 @@ Nel terzo passaggio, all'utente viene data la possibilità di inserire un breve 
 
 
 
+## Segnalazione disservizio
+
+Il comune offre ai cittadini la possibilità di segnalare un disservizio.
+
+La funzione prevede di:
+
+* assegnare una categoria alla segnalazione
+* indicare il luogo a cui la segnalazione si riferisce, attraverso l'immissione di un indirizzo o con la funzione di geotag su una mappa
+* indicare l'oggetto della segnalazione
+* aggiungere una breve descrizione
+* aggiungere delle immagini
+* allegare uno o più documenti
+
+Per quanto riguarda la categoria della segnalazione, si suggerisce di prevedere un elenco di tipologie di segnalazione. A titolo di esempio, si suggeriscono le seguenti categorie:
+
+
+* Arredo urbano
+* Illuminazione pubblica
+* Manutezione parchi giochi
+* Ordine pubblico e disturbo quiete pubblica 
+* Parchi e verde pubblico
+* Rifiuti e deiezioni
+* Servizi diretti dell’Amministrazione
+* Strade e marciapiedi
+* Tematiche ambientali
+* Trasporto pubblico
+* Viabilità
+* Altro
+
 
 
 
