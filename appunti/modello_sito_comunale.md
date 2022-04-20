@@ -97,20 +97,20 @@ La gerarchia del menu è definita nel foglio [Coreografia: sistema di navigazion
 |Primo livello | Secondo livello | Tassonomia navigazione | Tipologia di contenuto | Ulteriori tassonomie di navigazione (faccette) | Esempio di pagina-|
 |--------------|-----------------|------------------------|------------------------|------------------------------------------------|-------------------|
 |Il comune |  |  |  |  |  |  | | |
-| | Luoghi | Tipi di luogo | Luogo | Argomenti | [Comune di Cagliari | Palazzo civico](https://www.comune.cagliari.it/portale/page/it/palazzo_civico?contentId=LGO37219) |
-| | Eventi | Tipi di evento | Evento | Argomenti | [Comune di Cagliari | Insieme per vincere](https://www.comune.cagliari.it/portale/page/it/karalis_10?contentId=EVN11758) |
+| | Luoghi | Tipi di luogo | Luogo | Argomenti | [Comune di Cagliari: Palazzo civico](https://www.comune.cagliari.it/portale/page/it/palazzo_civico?contentId=LGO37219) |
+| | Eventi | Tipi di evento | Evento | Argomenti | [Comune di Cagliari: Insieme per vincere](https://www.comune.cagliari.it/portale/page/it/karalis_10?contentId=EVN11758) |
 |Amministrazione |  |  |  |  | |
-| | Organi di governo | Tipi di unità organizzativa | Unità organizzativa | Argomenti | [Comune di Cagliari | Giunta](https://www.comune.cagliari.it/portale/page/it/giunta) |
-| | Aree amministrative | Tipi di unità organizzativa | Unità organizzativa | Argomenti | [Comune di Cagliari | Pianificazione strategica e territoriale](https://www.comune.cagliari.it/portale/page/it/pianificazione_strategica_e_territoriale_it_1?contentId=ORG9625)|
-| | Uffici | Tipi di unità organizzativa | Unità organizzativa | Argomenti | [Comune di Cagliari | Gestione patrimonio mobiliare](https://www.comune.cagliari.it/portale/page/it/gestione_patrimonio_mobiliare?contentId=ORG15610) |
-| | Enti e fondazioni | Tipi di unità organizzativa | Unità organizzativa | Argomenti | [Comune di Cagliari | Fondazione Teatro Lirico](https://www.comune.cagliari.it/portale/page/it/fondazione_teatro_lirico?contentId=ORG17889) |
-| | Politici | Tipi di incarico | Persona pubblica | Argomenti | [Comune di Cagliari | Giulia Andreozzi](https://www.comune.cagliari.it/portale/page/it/giulia_andreozzi_it_1?contentId=PRS11088)  |
-| | Personale amministrativo | Tipi di incarico | Persona pubblica | Argomenti | [Comune di Cagliari | Donatella Addis](https://www.comune.cagliari.it/portale/page/it/donatella_addis?contentId=PRS13151) |
-| | Documenti e dati | Tipi di documento | Documento pubblico | Argomenti | [Comune di Cagliari | Ordinanza sindacale](https://www.comune.cagliari.it/portale/page/it/ordinanza_sindacale_282020?contentId=DOC31761) |
-|Servizi |  | Temi dei servizi | Servizio | Argomenti, Eventi della vita delle persone, Eventi della vita delle imprese, Output di servizio| [Comune di Cagliari | Rilascio pass zone a traffico limitato (Ztl) - persone fisiche](https://www.comune.cagliari.it/portale/page/it/rilascio_pass_zone_a_traffico_limitato_ztl__persone_fisiche_it_1?contentId=SRV10350) |
+| | Organi di governo | Tipi di unità organizzativa | Unità organizzativa | Argomenti | [Comune di Cagliari: Giunta](https://www.comune.cagliari.it/portale/page/it/giunta) |
+| | Aree amministrative | Tipi di unità organizzativa | Unità organizzativa | Argomenti | [Comune di Cagliari: Pianificazione strategica e territoriale](https://www.comune.cagliari.it/portale/page/it/pianificazione_strategica_e_territoriale_it_1?contentId=ORG9625)|
+| | Uffici | Tipi di unità organizzativa | Unità organizzativa | Argomenti | [Comune di Cagliari: Gestione patrimonio mobiliare](https://www.comune.cagliari.it/portale/page/it/gestione_patrimonio_mobiliare?contentId=ORG15610) |
+| | Enti e fondazioni | Tipi di unità organizzativa | Unità organizzativa | Argomenti | [Comune di Cagliari: Fondazione Teatro Lirico](https://www.comune.cagliari.it/portale/page/it/fondazione_teatro_lirico?contentId=ORG17889) |
+| | Politici | Tipi di incarico | Persona pubblica | Argomenti | [Comune di Cagliari: Giulia Andreozzi](https://www.comune.cagliari.it/portale/page/it/giulia_andreozzi_it_1?contentId=PRS11088)  |
+| | Personale amministrativo | Tipi di incarico | Persona pubblica | Argomenti | [Comune di Cagliari: Donatella Addis](https://www.comune.cagliari.it/portale/page/it/donatella_addis?contentId=PRS13151) |
+| | Documenti e dati | Tipi di documento | Documento pubblico | Argomenti | [Comune di Cagliari: Ordinanza sindacale](https://www.comune.cagliari.it/portale/page/it/ordinanza_sindacale_282020?contentId=DOC31761) |
+|Servizi |  | Temi dei servizi | Servizio | Argomenti, Eventi della vita delle persone, Eventi della vita delle imprese, Output di servizio| [Comune di Cagliari: Rilascio pass zone a traffico limitato (Ztl) - persone fisiche](https://www.comune.cagliari.it/portale/page/it/rilascio_pass_zone_a_traffico_limitato_ztl__persone_fisiche_it_1?contentId=SRV10350) |
 |Novità |  |  |  |  | |
-| | Notizie | Tipi di notizia | Notizia | Argomenti | [Comune di Cagliari | RAI UNO: Paesi che vai sulle tracce dello splendore di Cagliari](https://www.comune.cagliari.it/portale/page/it/rai_uno_paesi_che_vai_sulle_tracce_dello_splendore_di_cagliari?contentId=NVT93823) |
-| | Comunicati | Tipi di notizia | Notizia | Argomenti | [Comune di Cagliari | Graduatorie degli iscritti alle Scuole dell'infanzia comunali](https://www.comune.cagliari.it/portale/page/it/graduatorie_degli_iscritti_alle_scuole_dellinfanzia_comunali?contentId=NVT94596)  |
+| | Notizie | Tipi di notizia | Notizia | Argomenti | [Comune di Cagliari: RAI UNO: Paesi che vai sulle tracce dello splendore di Cagliari](https://www.comune.cagliari.it/portale/page/it/rai_uno_paesi_che_vai_sulle_tracce_dello_splendore_di_cagliari?contentId=NVT93823) |
+| | Comunicati | Tipi di notizia | Notizia | Argomenti | [Comune di Cagliari: Graduatorie degli iscritti alle Scuole dell'infanzia comunali](https://www.comune.cagliari.it/portale/page/it/graduatorie_degli_iscritti_alle_scuole_dellinfanzia_comunali?contentId=NVT94596)  |
 
 
 
