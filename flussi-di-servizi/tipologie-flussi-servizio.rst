@@ -11,8 +11,8 @@ Gli archetipi
 
 I cinque archetipi di percorso identificati sono:
 
-- Domanda di iscrizione a servizi, compreso lo scenario in cui l'accesso al servizio è soggetto a graduatoria e quello in cui il servizio è a pagamento
-- Pagamento di imposte, tasse, contravvenzioni o rette di servizi a pagamento
-- Richiesta di benefici economici, quali bonus e finanziamenti
-- Richiesta di permessi e autorizzazioni
-- Richiesta di documenti, certificati, attestazioni di identità
+- Iscrizione a graduatoria
+- Permessi e autorizzazioni
+- Vantaggi economici
+- Pagamenti dovuti
+- Servizi a pagamento
