@@ -14,5 +14,7 @@ I flussi di servizio
    flussi-di-servizi/tipologie-flussi-servizio.rst
    flussi-di-servizi/blocchi.rst
    flussi-di-servizi/bricks.rst
+   flussi-di-servizi/costruisci-un-servizio.rst
+   flussi-di-servizi/valutazione-servizio.rst
    flussi-di-servizi/conformita-flussi-servizio.rst
   
