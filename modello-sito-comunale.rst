@@ -1,10 +1,11 @@
 Il modello di sito comunale
-=====================
+============================
 
-.. highlights::
+Il modello permette di creare siti web comunali che rispondono ai bisogni degli utenti, con interfacce e strutture informative semplici da usare e navigare. Lo scopo è di fornire ai cittadini un chiaro punto di riferimento per trovare con facilità tutte le informazioni di cui hanno bisogno.
 
-   Documentazione ed istruzioni operative per il modello di sito web dei Comuni italiani, basato sul
-   design system di Designers Italia.
+L’adozione del modello di sito permette di aderire più facilmente alle migliori pratiche di progettazione, fornendo allo stesso tempo ai cittadini un’esperienza coerente tra le varie amministrazioni.
+
+Il modello comprende l’architettura dell’informazione, i template HTML e i temi CMS, corredati da una serie di risorse e guide pratiche a supporto.
 
 
 .. toctree::
