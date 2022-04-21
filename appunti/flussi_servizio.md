@@ -200,7 +200,7 @@ Le scale di valutazione possono essere bipolari o unipolari. Nelle scale bipolar
 Nelle scale di valutazione bipolari, la categoria centrale può esprimere sia indifferenza (né/né) sia ambivalenza (parzialmente/parzialmente; Kaplan, 1972; Dubois & Burns, 1975). Questa ambiguità rende l'interpretazione della categoria centrale nelle scale di valutazione bipolari più difficile per gli intervistati e per il ricercatore. In una scala di valutazione unipolare invece la categoria centrale rappresenta una posizione intermedia.
  
 Per quanto la categoria centrale possa costituire una “scorciatoia cognitiva” per intervistati poco interessati o senza un’opinione, si consiglia di includere una categoria che permetta a chi detiene una posizione neutrale o moderata di esprimere correttamente la propria opinione.
-Alcuni studi hanno dimostrato che l'inclusione di un'alternativa intermedia aumenta l'affidabilità e la validità delle scale.
+[Diversi studi](https://research.google/pubs/pub43811/) hanno dimostrato che l'inclusione di un'[alternativa intermedia](https://journals.sagepub.com/doi/abs/10.1177/0049124112452527) aumenta l'affidabilità e la validità delle scale.
  
 Offrire la categoria di risposta “non so”, invece, appare opportuno laddove si ritiene che il rispondente possa non avere un’opinione sul tema oggetto della valutazione, magari perché non ha ancora usufruito di un particolare servizio. In caso di valutazioni “ad hoc”, richieste alla conclusione di un processo, la categoria “non so” può essere omessa”.
 
