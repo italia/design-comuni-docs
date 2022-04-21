@@ -3,7 +3,7 @@ Scheda informativa di servizio al cittadino
 
 La scheda servizio è il punto d'accesso dei cittadini a tutti i servizi comunali, digitali e non digitali. 
 
-La scheda servizio è stata progettata sulla base degli indicatori UE degli `eGovernment Benchmark 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1/language-en>`_, che valutano la qualità dei servizi digitali in base a:
+La scheda servizio è stata progettata sulla base degli indicatori UE dell'`eGovernment Benchmark 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1/language-en>`_, che valutano la qualità dei servizi digitali in base a:
 
 - il livello di digitalizzazione, ovvero la disponibilità di servizi digitali (online) e la loro usabilità - con particolare attenzione all'utilizzo su dispositivi mobili;
 - il livello di trasparenza, soprattutto in merito alla chiarezza delle informazioni relative ai servizi offerti, alla responsabilità di chi deve garantire i servizi, alla qualità delle prestazioni e al rispetto della sicurezza e della riservatezza dei dati personali dei cittadini;
@@ -28,4 +28,9 @@ Gli *attributi* delle schede informative di servizio sono presentati nella sched
 .. important::
   La scheda *Tipologia di contenuto: Servizio* del documento di architettura dell'informazione indica gli attributi obbligatori da presentare sulla scheda informativa di servizio al cittadino.
   
+  
+Le tassonomie di riferimento per la scheda servizio sono:
+
+- la tassonomia "Categorie di servizio", che serve a classificare il servizio e a guidare nel posizionamento della pagina nella struttura del sito;
+- le tassonomie "Eventi della vita delle persone" ed "Eventi della vita delle imprese", le cui voci servono da tag (metadati) sulle le varie schede per influenzare i contenuti presentati nella sezione "Servizi correlati".
  
