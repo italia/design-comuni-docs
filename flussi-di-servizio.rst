@@ -1,10 +1,11 @@
 I flussi di servizio
 =====================
 
-.. highlights::
+Lo scopo dei nuovi flussi di servizio è di creare servizi digitali per permettere ai cittadini di inoltrare richieste o completare adempimenti verso l’amministrazione comunale direttamente online.
 
-   Documentazione dei flussi di servizio per i siti web dei Comuni italiani basato sul
-   design system di Designers Italia.
+Grazie a una serie di pattern e di moduli ricorrenti, i flussi di interfaccia facilitano la creazione di processi e interazioni semplici, veloci ed accessibili.
+
+Le risorse includono 5 tipologie di flusso di interfaccia, una libreria di componenti e una serie di prototipi a media e alta definizione.
 
 
 .. toctree::
