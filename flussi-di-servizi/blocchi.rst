@@ -69,7 +69,6 @@ La tabella (**numero**) riassume indicativamente quali passaggi sono presenti pe
      -  ✔
      -  ✔
  
- 
    * - Conferma e invio
      -  ✔
      -  ✔
