@@ -8,7 +8,7 @@ Nella fase di ricerca e progettazione sono stati identificati i seguenti passagg
 - **Acconsentire al trattamento dei dati che verranno inseriti**. Questo passaggio è collocato all'inizio della procedura per permettere al sistema di raccogliere i dati necessari. All'utente vengono presentati i testi di tutte le autorizzazioni che è necessario autorizzare. L'azione principale permette all'utente di accettare tutto e proseguire.
 - **Inserire/Controllare i dati generali**: in questo passaggio vengono raccolti i dati relativi al richiedente (la persona autenticata) e, in base al servizio, i dati relativi ad altre persone fisiche (es il bambino e l'altro genitore per l'iscrizione all'asilo nido) o giuridiche (es richiesta finanziamenti per aziende), del nucleo famigliare (es. per le graduatorie per l'asilo nido), di immobili (es per pagamento imposte e tasse) o autoveicoli (es per richiesta permesso ZTL). In base al principio "una tantum" il servizio è tenuto a non richiedere le informazioni già in possesso della pubblica amministrazione (ad esempio attraverso l'Anagrafe Nazionale della Popolazione Residente).
 - **Inserire i dati specifici del servizio (Preferenze di servizio)**: in questo passaggio vengono raccolti tutti gli dati necessari per perfezionare la richiesta.
-- **Riepilogo, firma e invio**: questo passaggio permette all'utente di verificare le informazioni immesse o recuperate dal sistema per assicurarsi della  loro correttezza. Attraverso l'azione principale "Firma e invia" si scatena il processo di firma digitale ed invio della domanda. In questo passaggio il sistema deve dare contezza del fatto che, procedendo, il cittadino sta firmando digitalmente la richiesta ed è pertanto soggetto alle responsabilità che ne convengono {rivedere forma in termini legali}
+- **Riepilogo, conferma e invio**: questo passaggio permette all'utente di verificare le informazioni immesse o recuperate dal sistema per assicurarsi della  loro correttezza. Attraverso l'azione principale "Conferma e invia" viene inviata la domanda. In questo passaggio il sistema deve dare indicazione del fatto che, procedendo, le informazioni hanno valore di dichiarazione e che il cittadino è pertanto soggetto alle responsabilità che ne convengono.
 - **Effettuare un pagamento**, se possibile scegliendo il canale e perfezionando contestualmente il processo. In tutte le circostanze possibili, il servizio è invitato a mettere a disposizione i servizi PagoPA.
 - **Ricevere conferma di ricezione della richiesta o del pagamento**: in questo passaggio il sistema conferma la ricezione della rrichiese a, l'eventuale codice di protocollo ed eventualmente l'invio di un riepilogo all'indirizzo di posta elettronica del cittadino. Il cittadino viene inoltre invitato ad accedere al cruscotto dell'area personale, dove ha la possibilità di verificare lo stato della pratica o, in caso di pagamento, la presenza della ricevuta di pagamento.
 
@@ -33,5 +33,58 @@ La tabella (**numero**) riassume indicativamente quali passaggi sono presenti pe
      -  ✔
      -  ✔
 
+   * - Autenticazione
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
 
+   * - Consenso trattamento dati
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     
+   * - Inserimento dati generali
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     
+    * - Inserimento preferenze di servizio
+     -  ✔
+     -  ✔
+     -  
+     -  
+     -  
 
+   * - Riepilogo
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+
+   * - Conferma e invio
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     
+    * - Pagamento
+     -  
+     -  
+     -  
+     -  ✔
+     -  ✔
+   
+   * - Verifica stato della pratica 
+     -  
+     -  ✔
+     -  ✔
+     -  
+     -
