@@ -17,7 +17,7 @@ Al cittadino deve inoltre essere consentito di valutare l'esperienza d'uso del s
 La tabella (**numero**) riassume indicativamente quali passaggi sono presenti per ogni archetipo di flusso.
 
 .. list-table:: I passaggi degli archetipi.
-   :widths: 10 5 5 5 5 5
+   :widths: 5 5 5 5 5 5
    :header-rows: 1
 
    * - Passaggi / archetipi
