@@ -40,3 +40,68 @@ La tabella (**numero**) riassume indicativamente quali passaggi sono presenti pe
      -  ✔
      -  ✔
      -  ✔
+
+   * - Consenso trattamento dati
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     
+   * - Inserimento dati generali
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     
+    * - Inserimento preferenze di servizio
+     -  ✔
+     -  ✔
+     -  ✖
+     -  ✖
+     -  ✖
+
+   * - Riepilogo
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+ 
+   * - Conferma e invio
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     -  ✔
+     
+    * - Pagamento
+     -  ✖
+     -  ✖
+     -  ✖
+     -  ✔
+     -  ✔
+   
+   * - Verifica stato della pratica 
+     -  ✖
+     -  ✔
+     -  ✔
+     -  ✖
+     -  ✖
+     
++------------------+---------------+----------------+-----------+-----------+-----------+
+|                  | Iscrizione    | Permessi e     | Vantaggi  | Pagamenti | Servizi a |
+|                  | a graduatoria | autorizzazioni | economici | dovuti    | pagamento |
++==================+===============+================+===========+===========+===========+
+| Informazioni     | ✔             | ✔              | ✔         | ✔         | ✔         |
+| sul servizio     |               |                |           |           |           |
++------------------+---------------+----------------+-----------+-----------+-----------+
+| Autenticarsi     | ✔             | ✔              | ✔         | ✔         | ✔         |
++------------------+---------------+----------------+-----------+-----------+-----------+
+| Consenso         | ✔             | ✔              | ✔         | ✔         | ✔         |           
+| trattamento dati |               |                |           |           |           |
++------------------+---------------+----------------+-----------+-----------+-----------+
+| Inserimento      | ✔             | ✔              | ✔         | ✔         | ✔         | 
+| dati generali    |               |                |           |           |           |
++------------------+---------------+----------------+-----------+-----------+-----------+
