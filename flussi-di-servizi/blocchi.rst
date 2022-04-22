@@ -57,9 +57,9 @@ La tabella (**numero**) riassume indicativamente quali passaggi sono presenti pe
     * - Inserimento preferenze di servizio
      -  ✔
      -  ✔
-     -  
-     -  
-     -  
+     -  ✖
+     -  ✖
+     -  ✖
 
    * - Riepilogo
      -  ✔
@@ -76,15 +76,15 @@ La tabella (**numero**) riassume indicativamente quali passaggi sono presenti pe
      -  ✔
      
     * - Pagamento
-     -  
-     -  
-     -  
+     -  ✖
+     -  ✖
+     -  ✖
      -  ✔
      -  ✔
    
    * - Verifica stato della pratica 
-     -  
+     -  ✖
      -  ✔
      -  ✔
-     -  
-     -
+     -  ✖
+     -  ✖
