@@ -7,7 +7,7 @@ Il documento di architettura dell’informazione **(link)** presenta:
 
 - le **tipologie di contenuto** e le loro proprietà, che servono a creare le varie pagine del sito;
 - le **tassonomie** e i **vocabolari controllati**, utili a classificare i vari contenuti del sito per renderli fruibili tramite motore di ricerca interno e a definire la struttura di secondo e terzo livello del sito;
-- la coreografia del sito, ovvero la **struttura (alberatura)** eil **sistema di navigazione**.
+- la coreografia del sito, ovvero la **struttura (alberatura)**, il **sistema di navigazione** e i **tipi di pagina**.
 
 
 L'architettura del sito di un Comune è organizzata in alcune sezioni principali, corrispondenti al primo livello di navigazione:
@@ -45,7 +45,7 @@ Le **tipologie di contenuto** del sito di un Comune sono:
 - Messaggio;
 - Appuntamento.
 
-La scheda *Ontologia, Tassonomie e Coreografia* (**link**) ripresenta la lista di tutte le tipologie di contenuto del sito di un Comune, con i link alle rispettive schede di dettaglio. La matrice "Tipologie di contenuto/Tipologie di contenuto" mostra come queste sono combinabili tra di loro per formare le pagine del sito del Comune. 
+La lista delle Tipologie di contenuto è riportata anche nella scheda *Ontologia, Tassonomie e Coreografia* (**link**) del documento di architettura, con i link alle rispettive schede di dettaglio. La matrice "Tipologie di contenuto/Tipologie di contenuto" mostra come queste sono combinabili tra di loro per formare le pagine del sito del Comune. 
 
 Le schede di dettaglio delle tipologie di contenuto presentano la lista di *attributi* che vanno a formare l'effettivo contenuto. Gli attributi sono pezzi di informazione, rappresentabili principalmente valori testuali, booleani (vero o falso), numerici, temporali (data e ora) o categoriali, ma anche allegati digitali (file di documenti, immagini, video, audio).
 
@@ -80,7 +80,9 @@ Le tassonomie del sito di un Comune sono:
 - Stati di una pratica;
 - Licenze.
 
-Le tassonomie presentano vari livelli di granularità. Nel classificare i contenuti (luoghi, eventi, notizie, etc.) bisogna usare il maggior livello di dettaglio possibile. Ad esempio, la pagina informativa di un convegno userà la tassonomia "Tipi di evento", e in particolare la voce di terzo livello "Convegno" ("Evento culturale" > "Conferenza e summit" > "Convegno".
+La lista delle tassonomie è riportata anche nella scheda *Ontologia, Tassonomie e Coreografia* (**link**) del documento di architettura, con i link alle rispettive schede di dettaglio. La matrice Tipologie/Tassonomie indica le relazioni tra le Tipologie di contenuto e le tassonomie.
+
+Come si può vedere sulla schede dettaglio nel documento di architettura, le tassonomie presentano vari livelli di gerarchia e granularità. Nel classificare i contenuti (luoghi, eventi, notizie, etc.) bisogna usare il maggior livello di dettaglio possibile. Ad esempio, la pagina informativa di un convegno userà la tassonomia "Tipi di evento", e in particolare la voce di terzo livello "Convegno" ("Evento culturale" > "Conferenza e summit" > "Convegno").
 
 Nelle pagine indice della categoria superiore è possibile, anzi consigliato, creare una sezione "In evidenza" dove riportare le voci delle categorie o delle sottocategorie che si ritengono più importanti, o le più recenti. Questa soluzione è utile sia nelle circostanze in cui nella categoria vi siano molte voci, per mettere in primo piano quelle considerate appunto più importanti, sia quando vi siano numerose sottocategorie con poche voci, in modo da permettere alle persone di trovarle senza dover cercare categoria per categoria.
 
@@ -89,7 +91,7 @@ Il content management system dovrebbe nascondere le categorie (temporaneamente) 
 
 Navigazione e alberatura
 ------------------------
-La navigazione del sito del Comune è  definita nel foglio Coreografia: sistema di navigazione. È organizzata in forma gerarchica ed è chiamata *alberatura*, in quanto formata da una radice (l'homepage) da cui si diramano le varie sezioni, organizzate in pagine lista e pagine di dettaglio.
+La navigazione del sito del Comune è  definita nel foglio Coreografia: sistema di navigazione (**link**). È organizzata in forma gerarchica ed è chiamata *alberatura*, in quanto formata da una radice (l'homepage) da cui si diramano le varie sezioni, organizzate in pagine lista e pagine di dettaglio.
 
 La struttura del sito è presentata agli utenti sotto forma di *menu di navigazione*.
 
@@ -104,7 +106,7 @@ La navigazione di secondo livello della sezione **Amministrazione** è suddivisa
 - "Politici" e "Personale amministrativo", le cui sottostrutture sono definite dalla tassonomia "Tipi di incarico";
 - "Documenti e dati", la cui sottostuttura è definita dalla tassonomia "Tipi di documento".
 
-La navigazione di secondo livello della sezione **Novità** è suddivisa in: "Notizie" e "Comunicati", le cui strutture sono informate dalla tassonomia "Tipi di notizia";
+La navigazione di secondo livello della sezione **Novità** è suddivisa in: "Notizie" e "Comunicati", le cui sottostrutture sono definite dalla tassonomia "Tipi di notizia";
 
 
 La navigazione di secondo livello della sezione **Servizi** è suddivisa in una serie di pagine categoria e la struttura è informata dalla tassonomia "Categorie di servizi". Sotto ogni categoria, sono presenti le singole schede servizio, che vanno a formare il terzo livello.
@@ -172,7 +174,7 @@ proprie iniziative.
 Struttura delle pagine
 ----------------------
 
-I diversi tipi di pagina hanno componenti in parte diversi, ma la struttura principale è in buona parte comune. Tutte le pagine sono formate da una intestazione (header), un'area principale (main) e da un'area piè di pagina (footer).
+Sebbene i componenti e i contenuti delle pagine siano diversi, la struttura principale è in buona parte comune. Tutte le pagine, infatti, sono formate da una intestazione (header), un'area principale (main) e da un'area piè di pagina (footer).
 
 L'**intestazione (header)** è formata da tre componenti:
 
