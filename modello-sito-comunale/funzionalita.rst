@@ -1,10 +1,15 @@
 Funzionalità
 ============
 
+L'introduzione di funzionalità sul sito di un Comune migliora l'usabilità del sito stesso e permette di aderire alle indicazioni europee dell'`eGovernment Benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_.
+
+Le funzionalità, infatti, rispondono al *top-level benchmark* dell'**User-centricity (Centralità dell'utente)**, permettendo all'utente di completare alcune operazioni interamente online: la prenotazione di un appuntamento presso gli uffici comunali, la segnalazione di un disservizio e la possibilità di lasciare feedback sulla chiarezza informativa del sito.
+
+
 Prenotazione appuntamento
 --------------------------
 
-Il sito del comune deve permettere ai cittadini di prenotare online un appuntamento presso uno degli uffici preposti.
+Il sito del Comune deve permettere ai cittadini di prenotare online un appuntamento presso uno degli uffici preposti.
 
 Il processo deve offrire la possibilità al cittadino di:
 
@@ -21,9 +26,57 @@ Se l'utente si è autenticato al portale, nominativo e contatti saranno quelli d
 
 Segnalazione disservizio
 ------------------------
-Testo da incollare
+
+Il sito del Comune deve permettere ai cittadini di segnalare un disservizio.
+
+La funzionalità deve offire la possibilità al cittadino di:
+
+- assegnare una categoria alla segnalazione;
+- indicare il luogo a cui la segnalazione si riferisce, attraverso l'immissione di un indirizzo o con la funzione di geotag su una mappa;
+- indicare l'oggetto della segnalazione;
+- aggiungere una breve descrizione;
+- aggiungere delle immagini;
+- allegare uno o più documenti;
+
+Per la categoria della segnalazione, si suggerisce di prevedere un elenco di tipologie di segnalazione. A titolo di esempio, si suggeriscono le seguenti categorie:
+
+- Arredo urbano
+- Illuminazione pubblica
+- Manutezione parchi giochi
+- Ordine pubblico e disturbo quiete pubblica
+- Parchi, verde pubblico e ambiente
+- Rifiuti e deiezioni
+- Servizi dell’Amministrazione
+- Strade e marciapiedi
+- Trasporto pubblico
+- Viabilità
+- Altro
 
 
 Valutazione della chiarezza informativa delle pagine
 ----------------------------------------------------
-Testo da incollare
+
+Il sito del Comune deve permettere ai cittadini di valutare la chiarezza informative delle pagine.
+
+La funzionalità si articola nei seguenti passaggi:
+
+1. viene posta la domanda "Le informazioni sulla pagina sono chiare?", a cui l'utente risponde con una scala likert 1-5 sotto forma di stelline;
+
+2. se il punteggio dell'utente è inferiore a 4 (1-3),  viene posta la domanda a risposta multipla "Dove hai incontrato le maggiori difficoltà?". Le possibili risposte sono:
+
+- A volte le indicazioni non erano chiare
+- A volte le indicazioni non erano complete
+- A volte non capivo se stavo procedendo correttamente 
+- Ho avuto problemi tecnici
+- Altro
+
+Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: "Quali sono stati gli aspetti che hai preferito?". Le possibili risposte:
+
+- Le indicazioni erano chiare
+- Le indicazioni erano complete
+- Capivo sempre che stavo procedendo correttamente
+- Non ho avuto problemi tecnici
+- Altro
+
+
+3. viene data la possibilità all'utente di inserire un breve commento, corredato dal testo "Se vuoi, lasciaci un commento" {da rivedere}.
