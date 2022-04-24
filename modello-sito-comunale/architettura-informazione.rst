@@ -144,7 +144,7 @@ Nell'area riservata, l'area del sito a cui si può accedere attraverso l'autenti
 Le pagine argomento
 --------------------
 
-La struttura flessibile basata sugli argomenti permette di superare la
+La struttura flessibile basata sulla lista degli argomenti di un Comune permette di superare la
 necessità di sviluppare e mantenere la maggior parte dei siti tematici
 che spesso proliferano a fianco del sito istituzionale creando
 problematiche di gestione, sviluppo e aggiornamento.
@@ -178,8 +178,8 @@ Sebbene i componenti e i contenuti delle pagine siano diversi, la struttura prin
 
 L'**intestazione (header)** è formata da tre componenti:
 
-- l'intestazione iniziale (slim header) che deve contenere a sinistra l'ente di appartenenza (per i comuni, la regione o provincia autonoma di appartenenza) e a destra il link di accesso all'area personale, con l'etichetta "Accedi all'area personale". Una volta fatto l'accesso, verrà presentato l'avatar e il nome e cognome della persona autenticata, con la possibilità di accedere a profilo e area personale.
--l 'intestazione principale (header centrale) deve contenere il nome dell'istituzione (nel caso dei comuni, "Comune di nomecomune") eventualmente preceduta dal logo/stemma, può contenere le icone con il collegamento ai social network dell'ente, e deve contenere il link al motore di ricerca;
+- l'intestazione iniziale (slim header) che deve contenere a sinistra l'ente di appartenenza (per i comuni, la regione o provincia autonoma di appartenenza) e a destra il link di accesso all'area personale, con l'etichetta "Accedi all'area personale". Una volta fatto l'accesso, verrà presentato l'avatar e il nome e cognome della persona autenticata, con la possibilità di accedere al profilo.
+- l 'intestazione principale (header centrale) deve contenere il nome dell'istituzione (nel caso dei comuni, "Comune di nomecomune") eventualmente preceduta dal logo/stemma, può contenere le icone con il collegamento ai social network dell'ente, e deve contenere il link al motore di ricerca;
 - l'intestazione di navigazione (header nav) deve contenere le voci di primo livello della navigazione e può contenere 4 ulteriori collegamenti (ad esempio, a pagine argomento). Il tema "Bootstrap Italia 2.0" definisce la visualizzazione e il comportamento dell'intestazione di navigazione sia in modalità desktop che mobile.
 
 
@@ -190,11 +190,14 @@ L'**area principale (main)** è composta da:
 - la sezione con i contenuti principali, navigabili da un indice di pagina posto sulla sinistra.
 
 
-Il **piè di pagina (footer)** deve contenere obbligatoriamente i contenuti e i collegamenti previsti dalla normativa:
+Il **piè di pagina (footer)** deve contenere obbligatoriamente i contenuti e i collegamenti previsti dalla `normativa <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2013-04-05&atto.codiceRedazionale=13G00076>`_:
 
 - indirizzo, codice fiscale/partita IVA, contatti (compresa la posta elettronica certificata);
-- riferimenti all'`amministrazione trasparente <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2013-04-05&atto.codiceRedazionale=13G00076>`_;
+- riferimenti all'`amministrazione trasparente;
 - l'informativa al trattamento dei dati personali;
 - eventuali note legali;
-- `la dichiarazione di accessibilità <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_;
-- un piano di azioni future di miglioramento di eventuali risultati negativi a un test di performance del sito.
+- `la dichiarazione di accessibilità <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_.
+
+Inoltre, per i Comuni che accedono ad eventuali finanziamenti per l'aggiornamento del sito, nel caso di performance negativa del sito secondo quanto calcolato e verificato dalla piattaforma PAdigitale2026 tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`_, il footer dovrà contenere:
+
+- un piano di miglioramento del sito che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa e le relative tempistiche di realizzazione attese.
