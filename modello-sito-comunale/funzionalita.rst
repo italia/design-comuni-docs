@@ -58,11 +58,15 @@ Valutazione della chiarezza informativa delle pagine
 
 Il sito del Comune deve permettere ai cittadini di valutare la chiarezza informative delle pagine.
 
+Questo componente è stato progettato usando una scala che vuole misurare la chiarezza dell'interazione e, in base alla valutazione ricevuta dall'utente, offre domande chiuse e aperte in maniera standardizzata, in modo tale da poter raccogliere feedback utile al Comune per migliorare le pagine del sito.
+
 La funzionalità si articola nei seguenti passaggi:
 
 1. viene posta la domanda "Le informazioni sulla pagina sono chiare?", a cui l'utente risponde con una scala likert 1-5 sotto forma di stelline;
 
-2. se il punteggio dell'utente è inferiore a 4 (1-3),  viene posta la domanda a risposta multipla "Dove hai incontrato le maggiori difficoltà?". Le possibili risposte sono:
+2. in base alla risposta dell'utente, il secondo passaggio presenta 2 varianti:
+
+Se il punteggio dell'utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla "Dove hai incontrato le maggiori difficoltà?". Le possibili risposte sono:
 
 - A volte le indicazioni non erano chiare
 - A volte le indicazioni non erano complete
