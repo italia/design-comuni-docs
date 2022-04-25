@@ -43,5 +43,4 @@ Dati strutturati e interoperabilità
 
 Per migliorare ulteriormente l'esperienza digitale dei cittadini, è in lavorazione una lista di tag semantici con cui taggare i contenuti delle schede servizio. La risorsa di riferimento è Schema.org, un vocabolario di dati strutturati che consente ai motori di ricerca di comprendere i significati alla base dei contenuti di una pagina. 
 
-L'utilizzo dei tag di Schema.org per i contenuti delle schede servizio permette di facilitare il cittadino nla ricerca dei contenuti del sito comunale sui motori di ricerca, come Google. Grazie ai tag, infatti, i motori di ricerca saranno in grando di fornire suggerimenti più
- precisi e rilevanti alle ricerche dei cittadini.
+L'utilizzo dei tag di Schema.org per i contenuti delle schede servizio permette di facilitare il cittadino nla ricerca dei contenuti del sito comunale sui motori di ricerca, come Google. Grazie ai tag, infatti, i motori di ricerca saranno in grado di fornire suggerimenti più precisi e rilevanti alle ricerche dei cittadini.
