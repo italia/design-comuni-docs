@@ -2,7 +2,7 @@ La ricerca
 =====================
 
 .. note::
-   Le attività di ricerca descritte in questo capitolo si riferiscono alla ricerca iniziale, effettuata nel 2018. La descrizione delle attività di ricerca effettuate a marzo 2022 è in aggiornamento.
+   Le attività di ricerca descritte in questo capitolo si riferiscono alla ricerca iniziale, effettuata nel 2018. La descrizione delle attività di ricerca, effettuate a febbraio 2022, che hanno portato al nuovo modello di sito e ai flussi di servizio è in aggiornamento e sarà presto disponibile alla consultazione.
 
 La fase di ricerca iniziale ha preso in considerazione l’analisi della
 situazione esistente e dei bisogni degli utenti con diverse modalità
