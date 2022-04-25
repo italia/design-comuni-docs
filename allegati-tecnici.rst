@@ -37,5 +37,5 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
    
    * - Prototipi a media ed alta definizione per i servizi (**alcune risorse in lavorazione**)
      - Figma
-     - Vai ai prototipi <https://www.figma.com/proto/xSkfRizm0SsSg8Wytg1MRM/Hub-Link?page-id=0%3A1&node-id=1%3A707&viewport=241%2C48%2C0.68&scaling=min-zoom>`_
+     - `Vai ai prototipi <https://www.figma.com/proto/xSkfRizm0SsSg8Wytg1MRM/Hub-Link?page-id=0%3A1&node-id=1%3A707&viewport=241%2C48%2C0.68&scaling=min-zoom>`_
      
