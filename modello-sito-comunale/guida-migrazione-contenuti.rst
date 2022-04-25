@@ -1,58 +1,46 @@
-Guida SEO alla migrazione dei contenuti
+Guida alla migrazione dei contenuti
 ===================================
 
-Quando si modifica l’architettura o si cambia il nome dominio di un sito, è necessario prestare attenzione ad alcuni aspetti tecnici per non perdere la visibilità del sito sui motori di ricerca (Search Engine Optimization, SEO) e garantire la continuità della navigazione dei visitatori.
-
-Uno dei problemi più ricorrenti quando un sito viene ristrutturato o spostato è la possibilità che gli utenti finiscano sulle vecchie URL delle pagine, visualizzando il tipico errore *404 Pagina Non Trovata*. Una corretta gestione della migrazione dei contenuti anche in termini SEO può minimizzare questi inconvenienti. 
-
-.. hint::
-   Lo scopo di questa guida, non esaustiva, è di fornire delle indicazioni per iniziare e per orientarsi nel processo di migrazione. Per informazioni più approfondite, si suggerisce di consultare il `kit SEO su Designers Italia <http://designers.italia.it/kit/SEO/>`_ e le guide Google `SEO per principianti <https://developers.google.com/search/docs/beginner/get-started?hl=it>`_ e `SEO avanzata <https://developers.google.com/search/docs/advanced/guidelines/get-started?hl=it>`_.
-
-
-
-.. topic:: Attività pre-migrazione
-   :class: procedure
-   
-   1. Analizza la performance dei contenuti del vecchio sito con Google Analytics per decidere cosa migrare e cosa no. Le pagine che hanno ottenuto più visite sono quelle per cui è necessario prestare maggiore attenzione durante la migrazione.
-   
-   2. Individua le keyword ad alto volume di traffico che portano le landing page principali sulle prime prime pagine di Google. Assicurati di usare queste keyword nei contenuti del nuovo sito.
-   
-   3. Scarica l’elenco dei link in ingresso (backlinks) da altri siti tramite Google Search Console.
-   
-   4. Prepara una mappatura excel di tutte le URL e dei meta tag del vecchio sito e confrontale con la mappa del nuovo sito.
-   
-   5. Reindirizza puntualmente ogni URL a quelle corrispondenti del nuovo sito, tramite reindirizzamenti 301 (definitivi) o 302 (temporanei). Se un pagina del sito precedente non ha una corrispondenza con una del nuovo, è consigliato scegliere una pagina che tratti un argomento affine. 
-   
-   6. Imposta una pagina personalizzata per l’errore 404, così che gli utenti riescano a proseguire la navigazione all’interno del nuovo sito web.
-   
-   7. Genera la Sitemap.xml del il nuovo sito per Google. Sul file vengono fornite informazioni sulle pagine, sulle immagini e su altri tipi di file presenti sul sito, nonché le correlazioni tra i vari elementi, la data dell’ultimo aggiornamento, la frequenza di modifica, le priorità delle varie pagine.
-
-   8. `Genera il nuovo file Robots.txt <https://developers.google.com/search/docs/advanced/robots/create-robots-txt>`_ per indicare le parti del sito che Googlebot può sottoporre a scansione.
-
-Completata la fase pre-migrazione, si è pronti per le attività per la messa online.
-
+La migrazione dei contenuti è uno dei processi fondamentali del redesign di un sito web. Consiste nella riorganizzazione e nello spostamento dei contenuti (testi, immagini, video) dal vecchio sito alla struttura del nuovo.
+ 
+Il redesign di un sito, infatti, è un’ottima opportunità per riorganizzare, riscrivere e ristrutturare i contenuti al fine di renderli più efficienti e allineati ai bisogni degli utenti.
+ 
+ 
 .. topic:: Attività di migrazione
    :class: procedure
    
-   1. Riporta nel nuovo codice sorgente lo script di tracciamento di Google Analytics o Tag Manager.
+   1. Usa il `Modello di analisi dei contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`_ e fai una lista di tutte le pagine del vecchio sito, indicando le struttura gerarchica e le URL.
    
-   2. Attiva e verifica i reindirizzamenti 301 e 302, evitando possibili catene di redirect. I reindirizzamenti vengono generalmente caricati manualmente nel CMS, importando un apposito file CSV.
+   2. Passa in rassegna le pagine del vecchio sito, aiutandoti con strumenti per l'analisi dei dati come `Google Analytics <https://analytics.google.com/analytics/web/provision/#/provision>`_ e segna sul Modello di analisi dei contenuti quali sono le pagine più visitate, i contenuti più efficaci per gli utenti ed eventuali problematiche come dati mancanti o incorretti. Questa operazione è chiamata “content audit” e ti aiuterà a decidere cosa migrare e cosa no.
    
-   3. `Verifica la proprietà del vecchio e del nuovo sito <https://support.google.com/webmasters/answer/9008080>`_ su Google Search Console.
+   3. Consulta la struttura del nuovo sito **aggiungere link** e affiancala a quella del vecchio, cercando il più possibile di far corrispondere una ad una le pagine (corrispondenza biunivoca).
    
-   4. Aggiorna i link in ingresso (backlinks) sui profili social e su altri siti web.
+   4. A ogni pagina, assegna la corretta Tipologia di contenuto dal `documento di architettura <https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=782511705>`_.
    
-Completata la migrazione, è opportuno effettuare alcune verifiche per controllare l'indicizzazione, i posizionamenti e la performance del nuovo sito.
-
-.. topic:: Attività post-migrazione
+   5. Controlla gli attributi obbligatori per ogni Tipologia di contenuto e riscrivi i tuoi contenuti. Consulta la `Guida al linguaggio della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html>`_ per allineare il linguaggio in termini di tono di voce e vocabolario.
+   
+   6. Scegli i contenuti multimediali (immagini e video) da migrare o individuane di nuovi. Prediligi i contenuti di buona qualità e con una risoluzione ottimizzata per il web. Ricorda che se i contenuti ritraggono delle persone, devi per legge `ottenere il loro consenso <https://docs.google.com/document/d/1HHyrk8L86XHuC0NOCAnSDY68Bjbjpp0vxvk5cL330vo/edit>`_.
+   
+   7. Stabiliti i titoli delle pagine, prendi nota delle nuove URL e affiancale a quelle vecchie su un file CSV. Questo documento ti servirà per impostare i reindirizzamenti (redirects) una volta che il nuovo sito è online. Sul documento, specifica se si tratta di reindirizzamenti 301 (definitivi) o 302 (temporanei). Se un pagina del sito precedente non ha una corrispondenza con una del nuovo, è consigliato scegliere una pagina che tratti un argomento affine.
+ 
+ 
+Per migliorare l’efficacia della migrazione, si suggerisce di effettuare una serie di attività di perfezionamento e verifiche di performance del nuovo sito.
+ 
+ 
+.. topic:: Attività di perfezionamento
    :class: procedure
    
-   1. Assicurati che il nuovo codice di monitoraggio di Google Analytics sia stato inserito correttamente su tutte le pagine del sito.
+   1. Con l’aiuto di strumenti come `Google Keyword Planner <https://ads.google.com/intl/it_it/home/tools/keyword-planner/>`_ e `Google Trends <https://trends.google.it/trends/?geo=IT>`_, individua le keyword ad alto volume di traffico che portano i contenuti a comparire tra le prime pagine di risultati ricerca di Google. Usa le keyword individuate per migliorare i titoli delle pagine, le meta description e i contenuti nel corpo delle pagine.
    
-   2. Effetua un crawling del nuovo sito tramite software di controllo SEO per evidenziare rapidamente eventuali problemi.
+   2. Attiva e verifica i reindirizzamenti 301 e 302, evitando possibili catene di redirect. I reindirizzamenti vengono generalmente caricati manualmente nel CMS, importando un file CSV.
    
-   3. Controlla l’indicizzazione delle pagine del nuovo sito su Google Search Console.
+   3. Chiedi a Google di `effettuare una nuova indicizzazione del sito <https://developers.google.com/search/docs/advanced/crawling/ask-google-to-recrawl?hl=it>`_, inviando le sitemap del vecchio e del nuovo sito per segnalare i reindirizzamenti e il nuovo dominio.
    
-   4. Chiedi a Google di `effettuare una nuova indicizzazione del sito <https://developers.google.com/search/docs/advanced/crawling/ask-google-to-recrawl?hl=it>`_, inviando le sitemap del vecchio e del nuovo sito per segnalare i reindirizzamenti e il nuovo dominio.
+   4. Monitora frequentemente le metriche principali di engagement su software come Google Analytics per comprendere l’andamento del redesign e intervenire prontamente in caso di problemi.
    
-   5. Monitora frequentemente il traffico derivante dai motori di ricerca e il posizionamento delle principali parole chiave per comprendere l’andamento della migrazione e intervenire prontamente in caso di problemi.
+   
+.. hint::
+  Per indicazioni più approfondite, si suggerisce di consultare il `kit Contenuti e linguaggio <https://designers.italia.it/kit/contenuti-linguaggio/>`_ e il `kit SEO <http://designers.italia.it/kit/SEO/>`_ su Designers Italia.
+timo aggiornamento, la frequenza di modifica, le priorità delle varie pagine.
+
+ 
