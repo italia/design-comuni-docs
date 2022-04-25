@@ -15,7 +15,7 @@ L'architettura del sito di un Comune è organizzata in alcune sezioni principali
 - *Amministrazione*, contiene tutti i contenuti riguardanti la struttura politica e amministrativa del comune, inclusi i documenti pubblici;
 - *Novità*, raggruppa notizie e comunicati stampa;
 - *Servizi*, presenta tutti i servizi che eroga il comune, sia quelli digitali, sia quelli fisici;
-- *Territorio*, presenta i luoghi d'interesse del territorio comunale e gli eventi;
+- *Vivere il comune*, presenta i luoghi d'interesse del territorio comunale e gli eventi;
 - *Area personale*, dove gli utenti possono trovare i documenti personali, lo stato d'avanzamento delle loro richieste e i messaggi o notifiche inviati dall'amministrazione comunale.
 
 Gli ulteriori livelli di navigazione sono specificati nella sezione **Navigazione (anchor interno)**
@@ -23,7 +23,7 @@ Gli ulteriori livelli di navigazione sono specificati nella sezione **Navigazion
 
 Ontologia e tipologie di contenuti
 ----------------------------------
-L'architettura informativa di un sito, per essere comprensibile agli utenti, deve essere strutturata come un'ontologia, ovvero la rappresentazione di un dominio concettuale (in questo caso, il dominio concettuale dei Comuni). L'ontologia del sito di un Comune quindi definisce gli oggetti (concreti o astratti), gli agenti (persone e ruoli), i contesti (i luoghi) ed gli eventi (esperienze, attività, servizi) utili alla rappresentazione del Comune su un sito web e attraverso cui gli utenti (i cittadini) interagiscono con il Comune stesso. Tutti questi elementi sono suddivisi in *Tipologie di contenuto* che presentano vari *attributi* (proprietà), che possono essere combinati per creare le pagine del sito. 
+L'ontologia del sito di un Comune quindi definisce gli oggetti (concreti o astratti), gli agenti (persone e ruoli), i contesti (i luoghi) ed gli eventi (esperienze, attività, servizi) utili alla rappresentazione del Comune su un sito web e attraverso cui gli utenti (i cittadini) interagiscono con il Comune stesso. Tutti questi elementi sono suddivisi in *Tipologie di contenuto* che presentano vari *attributi* (proprietà), che possono essere combinati per creare le pagine del sito. 
 
 La definizione di un'ontologia è utile non solo per capire l'ordine e la disposizione dei contenuti sulle varie pagine, ma anche per promuovere l'interoperabilità dei dati e il loro riuso all'interno dello stesso dominio informativo (il sito comunale, in questo caso) o in domini informativi diversi.
 
@@ -63,7 +63,7 @@ Le tassonomie sono classificazioni gerarchiche di concetti, ovvero delle liste d
 
 Le tassonomie del sito di un Comune sono:
 
-- la lista di Argomenti di un Comune;
+- la lista degli argomenti di un Comune;
 - Eventi della vita delle persone;
 - Eventi della vita delle imprese;
 - Tipi di unità organizzativa;
@@ -95,7 +95,7 @@ La navigazione del sito del Comune è  definita nel foglio Coreografia: sistema 
 
 La struttura del sito è presentata agli utenti sotto forma di *menu di navigazione*.
 
-La **navigazione principale** è formata dalle 4 sezioni in cui è organizzato il sito del comune: "Amministrazione", "Servizi", "Novità", "Territorio", più "Area personale".
+La **navigazione principale** è formata dalle 4 sezioni in cui è organizzato il sito del comune: "Amministrazione", "Servizi", "Novità", "Vivere il comune", più "Area personale".
 
 Le varie sezioni presentano, a loro volta, una struttura interna di secondo, terzo e, in alcuni casi, quarto e quinto livello. Per facilitare la navigazione degli utenti, si suggerisce di non andare oltre al terzo livello a meno che non sia strettamente necessario. 
 
@@ -112,7 +112,7 @@ La navigazione di secondo livello della sezione **Novità** è suddivisa in: "No
 La navigazione di secondo livello della sezione **Servizi** è suddivisa in una serie di pagine categoria e la struttura è informata dalla tassonomia "Categorie di servizi". Sotto ogni categoria, sono presenti le singole schede servizio, che vanno a formare il terzo livello.
 
 
-La navigazione di secondo livello della sezione **Territorio** è suddivisa in:
+La navigazione di secondo livello della sezione **Vivere il comune** è suddivisa in:
 
 - "Luoghi", la cui sottostruttura è informata dalla tassonomia "Tipi di luogo".
 - "Eventi", la cui struttura è informata dalla tassonomia "Tipi di evento".
@@ -123,8 +123,6 @@ La navigazione di secondo livello dell'**Area personale** è suddivisa in: "Le m
 .. attention::
   Le tassonomie presenti nel documento di architettura hanno vari livelli, utili alla classificazione più o meno granulare dei contenuti e pensate per dare un ampio ventaglio di scelta. È possibile che un Comune non abbia contenuti che ricadano in tutte le voci delle tassonomie. In questi casi, soprattutto quando le tassonomie vengono usate per strutturare l'alberatura e la navigazione, bisogna eliminare le voci delle categorie che non presentano contenuti, in modo da non creare voci di navigazione e pagine vuote. 
 
-.. hint::
-  L'adozione dei temi CMS per Wordpress o Drupal permette di impostare automaticamente la struttura del sito.
 
 Tipi di pagine
 ----------------------
@@ -137,7 +135,7 @@ Nel modello possiamo identificare i seguenti tipi di pagine:
 
 Nell'area riservata, l'area del sito a cui si può accedere attraverso l'autenticazione, sono previste:
 
-- la pagina pannello di controllo {scrivania?}, ovvero l'homepage dell'area riservata;
+- l'homepage dell'area riservata;
 - le pagine lista dei messaggi, delle pratiche e dei pagamenti.
 
 
@@ -198,6 +196,6 @@ Il **piè di pagina (footer)** deve contenere obbligatoriamente i contenuti e i 
 - eventuali note legali;
 - `la dichiarazione di accessibilità <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_.
 
-Inoltre, per i Comuni che accedono ad eventuali finanziamenti per l'aggiornamento del sito, nel caso di performance negativa del sito secondo quanto calcolato e verificato dalla piattaforma PAdigitale2026 tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`_, il footer dovrà contenere:
+Inoltre, per i Comuni che accedono ai finanziamenti previsti nell'ambito della misura 1.4.1 per l'aggiornamento del sito, nel caso di performance negativa del sito secondo quanto calcolato e verificato dalla piattaforma PAdigitale2026 tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`_, il footer dovrà contenere:
 
 - un piano di miglioramento del sito che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa e le relative tempistiche di realizzazione attese.
