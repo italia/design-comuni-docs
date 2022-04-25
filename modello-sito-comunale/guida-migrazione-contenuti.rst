@@ -41,6 +41,4 @@ Per migliorare l’efficacia della migrazione, si suggerisce di effettuare una s
    
 .. hint::
   Per indicazioni più approfondite, si suggerisce di consultare il `kit Contenuti e linguaggio <https://designers.italia.it/kit/contenuti-linguaggio/>`_ e il `kit SEO <http://designers.italia.it/kit/SEO/>`_ su Designers Italia.
-timo aggiornamento, la frequenza di modifica, le priorità delle varie pagine.
-
  
