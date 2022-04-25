@@ -3,7 +3,7 @@ Scheda informativa di servizio al cittadino
 
 La scheda servizio è il punto d'accesso dei cittadini a tutti i servizi comunali, digitali e non digitali. 
 
-La scheda servizio è stata progettata sulla base degli indicatori UE dell'`eGovernment Benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1`_, in modo da:
+La scheda servizio è stata progettata sulla base degli indicatori dell'`eGovernment Benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_, in modo da:
 
 - rendere fruibile la navigazione su dispositivi mobili;
 - presentare con chiarezza le informazioni relative ai servizi offerti, le responsabilità di chi deve garantire i servizi, e le modalità in cui vengono trattati i dati personali degli utenti (criterio della trasparenza);
@@ -36,4 +36,12 @@ Le tassonomie di riferimento per la scheda servizio sono:
 - la lista degli "Argomenti di un comune", i cui tag appariranno nella parte superiore della scheda servizio per permettere la navigazione trasversale del sito e l'accesso a contenuti correlati.
 
 Ogni scheda servizio dovrà, inoltre, presentare la funzionalità di valutazione della chiarezza informativa (**link**).
- 
+
+
+Dati strutturati e interoperabilità
+------------------------------------
+
+Per migliorare ulteriormente l'esperienza digitale dei cittadini, è in lavorazione una lista di tag semantici con cui taggare i contenuti delle schede servizio. La risorsa di riferimento è Schema.org, un vocabolario di dati strutturati che consente ai motori di ricerca di comprendere i significati alla base dei contenuti di una pagina. 
+
+L'utilizzo dei tag di Schema.org per i contenuti delle schede servizio permette di facilitare il cittadino nla ricerca dei contenuti del sito comunale sui motori di ricerca, come Google. Grazie ai tag, infatti, i motori di ricerca saranno in grando di fornire suggerimenti più
+ precisi e rilevanti alle ricerche dei cittadini.
