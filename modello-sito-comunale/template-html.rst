@@ -1,7 +1,7 @@
 Template HTML
 =============
 
-Sono in fase di aggiornamento i template di pagine HTML per la realizzazione del sito web dei Comuni, a disposizione delle istituzioni comunali e i loro fornitori. I template saranno già sviluppati e ottimizzati seguendo le migliore pratiche e le linee guida di riferimento, come le Linee guida sull'accessibilità degli strumenti informatici.
+Per facilitare l’adozione del modello di sito istituzionale dei Comuni, saranno disponibili entro giugno 2022 i template di pagine HTML aggiornati. I template saranno già sviluppati e ottimizzati seguendo le migliore pratiche e le linee guida di riferimento, come le Linee guida sull'accessibilità degli strumenti informatici.
 
 I template permettono di creare il sito web di un Comune utilizzando qualsiasi tipo di soluzione tecnologica. Usano ed estendono, inoltre, il design system del Paese e la libreria di componenti di sviluppo Bootstrap Italia.
 
