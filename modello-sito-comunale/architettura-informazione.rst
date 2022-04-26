@@ -116,6 +116,8 @@ La navigazione di secondo livello della sezione **Vivere il comune** è suddivis
 - "Luoghi", la cui sottostruttura è informata dalla tassonomia "Tipi di luogo".
 - "Eventi", la cui struttura è informata dalla tassonomia "Tipi di evento".
 
+L'etichetta di navigazione può essere, a scelta dei Comuni, o "Vivere il comune" o "Vivere <nomecomune>". Per i Comuni con nomi lunghi, è necessario usare la forma abbreviata (es. per il Comune di San Valentino in Abruzzo Citeriore, l'etichetta di navigazione sarà "Vivere San Valentino").
+
 
 La navigazione di secondo livello dell'**Area personale** è suddivisa in: "Le mie pratiche", "Pagamenti", "Documenti", "Messaggi", "Scadenze" e "Profilo".
 
