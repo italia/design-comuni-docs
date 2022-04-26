@@ -25,7 +25,7 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
   - Non conforme: Non tutte le voci sono presenti o lo sono in un ordine diverso
 
 
-**4. Il sito presenta le voci di secondo livello descritte nel** ** `documento di architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html/#navigazione-e-alberatura>`_
+**4. Il sito presenta le voci di secondo livello descritte nel** `documento di architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html/#navigazione-e-alberatura>`_
   - Conforme: Sono presenti almeno il 50% delle voci di secondo livello
   - Non conforme: Sono presenti meno del 50% delle voci di secondo livello o il secondo livello è assente
 
