@@ -18,8 +18,7 @@ L'architettura del sito di un Comune è organizzata in alcune sezioni principali
 - *Vivere il comune*, presenta i luoghi d'interesse del territorio comunale e gli eventi;
 - *Area personale*, dove gli utenti possono trovare i documenti personali, lo stato d'avanzamento delle loro richieste e i messaggi o notifiche inviati dall'amministrazione comunale.
 
-Gli ulteriori livelli di navigazione sono specificati nella sezione **Navigazione (anchor interno)**
-
+Gli ulteriori livelli di navigazione sono specificati nella `sezione Navigazione e alberatura <../modello-sito-comunale/architettura-informazione.html#navigazione-e-alberatura>`_.
 
 Ontologia e tipologie di contenuti
 ----------------------------------
