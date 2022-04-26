@@ -11,7 +11,7 @@ La scheda servizio è stata progettata sulla base degli indicatori dell'`eGovern
   
 La scheda informativa di servizio vuole garantire buoni standard qualitativi soprattutto in merito al criterio della trasparenza, presentando in maniera chiara e comprensibile tutte le informazioni necessarie per poter portare a termine una richiesta da parte del cittadino.
 
-Gli *attributi* delle schede informative di servizio sono presentati nella scheda *Tipologia di contenuto: Servizio* del documento di architettura dell'informazione. La struttura della scheda è finalizata a comunicare:
+Gli *attributi* delle schede informative di servizio sono presentati nel `foglio Tipologia di contenuto: Servizio <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=335720294>`_ del documento di architettura dell'informazione. La struttura della scheda è finalizata a comunicare:
 
   - una **breve descrizione** del servizio;
   - **a chi è rivolto**, ovvero i destinatari;
@@ -35,7 +35,7 @@ Le tassonomie di riferimento per la scheda servizio sono:
 - le tassonomie "Eventi della vita delle persone" ed "Eventi della vita delle imprese", le cui voci servono da tag (metadati) sulle le varie schede per influenzare i contenuti presentati nella sezione "Servizi correlati".
 - la lista degli "Argomenti di un comune", i cui tag appariranno nella parte superiore della scheda servizio per permettere la navigazione trasversale del sito e l'accesso a contenuti correlati.
 
-Ogni scheda servizio dovrà, inoltre, presentare la funzionalità di valutazione della chiarezza informativa (**link**).
+Ogni scheda servizio dovrà, inoltre, presentare la `funzionalità di valutazione della chiarezza informativa <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_.
 
 
 Dati strutturati e interoperabilità
