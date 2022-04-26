@@ -1,21 +1,25 @@
 Tipologie di flussi di servizio
 ===============================
 
-Un servizio, anche digitale, è un processo che prevede una serie di passaggi lungo un percorso (journey). Sebbene alcuni di questi passaggi siano comuni a tutti i servizi, tipologie di servizi diversi implicano percorsi in parte diversi.
+Un servizio è un processo che prevede una serie di passaggi sequenziali lungo un percorso (journey), alcuni dei quali possono essere effettuati online sul sito del Comune.
 
-A seguito di un’approfondita analisi sulla distribuzione territoriale, la frequenza di utilizzo, la tipologia dei servizi erogati e gli step necessari al completamento delle procedure, sono stati identificati 5 archetipi di percorso e 12 passaggi complessivi.
+Nonostante l’eterogeneità dei servizi erogati dai Comuni, questi passaggi sono riconducibili a degli "archetipi di servizio digitale", ovvero dei flussi di interazione tra il cittadino e il touchpoint digitale rappresentativi.
 
-I 5 archetipi di servizio sono stati individuati come rappresentati delle principali interazioni del cittadino con il Comune e permettono di creare sia i servizi dove il cittadino completa un adempimento verso l’amministrazione, sia quelli dove il cittadino si vede erogata una prestazione.
+La mappatura dei principali servizi digitali erogati dai Comuni e l’analisi degli step necessari al completamento delle procedure hanno permesso di identificare 5 archetipi di flussi d'interazione.
 
-**servizi tangibili/non tangibili? touchpoint digitale? Commento di Ila: Io qui parlerei di touchpoint differenziando il fisico dal digitale, magari anche sottolineando l'importanza del mobile e in generale facendo riferimento all'ecosistema di servizio. Nno la farei così filosofico - accademica**
 
-Gli archetipi di percorso
+Gli archetipi di flusso
 --------------------------
 
-I cinque archetipi di percorso identificati sono:
+Gli archetipi rappresentano dei pattern ricorrenti, ovvero sequenze di passaggi che risultano simili per vari di servizi digitali. Servizi digitali diversi, anche afferenti a diverse categorie di servizio, possono appartenere allo stesso archetipo, in quanto vengono erogati attraverso lo stesso flusso di interazione (es.: l'interazione per l'iscrizione all’asilo nido e per l'iscrizione a corsi di formazione è la stessa).
 
-- **Iscrizione a graduatoria**, ovvero le richieste di  prestazioni accessibili tramite una graduatoria redatta dall'amministrazione;
-- **Permessi e autorizzazioni**, ovvero le richiesta che prevedono un  rilascio di permessi o autorizzazioni da parte dell’amministrazione;
-- **Vantaggi economici**, ovvero le richieste di benefici vincolati dalla presenza di determinati requisiti di idoneità;
+I 5 archetipi di servizio servono come riferimento per realizzare l’interfaccia utente, capire quali moduli di partenza utilizzare e l’ordine in cui vanno composti per consentire il flusso di interazione corretto, sia su desktop che su mobile.
+
+
+I cinque archetipi di flusso identificati sono:
+
+- **Iscrizione a graduatoria**, ovvero le richieste di  prestazioni accessibili tramite una graduatoria d'accesso redatta dall'amministrazione, come ;
+- **Permessi e autorizzazioni**, ovvero le richiesta per il rilascio di permessi o autorizzazioni da parte dell’amministrazione;
+- **Vantaggi economici**, ovvero le richieste di benefici, come fondi economici o detrazioni fiscali, vincolati dalla presenza di determinati requisiti di idoneità;
 - **Pagamenti dovuti**, ovvero i processi per adempire al pagamento di oneri;
-- **Servizi a pagamento**, ovvero le richieste di servizi che prevedono un pagamento da parte del cittadino per l’erogazione.
+- **Servizi a pagamento**, ovvero le richieste per usufruire di servizi che prevedono un pagamento da parte del cittadino.
