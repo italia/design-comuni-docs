@@ -1,13 +1,14 @@
-Le componenti dei passaggi
+Le sezioni dei moduli
 ============================
 
-Nel flusso digitale ad ogni passaggio corrisponde ad una schermata, ed ogni schermata è composta da elementi semplici e complessi.
-Nella terminologia dell'[atomic design](https://atomicdesign.bradfrost.com/chapter-2/), sono `molecole` e `organismi`.
+Nel flusso digitale ad ogni passaggio corrisponde una schermata, ed ogni schermata è composta da diverse sezioni o oggetti. Ogni sezione è a sua volta composta da due o più elementi, che possono essere semplici (etichette, elementi testuali ed elementi di input) o complessi (definiti dalla specifica ontologia).
 
-Gli elementi semplici sono composti da etichette (`label`), elementi testuali ed elementi di `input`.
-Gli elementi complessi sono `oggetti` definiti dalla specifica ontologia (pertanto ci riferiremo ad essi sia come `organismi` che come `oggetti`.
+Consulta la lista delle sezioni divise per moduli e archetipi
 
-Tabella degli elementi complessi (`oggetti`): ontologia e interfaccia grafica nelle modalità anteprima, riepilogo e inserimento/modifica **inserire tabella**
+L’oggetto persona fisica, che contiente i campi relativi alla persona richiedente, è presente in tutti i flussi d'interazione. È possibile l'aggiunta di alcune varianti: 
 
-Gli `oggetti` (persona fisica, persona giuridica, nucleo famigliare, conto corrente) sono utilizzati principalmente nel passaggio `Inserire/Controllare i dati generali`.  
-Le `molecole` sono utilizzate principalmente nel passaggio `Inserire i dati specifici del servizio`.
+- una seconda e una terza persona fisica (ad esempio nella richiesta iscrizione asilo nido);
+- una persona giuridica, ad esempio nella richiesta finanziamenti per una azienda;
+- un veicolo, ad esempio nella richiesta pass ZTL;
+- un immobile, ad esempio nel pagamento di imposte o tasse.
+
