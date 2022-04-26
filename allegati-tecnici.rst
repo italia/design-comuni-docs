@@ -13,7 +13,7 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
 
    * - Documento di Architettura dell'informazione
      - Foglio di lavoro
-     - Risorsa in aggiornamento
+     - `Vai al documento <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit?usp=sharing&ouid=109069620194773449819&rtpof=true&sd=true>`_
 
    * - Template HTML per il sito **(in aggiornamento)**
      - Repository GitHub
