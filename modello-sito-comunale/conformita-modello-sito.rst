@@ -7,31 +7,30 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
 
 ``Esperienza utente``
 
-**1. Le schede servizio presentano tutte le informazioni obbligatorie e nell’ordine segnalato nell’architettura dell’informazione, con particolare attenzione ai tempi di risposta del Comune alla richiesta del cittadino**
+**1. Le schede servizio presentano tutte le informazioni obbligatorie e nell’ordine segnalato nel** `documento di architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html>`_, **con particolare attenzione ai tempi di risposta del Comune alla richiesta del cittadino**
 
   - Conforme: Tutte le schede servizio presentano tutte le informazioni obbligatorie e nell'ordine corretto
   - Non conforme: Anche soltanto una scheda servizio non presenta un’informazione obbligatoria o le presenta in un ordine diverso
 
 
-**2. I contenuti del sito comunale sono taggati con le voci della lista degli argomenti definita nel documento di architettura dell’informazione, appartenenti al** `vocabolario controllato EuroVOC <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_
+**2. I contenuti del sito comunale sono taggati con le voci della lista degli argomenti definita nel** `documento di architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html#tassonomie>`_, **appartenenti al** `vocabolario controllato EuroVOC <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_
 
   - Conforme: Almeno il 50% degli argomenti utilizzati corrisponde a quelli della lista del modello
   - Non conforme: Meno del 50% degli argomenti utilizzati corrisponde a quelli della lista del modello
 
 
-**3. Il sito presenta tutte le voci di primo livello nell’ordine esatto descritto nella coreografia dell’architettura dell’informazione**
+**3. Il sito presenta tutte le voci di primo livello nell’ordine esatto descritto nel** `documento di architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html/#navigazione-e-alberatura>`_
 
   - Conforme: Sono presenti tutte le voci di primo livello, nell’ordine corretto
   - Non conforme: Non tutte le voci sono presenti o lo sono in un ordine diverso
 
 
-**4. Il sito presenta le voci di secondo livello descritte nella coreografia dell’architettura dell’informazione**
-
+**4. Il sito presenta le voci di secondo livello descritte nel** ** `documento di architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html/#navigazione-e-alberatura>`_
   - Conforme: Sono presenti almeno il 50% delle voci di secondo livello
   - Non conforme: Sono presenti meno del 50% delle voci di secondo livello o il secondo livello è assente
 
 
-**5. Il sito utilizza le font indicate nella documentazione del modello di sito comunale**
+**5. Il sito utilizza** `le font <../modello-sito-comunale/template-html.html#le-font-del-modello>`_ **indicate nella documentazione del modello di sito comunale**
 
   - Conforme: Il sito usa esclusivamente le font indicate nel modello
   - Parzialmente conforme: il sito usa le font indicate nel modello, insieme ad altre
@@ -45,7 +44,7 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
   - Non conforme: La libreria Bootstrap Italia non è collegata nell'head del sito
 
 
-**7. Nel caso di utilizzo di un CMS Wordpress o Drupal, viene usato il relativo tema CMS nella versione più recente disponibile**
+**7. Nel caso di utilizzo di un CMS Wordpress o Drupal, viene usato** i`l relativo tema CMS <../modello-sito-comunale/temi-cms.html>`_ **nella versione più recente disponibile**
 
   - Conforme: il CMS è aggiornato all'ultima versione disponibile
   - Non conforme: il CMS non è aggiornato
@@ -57,11 +56,11 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
 
   In conformità con gli `eGovernment benchmark 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
 
-**9. Il sito permette al cittadino di segnalare un disservizio, tramite email o servizio dedicato**
+**9. Il sito permette al cittadino di** `segnalare un disservizio <../modello-sito-comunale/funzionalita.html#segnalazione-disservizio>`_, **tramite email o servizio dedicato**
   
     In conformità con gli `eGovernment benchmark 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
 
-**10. Il sito consente al cittadino di fornire una valutazione della chiarezza informativa di ogni pagina di primo e secondo livello**
+**10. Il sito consente al cittadino di fornire** `una valutazione della chiarezza informativa <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_ **di ogni pagina di primo e secondo livello**
 
   In conformità con gli `eGovernment benchmark 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
 
@@ -69,13 +68,13 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
   - Parzialmente conforme: Tutte le pagine di primo e secondo livello presentano una funzione di valutazione
   - Non conforme: Almeno una delle pagine di primo e secondo livello non presenta una funzione di valutazione
 
-**11. Tutte le schede servizio consentono di prenotare un appuntamento presso l'ufficio di competenza**
+**11. Tutte le schede servizio consentono di** `prenotare un appuntamento <../modello-sito-comunale/funzionalita.html#prenotazione-appuntamento>`_ **presso l'ufficio di competenza**
 
-**12. Tutte le schede servizio presentano i contatti specifici per l'ufficio preposto all'erogazione del servizio**
+**12. Tutte le schede servizio presentano** `i contatti specifici per l'ufficio preposto all'erogazione del servizio <../modello-sito-comunale/funzionalita.html#richiesta-di-assistenza>`_
 
   In conformità con gli `eGovernment benchmark 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
 
-**13. Tutte le schede dei servizi non erogabili o richiedibili in digitale permettono al cittadino di valutare l’utilità delle informazioni e la chiarezza informativa**
+**13. Tutte le schede dei servizi non erogabili o non richiedibili in digitale permettono al cittadino di** `valutare l’utilità delle informazioni e la chiarezza informativa <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_
 
   In conformità con gli `eGovernment benchmark 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
 
@@ -92,7 +91,7 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
   - Non conforme: il certificato non è presente,  o è presente ma è scaduto
 
 
-**15. Il sito utilizza un dominio istituzionale”**
+**15. Il sito utilizza un dominio istituzionale**
 
   In conformità con il `Regolamento AgID di assegnazione e gestione dei nomi a dominio nel SLD .gov.it <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida/regolamento_gov_it_vers_definitiva_v3.pdf>`_
 
@@ -147,7 +146,7 @@ In conformità con le Linee Guida Riuso delle soluzioni e standard aperti e `Acq
   - Non conforme: Il catalogo non presenta i repository con i file sorgente del sito del Comune
 
 
-**2. Le voci delle schede servizio sono marcate secondo i vocabolari di dati strutturati di schema.org (metatag) per garantire l’interoperabilità dei dati**
+**2. Le voci delle schede servizio sono marcate secondo** `i vocabolari di dati strutturati di schema.org (metatag) <../modello-sito-comunale/scheda-servizio.html#dati-strutturati-e-interoperabilità>`_ **per garantire l’interoperabilità dei dati**
 
   - Conforme: oltre il 75% delle voci della scheda servizio presenta i corretti metatag
   - Parzialmente conforme: tra il 50 e il 75% delle voci della scheda servizi presenta i corretti metatag
