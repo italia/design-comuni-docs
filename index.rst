@@ -1,26 +1,17 @@
-Design dei siti web dei Comuni italiani
+Il sito web e i servizi digitali dei Comuni italiani
 =======================================
 
 .. highlights::
 
-   Documentazione del modello per i siti web dei Comuni italiani basato sul
-   design system di Designers Italia.
-
-+-----------------+-------------------------------------+
-| Product owner   | Team per la Trasformazione digitale |
-+-----------------+-------------------------------------+
-| Project manager | Lorenzo Fabbri                      |
-+-----------------+-------------------------------------+
-
-|
+   Documentazione di progetto e istruzioni operative per il modello di sito istituzionale dei Comuni e i flussi di servizi digitali per il cittadino, basati sul design system di Designers Italia.
 
 .. toctree::
+   :numbered:
    :maxdepth: 3
    :caption: Indice dei contenuti
 
-   che-cosè-il-progetto-siti-web-dei-comuni.rst
-   il-modello.rst
-   l-adozione.rst
-   attività-di-ricerca.rst
-   principi-guida-lanalisi-dei-risultati-della-ricerca.rst
-   allegati-documenti-di-progetto.rst
+   introduzione.rst
+   modello-sito-comunale.rst
+   flussi-di-servizio.rst
+   allegati-tecnici.rst
+   ricerca.rst
