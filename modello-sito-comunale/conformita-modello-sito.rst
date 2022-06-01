@@ -3,7 +3,7 @@ Conformità al modello di sito comunale
 
 I criteri di conformità guidano alla corretta adozione del modello in termini di esperienza utente, sicurezza, performance e rispetto della normativa. 
 
-Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del sito comunale, il DTD verifica a campione il rispetto dei requisiti di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali.
+Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento del sito comunale, il DTD verifica a campione il rispetto dei requisiti di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali.
 
 ``Esperienza utente``
 
@@ -66,7 +66,7 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
   In linea con  l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
   
   Casi di non conformità:
-  - il sito non presenta il link alla sezione FAQ nel footer
+  - il sito non presenta il link alla sezione FAQ nel footer.
 
 
 **9. Il sito permette al cittadino di** `segnalare un disservizio <../modello-sito-comunale/funzionalita.html#segnalazione-disservizio>`_, **tramite email o servizio dedicato**
@@ -90,7 +90,7 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
   - anche solo una scheda servizio non presenta la funzionalità per prenotare un appuntamento.
 
 
-**12. Tutte le schede servizio presentano** `i contatti specifici per l'ufficio preposto all'erogazione del servizio <../modello-sito-comunale/funzionalita.html#richiesta-di-assistenza>`_
+**12. Tutte le schede servizio presentano i contatti specifici per l'ufficio preposto all'erogazione del servizio**
 
   In linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
   
@@ -121,10 +121,10 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
 
 **15. Il sito utilizza un dominio istituzionale**
 
-  In linea con il `registro dei nomi a dominio tiservati per i Comuni italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_
+  In linea con il `registro dei nomi a dominio riservati per i Comuni italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_
 
   Casi di non conformità:
-  - il dominio non è in linea con il registro dei nomi a dominio tiservati per i Comuni italiani.
+  - il dominio non è in linea con il registro dei nomi a dominio riservati per i Comuni italiani.
 
 
 ``Normativa``
@@ -166,7 +166,7 @@ Per i Comuni che partecipano a bandi di finanziamento per l’aggiornamento del 
 
 .. note::
   Il livello di performance viene calcolato dalla piattaforma PAdigitale2026 tramite le librerie Lighthouse (punteggio da 1 a 100 ottenuto dalla media pesata di 6 metriche standard). Nel caso di punteggio inferiore a 50 il Comune dovrà indicare nel footer un link ad un "Piano di miglioramento del sito" che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa e le relative tempistiche di realizzazione attese.
-  
+
   Casi di non conformità:
   - il sito presenta un punteggio inferiore a 50 e non presenta il “Piano di miglioramento del sito” nel footer.
 
@@ -177,7 +177,7 @@ Raccomandazioni
 
 Per migliorare ulteriormente l'esperienza degli utenti e garantire l'uso di tecnologie aggiornate, restano valide altre indicazioni di legge e buone pratiche.
 
-**1. Il Comune mette a disposizione il software nel catalogo del riuso sotto licenza aperta**
+**1. Il Comune mette a disposizione il software nel** `catalogo del riuso <https://developers.italia.it/it/search?type=software_reuse&sort_by=release_date&page=0>`_ **sotto licenza aperta**
 
   In linea con le Linee Guida `Riuso delle soluzioni e standard aperti <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_VI-articolo_69.html?highlight=riuso>`_ e `Acquisizione e riuso di software per le pubbliche amministrazioni <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_
 
