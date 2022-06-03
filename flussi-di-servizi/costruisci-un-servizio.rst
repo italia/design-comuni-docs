@@ -8,6 +8,7 @@ I vari moduli e sezioni sono consultabili nell’apposita `libreria di component
 L’uso di queste risorse permette di implementare efficacemente un servizio digitale che rispetti gli standard di accessibilità e usabilità.
  
 Come costruire un flusso di servizio:
+
 1. analizza la procedura da digitalizzare e `identifica l’archetipo a cui appartiene <https://docs.google.com/spreadsheets/d/12RgHGrhrGKhAGOUf2kOThrgIEyFngknVOhoVIrAeOOk/edit#gid=1049423963>`_;
 2. consulta il modello di servizio e l’esempio applicato per comprendere l’interazione tra le varie schermate (trovi il link nel `file excel degli archetipi <https://docs.google.com/spreadsheets/d/12RgHGrhrGKhAGOUf2kOThrgIEyFngknVOhoVIrAeOOk/edit#gid=1049423963>`_);
 3. consulta il relativo diagramma di flusso per capire quali moduli utilizzare e l’ordine di assemblaggio (trovi il link nel `file excel degli archetipi <https://docs.google.com/spreadsheets/d/12RgHGrhrGKhAGOUf2kOThrgIEyFngknVOhoVIrAeOOk/edit#gid=1049423963>`_).
