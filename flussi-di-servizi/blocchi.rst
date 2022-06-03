@@ -6,6 +6,7 @@ Ogni archetipo di flusso presenta specifici moduli in sequenza, ovvero schermate
 Ciascun modulo rappresenta un passaggio specifico dell’interazione che il cittadino deve svolgere tramite il touchpoint.
 
 I moduli che è possibile combinare per creare i flussi di servizio sono 12:
+
 - **Trovare informazioni**: ovvero la “Scheda informativa di servizio al cittadino”, dove è possibile ottenere tutti i dettagli e accedere al servizio digitale che permette di effettuare parte del processo online;
 - **Accedere al servizio**: per usufruire dei servizi online è necessario essere loggati nella propria area personale. Se non si è già autenticati, il sistema dovrà reindirizzare il cittadino all’autenticazione tramite identità digitale prima di iniziare il flusso di interazione con il servizio digitale;
 - **Acconsentire al trattamento dei dati**: il sistema richiede i consensi e le autorizzazioni necessarie al recupero e al salvataggio dei dati personali che verranno inseriti per poter fruire del servizio. L’azione principale permette al cittadino di accettare tutto e proseguire;
