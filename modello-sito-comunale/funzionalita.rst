@@ -80,3 +80,25 @@ La funzionalità si articola nei seguenti passaggi:
 
 
 3. viene presentato un campo di testo libero per dare la possibilità all'utente di inserire un breve commento.
+
+
+Ricerca globale nel sito
+-------------------------
+
+L’interfaccia di ricerca globale fornisce una lista di risultati a partire da una ricerca (query) dell’utente. I risultati devono essere ordinati in modo predefinito in base alla pertinenza con la ricerca.
+
+L’utente accede all’interfaccia di ricerca globale nel sito attraverso l’icona lente nella intestazione principale. L’interfaccia di ricerca globale nel sito permette di filtrare i risultati attraverso due tipi di filtri:
+
+- **tipologie di contenuto**, raggruppati in base alle voci della navigazione (Unità organizzativa, Persona pubblica, Documenti, Servizi, Luogo, Evento);
+- **argomenti**, ovvero i tag tematici con cui possono essere taggati tutti i contenuti del sito.
+
+
+Ricerca contestuale per i servizi
+----------------------------------
+
+La ricerca contestuale fornisce una lista di risultati a partire da una ricerca (query) dell’utente. I risultati devono essere ordinati in modo predefinito in base alla pertinenza con la ricerca.
+
+L’utente può accedere alla all’interfaccia di ricerca contestuale per i servizi attraverso il campo di input nella sezione “Esplora tutti i servizi”. Nella versione attuale la ricerca contestuale filtra i risultati all’interno della tipologia di contenuto “Servizi”.
+
+La ricerca contestuale è presente anche nelle pagine di Categorie di servizi. In questo caso la ricerca filtra i risultati per tipologia di contenuto (“Servizi”) e per categoria di servizio. Per esempio, nella categoria “Anagrafe e stato civile” la ricerca contestuale restituisce soltanto risultati di tipo “Servizio” che appartengono alla categoria “Anagrafe e stato civile”.
+
