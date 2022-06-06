@@ -105,7 +105,7 @@ La navigazione di secondo livello della sezione **Amministrazione** è suddivisa
 - "Politici" e "Personale amministrativo", le cui sottostrutture sono definite dalla tassonomia "Tipi di incarico";
 - "Documenti e dati", la cui sottostuttura è definita dalla tassonomia "Tipi di documento".
 
-La navigazione di secondo livello della sezione **Novità** è suddivisa in: "Notizie" e "Comunicati", le cui sottostrutture sono definite dalla tassonomia "Tipi di notizia";
+La navigazione di secondo livello della sezione **Novità** è suddivisa in: "Notizie", "Comunicati" e "Avvisi", le cui sottostrutture sono definite dalla tassonomia "Tipi di notizia";
 
 
 La navigazione di secondo livello della sezione **Servizi** è suddivisa in una serie di pagine categoria e la struttura è informata dalla tassonomia "Categorie di servizi". Sotto ogni categoria, sono presenti le singole schede servizio, che vanno a formare il terzo livello.
@@ -189,6 +189,7 @@ Ogni tipologia deve avere una propria sezione nella pagina. Ogni sezione potrà 
 **Vivere il comune**
 
 "Vivere il comune" è un ramo che contiene 2 tipologie di contenuto:
+
 - eventi;
 - luoghi.
 
@@ -196,7 +197,7 @@ Ogni tipologia deve avere una propria sezione nella pagina. Poiché questa pagin
 
 **Novità**
 
-"Novità" è una sezione che contiene la tipologia di contenuto "Notizia"
+"Novità" è una sezione che contiene la tipologia di contenuto "Notizia".
 
 La pagina deve contenere una sezione "Notizie in evidenza" e una sezione con l'elenco delle notizie ordinate per data, con paginazione.
 
