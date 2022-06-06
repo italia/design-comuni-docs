@@ -15,3 +15,4 @@ Il sito web e i servizi digitali dei Comuni italiani
    flussi-di-servizio.rst
    allegati-tecnici.rst
    ricerca.rst
+   crediti.rst
