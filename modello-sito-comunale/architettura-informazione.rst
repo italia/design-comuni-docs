@@ -92,7 +92,7 @@ Navigazione e alberatura
 ------------------------
 La navigazione del sito del Comune è  definita nel `foglio Coreografia: sistema di navigazione <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=1853196915>`_. È organizzata in forma gerarchica ed è chiamata *alberatura*, in quanto formata da una radice (l'homepage) da cui si diramano le varie sezioni, organizzate in pagine lista e pagine di dettaglio.
 
-La struttura del sito è presentata agli utenti sotto forma di *menu di navigazione*.
+La struttura di primo livello del sito è presentata agli utenti sotto forma di *menu di navigazione principale*.
 
 La **navigazione principale** è formata dalle 4 sezioni in cui è organizzato il sito del comune: "Amministrazione", "Servizi", "Novità", "Vivere il comune", più "Area personale".
 
@@ -139,6 +139,77 @@ Nell'area riservata, l'area del sito a cui si può accedere attraverso l'autenti
 - l'homepage dell'area riservata;
 - le pagine lista dei messaggi, delle pratiche e dei pagamenti.
 
+
+L'homepage
+-----------
+
+La homepage è composta da:
+
+- una notizia o evento in evidenza, in formato card grande, preferibilmente con immagine;
+- può avere una sezione di 3 notizie in evidenza, con il link "mostra tutte" che porta al ramo "Novità";
+- può avere una sezione amministrazione, con un massimo di 3 card (ad esempio il sindaco, la giunta comunale, il consiglio comunale);
+- un calendario con un massimo di 4 eventi in evidenza, con il link "mostra tutti" che porta al ramo "Vivere il comune" > "Eventi";
+- una sezione con 3 argomenti in evidenza (tratti dalla tassonomia argomenti) con il link "Mostra tutti" che porta al ramo "Argomenti";
+- può avere una sezione "Gallerie", con un massimo di 3 eventi passati che abbiano una galleria di immagini o video;
+- può avere una sezione "Luoghi", con un massimo di 3 luoghi, con il link "mostra tutti" che porta al ramo "Vivere il comune" > "Luoghi";
+- può avere una sezione con dei link a siti tematici esterni al sito del comune.
+
+La homepage deve presentare anche dei link in chiaro alle domande frequenti, alla richiesta di assistenza, alla prenotazione appuntamento e alla segnalazione disservizio.
+
+Pagine lista di primo livello
+------------------------------
+
+Le pagine relative alle sezioni di primo livello (Amministrazione, Novità, Servizi, Vivere il comune).
+
+**Servizi**
+
+La pagina lista "Servizi" è composta da:
+
+- motore di ricerca contestuale;
+- elenco dei servizi in evidenza;
+- elenco dei primi 5 servizi, in ordine alfabetico;
+- l'elenco delle categorie di servizi;
+
+In caso di uso del motore di ricerca, i primi 5 servizi verranno sostituiti con i primi risultati del motore di ricerca, filtrati con un meccanismo di live search.
+
+**Amministrazione**
+
+Amministrazione è una sezione che contiene elementi di 3 tipologie di contenuto:
+
+- persone;
+- unità organizzative;
+- documenti e dati.
+
+Ogni tipologia deve avere una propria sezione nella pagina. Ogni sezione potrà avere fino a 3 contenuti in evidenza (persone in evidenza, unità organizzative in evidenza, documenti e dati in evidenza) e l'elenco delle categorie non vuote della specifica tassonomia:
+
+- per persone la tassonomia "Tipi di incarico": politici, amministrativi, altri incarichi;
+- per le unità organizzative la tassonomia "Tipi di unità organizzativa": organi di governo, aree amministrative, uffici, enti e fondazioni;
+- per documenti e dati: Documenti albo pretorio, Modulistica, Documenti funzionamento interno, Normative, Accordi tra enti, Documenti attività politica, Rapporti tecnici, Istanze, Documenti di programmazione e rendicontazione, Dataset.
+
+**Vivere il comune**
+
+"Vivere il comune" è un ramo che contiene 2 tipologie di contenuto:
+- eventi;
+- luoghi.
+
+Ogni tipologia deve avere una propria sezione nella pagina. Poiché questa pagina ha, principalmente, una funzione "vetrina". Ogni sezione (Eventi, Luoghi) deve avere 6 elementi in evidenza e un link che porta alle corrispondenti pagine di secondo livello (lista Eventi e lista Luoghi).
+
+**Novità**
+
+"Novità" è una sezione che contiene la tipologia di contenuto "Notizia"
+
+La pagina deve contenere una sezione "Notizie in evidenza" e una sezione con l'elenco delle notizie ordinate per data, con paginazione.
+
+Pagine lista di secondo livello
+--------------------------------
+
+Le pagine lista di secondo livello possono contenere categorie (ovvero link a pagine lista di livello successivo) o risorse (pagine foglia di una specifica tipologia di contenuto). Come raccomandazione, i rami dell'alberatura dovrebbero preferibilmente contenere o solo categorie di livello inferiore (rami inferiori) o solo contenuti (foglie).
+
+Le pagine lista che contengono solo categorie sono strutturate con una sezione "{tipologia di contenuto} in evidenza" (ad esempio "Luoghi in evidenza") con fino ad un massimo di 3 elementi in evidenza e una sezione "Tutte le categorie" con l'elenco delle categorie, di norma in ordine alfabetico.
+
+Le pagine lista che contengono solo risorse (foglie) sono strutturate con una sezione "{tipologia di contenuto} in evidenza" (ad esempio "Luoghi in evidenza") con fino ad un massimo di 3 elementi in evidenza e una sezione "Tutte i {tipologia di contenuto}" (ad esempio "Tutti i luoghi") con l'elenco paginato delle risorse, di norma in ordine alfabetico.
+
+Le pagine lista che contengono sia categorie (rami inferiori) che risorse (foglie) possono avere una sezione "{tipologia di contenuto} in evidenza" (ad esempio "Luoghi in evidenza") con fino ad un massimo di 3 elementi in evidenza, una sezione "Tutti i {tipologia di contenuto}" (ad esempio "Tutti i luoghi") con l'elenco paginato delle risorse, di norma in ordine alfabetico, e una sezione "Tutte le categorie" con l'elenco delle categorie, di norma in ordine alfabetico.
 
 Le pagine argomento
 --------------------
@@ -195,7 +266,11 @@ Il **piè di pagina (footer)** deve contenere obbligatoriamente i contenuti e i 
 - riferimenti all'`amministrazione trasparente;
 - l'informativa al trattamento dei dati personali;
 - eventuali note legali;
-- `la dichiarazione di accessibilità <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_.
+- `la dichiarazione di accessibilità <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_;
+- la domande frequenti;
+- la prenotazione appuntamento;
+- la richiesta di assistenza;
+- la segnalazione disservizio.
 
 Inoltre, per i Comuni che accedono ai finanziamenti previsti nell'ambito della misura 1.4.1 per l'aggiornamento del sito, nel caso di performance negativa del sito secondo quanto calcolato e verificato dalla piattaforma PAdigitale2026 tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`_, il footer dovrà contenere:
 
