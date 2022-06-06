@@ -26,16 +26,20 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
    * - Tema Drupal per il sito **(in lavorazione)**
      - Installazione per Deupal
      - Risorsa in lavorazione
- 
-   * - I wireframe per il sito **(in lavorazione)**
-     - Figma
-     - Risorsa in fase di lavorazione
      
    * - Libreria di componenti per i servizi **(in lavorazione)**
      - Figma
-     - Risorsa in lavorazione
+     - `Vai alla libreria <https://www.figma.com/file/WkVMh3JnkyUQGE3POb0TSI/Designers-Italia---Documentazione-Moduli-e-Sezioni?node-id=0%3A1>`_
    
-   * - Prototipi a media ed alta definizione per i servizi (**alcune risorse in lavorazione**)
+   * - Prototipi a media ed alta definizione per il sito e i servizi (**alcune risorse in lavorazione**)
      - Figma
      - `Vai ai prototipi <https://www.figma.com/proto/xSkfRizm0SsSg8Wytg1MRM/Hub-Link?page-id=0%3A1&node-id=1%3A707&viewport=241%2C48%2C0.68&scaling=min-zoom>`_
+
+   * - Corrispondenza tra archetipi, moduli e sezioni per i flussi di servizio 
+     - Google Sheets
+     - `Vai al file <https://docs.google.com/spreadsheets/d/12RgHGrhrGKhAGOUf2kOThrgIEyFngknVOhoVIrAeOOk/edit#gid=1049423963>`_
+     
+   * - Diagrammi di flusso per gli archetipi di servizio 
+     - PDF
+     - `Vai ai diagrammi <https://drive.google.com/drive/folders/1PvlN6_3PtZAS8ij_xVa3uPcZJrdUcM4C>`_
      
