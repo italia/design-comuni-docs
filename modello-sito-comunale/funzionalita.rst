@@ -29,10 +29,18 @@ Richiesta di assistenza
 
 La funzionalità di richiesta di assistenza deve presentare:
 
-- un rimando alle domande frequenti (FAQ);
-- un contatto telefonico degli uffici di competenza;
-- un link alla funzionalità di prenotazione appuntamento;
-- il contatto di un sistema testuale di messaggistica asincrona.
+* la possibilità, non obbligatoria, di poter accedere con identità digitale;
+* i campi per l'inserimento delle informazioni del richiedente (nome, cognome, email);
+* i campi per l'inserimento dei dettagli della richiesta:
+  - la categoria di servizio, selezionabile tramite una lista a tendina che presenta le voci della tassonomia *Categorie dei Servizi* più la voce "Relazioni con il pubblico" per tutte le richieste non afferenti a servizi specifici;
+  - il servizio per cui si vuole richiedere assistenza, selezionabile tramite una lista a tendina che presenta i servizi della categoria selezionata precedentemente;
+  - un campo di testo libero per fornire i dettagli della richiesta (max 600 caratteri);
+ * un checkbox per confermare di aver preso visione dell'informativa privacy.
+ 
+Una volta inviata la richiesta, il sistema deve presentare una schermata di conferma del corretto invio e informare l'utente che riceverà un riepilogo della richiesta via email.
+ 
+Gli utenti autenticati con identità digitale devono poter salvare una bozza della richiesta nella propria area personale.
+
 
 Segnalazione disservizio
 ------------------------
