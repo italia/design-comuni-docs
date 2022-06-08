@@ -90,13 +90,13 @@ Il content management system dovrebbe nascondere le categorie (temporaneamente) 
 
 Navigazione e alberatura
 ------------------------
-La navigazione del sito del Comune è  definita nel `foglio Coreografia: sistema di navigazione <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=1853196915>`_. È organizzata in forma gerarchica ed è chiamata *alberatura*, in quanto formata da una radice (l'homepage) da cui si diramano le varie sezioni, organizzate in pagine lista e pagine di dettaglio.
+La navigazione del sito del Comune è  definita nel `foglio Coreografia: sistema di navigazione <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=1853196915>`_. È organizzata in forma gerarchica ed è chiamata *alberatura*, in quanto formata da una radice (l'homepage) da cui si diramano le varie sezioni, organizzate in pagine lista e pagine di dettaglio. L'alberatura è visualizzabile sotto forma di `grafico dell'alberatura (PDF 745KB) <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_.
 
 La struttura di primo livello del sito è presentata agli utenti sotto forma di *menu di navigazione principale*.
 
 La **navigazione principale** è formata dalle 4 sezioni in cui è organizzato il sito del comune: "Amministrazione", "Servizi", "Novità", "Vivere il comune", più "Area personale".
 
-Le varie sezioni presentano, a loro volta, una struttura interna di secondo, terzo e, in alcuni casi, quarto e quinto livello. Per facilitare la navigazione degli utenti, si suggerisce di non andare oltre al terzo livello a meno che non sia strettamente necessario. 
+Le varie sezioni presentano, a loro volta, una struttura interna di secondo, terzo e, in alcuni casi, quarto livello. Per facilitare la navigazione degli utenti, si suggerisce di non andare oltre al terzo livello a meno che non sia strettamente necessario. 
 
 
 La navigazione di secondo livello della sezione **Amministrazione** è suddivisa in:
