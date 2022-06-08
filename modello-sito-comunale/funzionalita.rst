@@ -93,10 +93,14 @@ L’utente accede all’interfaccia di ricerca globale nel sito attraverso l’i
 - **argomenti**, ovvero i tag tematici con cui possono essere taggati tutti i contenuti del sito.
 
 
-Ricerca contestuale per i servizi
-----------------------------------
+Ricerca contestuale
+----------------------
+
+In alcune delle pagine indice di primo e secondo livello si suggerisce di presentare una navigazione a faccette ed un motore di ricerca contestuale, che presenti solo i risultati legati a quella sezione (e dunque alle relative tipologie di contenuti).
 
 La ricerca contestuale fornisce una lista di risultati a partire da una ricerca (query) dell’utente. I risultati devono essere ordinati in modo predefinito in base alla pertinenza con la ricerca.
+
+**Ricerca contestuale per i servizi**
 
 L’utente può accedere alla all’interfaccia di ricerca contestuale per i servizi attraverso il campo di input nella sezione “Esplora tutti i servizi”. Nella versione attuale la ricerca contestuale filtra i risultati all’interno della tipologia di contenuto “Servizi”.
 
