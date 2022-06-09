@@ -143,15 +143,15 @@ Nell'area riservata, l'area del sito a cui si può accedere attraverso l'autenti
 L'homepage
 -----------
 
-La homepage è composta da:
+La homepage del sito di un Comune è composta da:
 
 - una notizia o evento in evidenza, in formato card grande, preferibilmente con immagine;
-- può avere una sezione di 3 notizie in evidenza, con il link "mostra tutte" che porta al ramo "Novità";
+- può avere una sezione di 3 notizie in evidenza, con il link "mostra tutte" che porta alla sezione del sito "Novità";
 - può avere una sezione amministrazione, con un massimo di 3 card (ad esempio il sindaco, la giunta comunale, il consiglio comunale);
-- un calendario con un massimo di 4 eventi in evidenza, con il link "mostra tutti" che porta al ramo "Vivere il comune" > "Eventi";
-- una sezione con 3 argomenti in evidenza (tratti dalla tassonomia argomenti) con il link "Mostra tutti" che porta al ramo "Argomenti";
+- un calendario con un massimo di 4 eventi in evidenza, con il link "mostra tutti" che porta alla sezione del sito "Vivere il comune" > "Eventi";
+- una sezione con 3 argomenti in evidenza (tratti dalla tassonomia argomenti) con il link "Mostra tutti" che porta alla sezione del sito "Argomenti";
 - può avere una sezione "Gallerie", con un massimo di 3 eventi passati che abbiano una galleria di immagini o video;
-- può avere una sezione "Luoghi", con un massimo di 3 luoghi, con il link "mostra tutti" che porta al ramo "Vivere il comune" > "Luoghi";
+- può avere una sezione "Luoghi", con un massimo di 3 luoghi, con il link "mostra tutti" che porta alla sezione del sito "Vivere il comune" > "Luoghi";
 - può avere una sezione con dei link a siti tematici esterni al sito del comune.
 
 La homepage deve presentare anche dei link in chiaro alle domande frequenti, alla richiesta di assistenza, alla prenotazione appuntamento e alla segnalazione disservizio.
@@ -182,7 +182,7 @@ Amministrazione è una sezione che contiene elementi di 3 tipologie di contenuto
 
 Ogni tipologia deve avere una propria sezione nella pagina. Ogni sezione potrà avere fino a 3 contenuti in evidenza (persone in evidenza, unità organizzative in evidenza, documenti e dati in evidenza) e l'elenco delle categorie non vuote della specifica tassonomia:
 
-- per persone la tassonomia "Tipi di incarico": politici, amministrativi, altri incarichi;
+- per le persone, la tassonomia "Tipi di incarico": politici, amministrativi, altri incarichi;
 - per le unità organizzative la tassonomia "Tipi di unità organizzativa": organi di governo, aree amministrative, uffici, enti e fondazioni;
 - per documenti e dati: Documenti albo pretorio, Modulistica, Documenti funzionamento interno, Normative, Accordi tra enti, Documenti attività politica, Rapporti tecnici, Istanze, Documenti di programmazione e rendicontazione, Dataset.
 
@@ -197,7 +197,7 @@ Ogni tipologia deve avere una propria sezione nella pagina. Poiché questa pagin
 
 **Novità**
 
-"Novità" è una sezione che contiene la tipologia di contenuto "Notizia".
+"Novità" è una sezione che contiene la tipologia di contenuto "Notizia". Queste possono essere notizie, avvisi e comunicati.
 
 La pagina deve contenere una sezione "Notizie in evidenza" e una sezione con l'elenco delle notizie ordinate per data, con paginazione.
 
