@@ -32,10 +32,12 @@ La funzionalità di richiesta di assistenza deve presentare:
 * la possibilità, non obbligatoria, di poter accedere con identità digitale;
 * i campi per l'inserimento delle informazioni del richiedente (nome, cognome, email);
 * i campi per l'inserimento dei dettagli della richiesta:
+
   - la categoria di servizio, selezionabile tramite una lista a tendina che presenta le voci della tassonomia *Categorie dei Servizi* più la voce "Relazioni con il pubblico" per tutte le richieste non afferenti a servizi specifici;
   - il servizio per cui si vuole richiedere assistenza, selezionabile tramite una lista a tendina che presenta i servizi della categoria selezionata precedentemente;
   - un campo di testo libero per fornire i dettagli della richiesta (max 600 caratteri);
- * un checkbox per confermare di aver preso visione dell'informativa privacy.
+  
+* un checkbox per confermare di aver preso visione dell'informativa privacy.
  
 Una volta inviata la richiesta, il sistema deve presentare una schermata di conferma del corretto invio e informare l'utente che riceverà un riepilogo della richiesta via email.
  
