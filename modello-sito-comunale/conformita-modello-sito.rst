@@ -37,10 +37,10 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
 
 
-**5. Il sito utilizza** `le font <../modello-sito-comunale/template-html.html#le-font-del-modello>`_ **indicate nella documentazione del modello di sito comunale**
+**5. Il sito utilizza** `i font <../modello-sito-comunale/template-html.html#i-font-del-modello>`_ **indicati nella documentazione del modello di sito comunale**
 
   Casi di non conformità:
-  - il sito usa prevalentemente o esclusivamente font non indicate nel modello.
+  - il sito usa prevalentemente o esclusivamente font non indicati nel modello.
 
 
 
