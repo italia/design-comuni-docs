@@ -101,11 +101,11 @@ Le varie sezioni presentano, a loro volta, una struttura interna di secondo, ter
 
 La navigazione di secondo livello della sezione **Amministrazione** è suddivisa in:
 
-- "Organi di governo", "Aree amministrative", "Uffici" ed "Enti e fondazioni", le cui sottostrutture sono definite dalla tassonomia "Tipi di unità organizzativa";
-- "Politici" e "Personale amministrativo", le cui sottostrutture sono definite dalla tassonomia "Tipi di incarico";
+- "Organi di governo" (la cui sottostruttura è definita dalle voci di secondo livello della tassonomia "Tipi di unità organizzativa, struttura politica"), "Aree amministrative", "Uffici" ed "Enti e fondazioni";
+- "Politici" e "Personale amministrativo", sulla base della tassonomia "Tipi di incarico";
 - "Documenti e dati", la cui sottostuttura è definita dalla tassonomia "Tipi di documento".
 
-La navigazione di secondo livello della sezione **Novità** è suddivisa in: "Notizie", "Comunicati" e "Avvisi", le cui sottostrutture sono definite dalla tassonomia "Tipi di notizia";
+La navigazione di secondo livello della sezione **Novità** è suddivisa in: "Notizie", "Comunicati" e "Avvisi", sulla base dlla tassonomia "Tipi di notizia";
 
 
 La navigazione di secondo livello della sezione **Servizi** è suddivisa in una serie di pagine categoria e la struttura è informata dalla tassonomia "Categorie di servizi". Sotto ogni categoria, sono presenti le singole schede servizio, che vanno a formare il terzo livello.
@@ -114,7 +114,7 @@ La navigazione di secondo livello della sezione **Servizi** è suddivisa in una 
 La navigazione di secondo livello della sezione **Vivere il comune** è suddivisa in:
 
 - "Luoghi", la cui sottostruttura è informata dalla tassonomia "Tipi di luogo".
-- "Eventi", la cui struttura è informata dalla tassonomia "Tipi di evento".
+- "Eventi", la cui sottostruttura è informata dalla tassonomia "Tipi di evento".
 
 L'etichetta di navigazione può essere, a scelta dei Comuni, o "Vivere il comune" o "Vivere <nomecomune>". Per i Comuni con nomi lunghi, è necessario usare la forma abbreviata (es. per il Comune di San Valentino in Abruzzo Citeriore, l'etichetta di navigazione sarà "Vivere San Valentino").
 
