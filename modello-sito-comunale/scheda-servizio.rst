@@ -41,6 +41,72 @@ Ogni scheda servizio dovrà, inoltre, presentare la `funzionalità di valutazion
 Dati strutturati e interoperabilità
 ------------------------------------
 
-Per migliorare ulteriormente l'esperienza digitale dei cittadini, è in lavorazione una lista di tag semantici con cui taggare i contenuti delle schede servizio. La risorsa di riferimento è Schema.org, un vocabolario di dati strutturati che consente ai motori di ricerca di comprendere i significati alla base dei contenuti di una pagina. 
+Per migliorare ulteriormente l'esperienza digitale dei cittadini, è disponibile una lista di tag semantici con cui taggare i contenuti delle schede servizio. La risorsa di riferimento è Schema.org, un vocabolario di dati strutturati che consente ai motori di ricerca di comprendere i significati alla base dei contenuti di una pagina. 
 
 L'utilizzo dei tag di Schema.org per i contenuti delle schede servizio permette di facilitare il cittadino nla ricerca dei contenuti del sito comunale sui motori di ricerca, come Google. Grazie ai tag, infatti, i motori di ricerca saranno in grado di fornire suggerimenti più precisi e rilevanti alle ricerche dei cittadini.
+
+Nel codice html della "Scheda informativa di servizio al cittadino" si richiede di includere, nella sezione html `head`, il tag `<script type="application/ld+json">` con la rappresentazione JSON-LD della tipologia `GovernmentService <https://schema.org/GovernmentService>`_.
+
+Nella rappresentazione andranno riportati alcuni degli attributi della tipologia *servizio* e delle tipologie collegate *unità organizzativa* e *luogo*. Più in particolare andranno specificati:
+
+* il `titolo del servizio` nell'attributo json ``name``;
+* il l'attributo `materie del servizio` nell'attributo json ``serviceType``;
+* il nome del comune nell'attributo json ``serviceOperator>name``;
+* l'attributo `copertura geografica` nell'attributo json ``areaServed>name``;
+* il testo `a chi è rivolto` nell'attributo json ``audience>audienceType``;
+* il link `canale digitale` nell'attributo json ``availableChannel>serviceUrl``;
+* l'attributo `titolo` dell'unità organizzativa (es ufficio o area) responsabile del servizio (attributo `Struttura responsabile` del servizio) nell'attributo json ``availableChannel>serviceLocation>name``;
+* l'attributo `indirizzo` dell'oggetto `luogo` associato al'attributo `canale fisico` del servizio nell'attributo json ``availableChannel>serviceLocation>address>streetAdress``;
+* l'attributo `CAP` dell'oggetto `luogo` associato al'attributo `canale fisico` del servizio nell'attributo json ``availableChannel>serviceLocation>address>postalCode``;
+* il nome del comune nell'attributo json ``availableChannel>serviceLocation>address>addressLocality``.
+
+
+**Template del codice**
+
+Si riporta il template del codice, con gli attributi in formato "<nomeattributo>":
+
+.. code-block::
+
+	<script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "GovernmentService",
+          "name": "<titolo del servizio>",
+          "serviceType": "<materie del servizio>",
+          "serviceOperator": {
+            "@type": "GovernmentOrganization",
+            "name": "Comune di <nomecomune>"
+          },
+          "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "<Copertura geografica>"
+          },
+          "audience": {
+            "@type": "Audience",
+            "audienceType": "<a chi è rivolto>"
+          },
+          "availableChannel": {
+            "@type": "ServiceChannel",
+            "name": "Dove rivolgersi",
+            "serviceUrl": "<canale digitale>",
+            "availableLanguage": {
+              "@type": "Language",
+              "name": "Italian",
+              "alternateName": "it"
+            },
+            "serviceLocation": {
+              "@type": "Place",
+              "name": "<unità organizzativa>",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "<luogo:indirizzo>",
+                "postalCode": "<luogo:cap>"
+                "addressLocality": "<nomecomune>",
+              }
+            }
+          }
+        }
+	</script>
+
+
+L'attributo `availableChannel>serviceUrl` **deve** essere presente in quei servizi erogati anche in modalità digitale e deve indicare l'url di accesso al servizio digitale.

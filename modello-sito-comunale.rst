@@ -16,7 +16,7 @@ Il modello comprende l’architettura dell’informazione, i template HTML e i t
    modello-sito-comunale/scheda-servizio.rst
    modello-sito-comunale/funzionalita.rst
    modello-sito-comunale/template-html.rst
-   modello-sito-comunale/wireframe-midfi.rst
+   modello-sito-comunale/wireframe-sito.rst
    modello-sito-comunale/temi-cms.rst
    modello-sito-comunale/guida-migrazione-contenuti.rst
    modello-sito-comunale/conformita-modello-sito.rst

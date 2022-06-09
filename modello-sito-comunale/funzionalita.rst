@@ -29,10 +29,20 @@ Richiesta di assistenza
 
 La funzionalità di richiesta di assistenza deve presentare:
 
-- un rimando alle domande frequenti (FAQ);
-- un contatto telefonico degli uffici di competenza;
-- un link alla funzionalità di prenotazione appuntamento;
-- il contatto di un sistema testuale di messaggistica asincrona.
+* la possibilità, non obbligatoria, di poter accedere con identità digitale;
+* i campi per l'inserimento delle informazioni del richiedente (nome, cognome, email);
+* i campi per l'inserimento dei dettagli della richiesta:
+
+  - la categoria di servizio, selezionabile tramite una lista a tendina che presenta le voci della tassonomia *Categorie dei Servizi* più la voce "Relazioni con il pubblico" per tutte le richieste non afferenti a servizi specifici;
+  - il servizio per cui si vuole richiedere assistenza, selezionabile tramite una lista a tendina che presenta i servizi della categoria selezionata precedentemente;
+  - un campo di testo libero per fornire i dettagli della richiesta (max 600 caratteri);
+  
+* un checkbox per confermare di aver preso visione dell'informativa privacy.
+ 
+Una volta inviata la richiesta, il sistema deve presentare una schermata di conferma del corretto invio e informare l'utente che riceverà un riepilogo della richiesta via email.
+ 
+Gli utenti autenticati con identità digitale devono poter salvare una bozza della richiesta nella propria area personale.
+
 
 Segnalazione disservizio
 ------------------------
@@ -80,3 +90,29 @@ La funzionalità si articola nei seguenti passaggi:
 
 
 3. viene presentato un campo di testo libero per dare la possibilità all'utente di inserire un breve commento.
+
+
+Ricerca globale nel sito
+-------------------------
+
+L’interfaccia di ricerca globale fornisce una lista di risultati a partire da una ricerca (query) dell’utente. I risultati devono essere ordinati in modo predefinito in base alla pertinenza con la ricerca.
+
+L’utente accede all’interfaccia di ricerca globale nel sito attraverso l’icona lente nella intestazione principale. L’interfaccia di ricerca globale nel sito permette di filtrare i risultati attraverso due tipi di filtri:
+
+- **tipologie di contenuto**, raggruppati in base alle voci della navigazione (Unità organizzativa, Persona pubblica, Documenti, Servizi, Luogo, Evento);
+- **argomenti**, ovvero i tag tematici con cui possono essere taggati tutti i contenuti del sito.
+
+
+Ricerca contestuale
+----------------------
+
+In alcune delle pagine indice di primo e secondo livello si suggerisce di presentare una navigazione a faccette ed un motore di ricerca contestuale, che presenti solo i risultati legati a quella sezione (e dunque alle relative tipologie di contenuti).
+
+La ricerca contestuale fornisce una lista di risultati a partire da una ricerca (query) dell’utente. I risultati devono essere ordinati in modo predefinito in base alla pertinenza con la ricerca.
+
+**Ricerca contestuale per i servizi**
+
+L’utente può accedere alla all’interfaccia di ricerca contestuale per i servizi attraverso il campo di input nella sezione “Esplora tutti i servizi”. Nella versione attuale la ricerca contestuale filtra i risultati all’interno della tipologia di contenuto “Servizi”.
+
+La ricerca contestuale è presente anche nelle pagine di Categorie di servizi. In questo caso la ricerca filtra i risultati per tipologia di contenuto (“Servizi”) e per categoria di servizio. Per esempio, nella categoria “Anagrafe e stato civile” la ricerca contestuale restituisce soltanto risultati di tipo “Servizio” che appartengono alla categoria “Anagrafe e stato civile”.
+
