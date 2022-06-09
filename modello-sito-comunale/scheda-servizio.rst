@@ -61,8 +61,11 @@ Nella rappresentazione andranno riportati alcuni degli attributi della tipologia
 * il nome del comune nell'attributo json ``availableChannel>serviceLocation>address>addressLocality``.
 
 
+**Template del codice**
 
-Si riporta il template del codice, con gli attributi in formato "<nomeattributo>".
+Si riporta il template del codice, con gli attributi in formato "<nomeattributo>":
+
+.. code-block::
 
 	<script type="application/ld+json">
         {
@@ -104,5 +107,6 @@ Si riporta il template del codice, con gli attributi in formato "<nomeattributo>
           }
         }
 	</script>
+
 
 L'attributo `availableChannel>serviceUrl` **deve** essere presente in quei servizi erogati anche in modalità digitale e deve indicare l'url di accesso al servizio digitale.
