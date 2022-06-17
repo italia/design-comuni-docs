@@ -11,7 +11,7 @@ Il redesign di un sito, infatti, è un’ottima opportunità per riorganizzare, 
    
    1. Usa il `Modello di analisi dei contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`_ e fai una lista di tutte le pagine del vecchio sito, indicando le struttura gerarchica e le URL.
    
-   2. Passa in rassegna le pagine del vecchio sito, aiutandoti con strumenti per l'analisi dei dati come `Google Analytics <https://analytics.google.com/analytics/web/provision/#/provision>`_ e segna sul Modello di analisi dei contenuti quali sono le pagine più visitate, i contenuti più efficaci per gli utenti ed eventuali problematiche come dati mancanti o incorretti. Questa operazione è chiamata “content audit” e ti aiuterà a decidere cosa migrare e cosa no.
+   2. Passa in rassegna le pagine del vecchio sito, aiutandoti con strumenti per l'analisi dei dati come `Web Analytics Italia <https://webanalytics.italia.it/>`_ e segna sul Modello di analisi dei contenuti quali sono le pagine più visitate, i contenuti più efficaci per gli utenti ed eventuali problematiche come dati mancanti o incorretti. Questa operazione è chiamata “content audit” e ti aiuterà a decidere cosa migrare e cosa no.
    
    3. Consulta la `struttura del nuovo sito <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=1853196915>`_ e affiancala a quella del vecchio, cercando il più possibile di far corrispondere una ad una le pagine (corrispondenza biunivoca).
    
