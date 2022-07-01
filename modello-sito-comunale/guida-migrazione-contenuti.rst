@@ -36,7 +36,7 @@ Per migliorare l’efficacia della migrazione, si suggerisce di effettuare una s
    
    3. Chiedi a Google di `effettuare una nuova indicizzazione del sito <https://developers.google.com/search/docs/advanced/crawling/ask-google-to-recrawl?hl=it>`_, inviando le sitemap del vecchio e del nuovo sito per segnalare i reindirizzamenti e il nuovo dominio.
    
-   4. Monitora frequentemente le metriche principali di engagement su software come Google Analytics per comprendere l’andamento del redesign e intervenire prontamente in caso di problemi.
+   4. Monitora frequentemente le metriche principali di engagement su software come Web Analytics Italia (WAI) per comprendere l’andamento del redesign e intervenire prontamente in caso di problemi.
    
    
 .. hint::
