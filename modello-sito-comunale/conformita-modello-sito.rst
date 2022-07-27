@@ -11,7 +11,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
   Casi di non conformità:
   
-  - anche solo una scheda servizio non presenta più di una delle informazioni obbligatorie;
+  - anche solo una scheda servizio non presenta più di due delle informazioni obbligatorie;
   - anche solo una scheda servizio presenta le informazioni obbligatorie in un ordine diverso.
 
 
@@ -33,7 +33,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
   - sono presenti più di 7 voci di menu di primo livello.
 
 
-**4. Il sito presenta i titoli delle pagine di secondo livello come descritto nel nel** `documento di architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html/#navigazione-e-alberatura>`_, **sotto la voce “Coreografia: alberatura”**
+**4. Il sito presenta i titoli delle pagine di secondo livello come descritto nel** `documento di architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html/#navigazione-e-alberatura>`_, **sotto la voce “Coreografia: alberatura”**
 
   Casi di non conformità:
   
@@ -54,7 +54,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
   Casi di non conformità:
   
   - la libreria Bootstrap Italia non è collegata nell'head del sito;
-  - la libreria Bootstrap Italia utilizzata è una versione precedente alla 1.6.0.
+  - la libreria Bootstrap Italia utilizzata è una versione precedente alla 2.0.
 
 
 
@@ -94,11 +94,11 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
   
   - almeno una delle pagine di primo e secondo livello non presenta la funzionalità di valutazione della chiarezza informativa.
 
-**11. Tutte le schede servizio consentono di** `prenotare un appuntamento <../modello-sito-comunale/funzionalita.html#prenotazione-appuntamento>`_ **presso l'ufficio di competenza**
+**11. Tutte le schede di servizi erogabili a sportello consentono di** `prenotare un appuntamento <../modello-sito-comunale/funzionalita.html#prenotazione-appuntamento>`_ **presso l'ufficio di competenza**
 
   Casi di non conformità:
   
-  - anche solo una scheda servizio non presenta la funzionalità per prenotare un appuntamento.
+  - anche solo una scheda di servizio erogabile a sportello non presenta la funzionalità per prenotare un appuntamento.
 
 
 **12. Tutte le schede servizio presentano i contatti specifici per l'ufficio preposto all'erogazione del servizio**
@@ -116,8 +116,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
   Casi di non conformità:
   
-  - nel caso il servizio sia erogabile o richiedibile digitalmente, almeno un servizio non presenta la funzione di valutazione dell’esperienza d’uso;
-  - nel caso il servizio non sia erogabile o richiedibile digitalmente, almeno una delle schede servizio non presenta la funzione di valutazione delle     informazioni e della chiarezza informativa.
+  - nel caso di servizi non erogabili o richiedibili digitalmente, almeno una delle schede servizio non presenta la funzione di valutazione delle     informazioni e della chiarezza informativa.
 
 
 ``Sicurezza``
@@ -184,7 +183,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 **20. Il sito presenta livelli di performace idonei**
 
 .. note::
-  Il livello di performance viene calcolato dalla piattaforma PAdigitale2026 tramite le librerie Lighthouse (punteggio da 1 a 100 ottenuto dalla media pesata di 6 metriche standard). Nel caso di punteggio inferiore a 50 il Comune dovrà indicare nel footer un link ad un "Piano di miglioramento del sito" che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa e le relative tempistiche di realizzazione attese.
+  Nel caso in cui il sito comunale presenti livelli di performance (media pesata di 6 metriche standard) inferiori a 50, secondo quanto calcolato e verificato tramite le librerie Lighthouse, il Comune pubblica sul sito comunale un "Piano di miglioramento del sito" che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa e le relative tempistiche di realizzazione attese.
 
   Casi di non conformità:
   
@@ -211,7 +210,7 @@ Per migliorare ulteriormente l'esperienza degli utenti e garantire l'uso di tecn
 
   Da evitare:
   
-  - più del 50% delle voci delle schede servizio non utilizza metatag.
+  - più del 50% dei metatag indicati non vengono utilizzati per marcare le voci della scheda servizio.
 
 
 **3. Il sito usa tecnologie e infrastrutture cloud**
