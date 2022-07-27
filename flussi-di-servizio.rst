@@ -26,4 +26,5 @@ Le risorse includono:
    flussi-di-servizi/costruisci-un-servizio.rst
    flussi-di-servizi/valutazione-servizio.rst
    flussi-di-servizi/conformita-flussi-servizio.rst
+   flussi-di-servizi/template-html-servizi.rst
   
