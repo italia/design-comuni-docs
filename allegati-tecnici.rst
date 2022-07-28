@@ -21,7 +21,7 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
 
    * - Anteprime dei Template HTML per il sito e i servizi digitali
      - Antemprime HTML
-     - `Vai alle anteprime <https://design-comuni-pagine-sta-git-c0aa6d-dip-trasformazione-digitale.vercel.app/#>`_
+     - `Vai alle anteprime <https://italia.github.io/design-comuni-pagine-statiche>`_
      
    * - Template HTML per il sito e i servizi digitali
      - Repository GitHub
