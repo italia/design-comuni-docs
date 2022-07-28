@@ -17,7 +17,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
   - sulla scheda servizio non è presente l’opzione per effettuare l’accesso.
 
 
-**2. L'utente riceve una notifica di completamento al termine del processo di presentzione dell'istanza**
+**2. L'utente riceve una notifica di completamento al termine del processo di presentazione dell'istanza**
 
   La notifica deve essere possibilmente presentata in modalità multicanale sfruttando le piattaforme già a disposizione del cittadino (es.: notifica in area riservata, mail, SMS)
   
@@ -34,6 +34,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
   
   - l’utente non visualizza tutte le informazioni relative all’istanza in una schermata unica;
   - il riepilogo delle informazioni non viene mostrato immediatamente prima della richiesta di conferma.
+  - l’utente non riceve la notifica di completamento al termine del processo di presentazione dell’istanza
 
 
 
@@ -57,7 +58,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
   - la bozza salvata è disponibile per un periodo inferiore a un anno.
 
 
-**4. L'utente può lasciare una valutazione sull'esperienza d'uso del servizio digitale al termine della processo**
+**6. L'utente può lasciare una valutazione sull'esperienza d'uso del servizio digitale al termine della processo**
 
   In linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
   
@@ -67,7 +68,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
   
 
-**5. L’avanzamento e gli step necessari al completamento del processo sono indicati chiaramente in ogni schermata, attraverso breadcrumbs navigabili che consentono di tornare indietro ed effettuare modifiche**
+**7. L’avanzamento e gli step necessari al completamento del processo sono indicati chiaramente in ogni schermata, attraverso breadcrumbs navigabili che consentono di tornare indietro ed effettuare modifiche**
 
   In linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1/language-en>`_, l'`Art.3 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_I-sezione_II-articolo_3.html>`_ e l'`Art. 41 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_III-sezione_II-articolo_41.html>`_ del CAD, e le `Linee guida AgID sulla formazione, gestione e conservazione dei documenti informatici <https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5385.html>`_
   
@@ -77,7 +78,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
   - i breadcrumbs mostrati non sono navigabili.
 
 
-**6. L’utente può visionare lo stato della propria istanza tramite area personale o un codice univoco di referenza, visualizzandone le principali tappe di avanzamento**
+**8. L’utente può visionare lo stato della propria istanza tramite area personale o un codice univoco di referenza, visualizzandone le principali tappe di avanzamento**
 
   In confromità con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
   
@@ -88,17 +89,17 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
   - lo stato di avanzamento dell'istanza non presenta le tappe aggiornate.
 
 
-**7. La data di presa in carico dell’istanza e la data ultima prevista per l’erogazione del servizio sono comunicate in chiaro all’utente, secondo i termini massimi descritti dalla scheda servizio**
+**9. La data di presa in carico dell’istanza e la data ultima prevista per l’erogazione del servizio sono comunicate in chiaro all’utente, secondo i termini massimi descritti dalla scheda servizio**
 
   In linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_ e la `Legge 241/1990, art. 2 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art2!vig=>`_
 
   Casi di non conformità:
   
   - l’area servizi per il cittadino non esplicita la data di presa in carico dell’istanza;
-  - l’area servizi per il cittadino non esplicita la data ultima prevista per l’erogazione del servizio;
-  - i tempi previsti per l’erogazione del servizio sono superiori ai termini massimi descritti nella relativa scheda servizio.
+  - l’area servizi per il cittadino non esplicita la data ultima prevista per l'evasione dell'istanza;
+  - i tempi previsti per l’erogazione dell'istanza sono superiori ai termini massimi descritti nella relativa scheda servizio.
 
-**8. L'area servizi sito utilizza** `i font <../modello-sito-comunale/template-html.html#i-font-del-modello>`_ **indicati nella documentazione del modello di sito comunale**
+**10. L'area servizi sito utilizza** `i font <../modello-sito-comunale/template-html.html#i-font-del-modello>`_ **indicati nella documentazione del modello di sito comunale**
 
   Casi di non conformità:
   
@@ -108,7 +109,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
   
 ``Funzionalità``
 
-**9. L'utente può effettuare eventuali pagamenti in forma completamente digitale**
+**11. L'utente può effettuare eventuali pagamenti in forma completamente digitale**
 
   In linea con l'`Art. 5 del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_I-sezione_II-articolo_5.html>`_
   
@@ -117,7 +118,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
   - anche solo un servizio che prevede un pagamento non permette all’utente di effettuarlo digitalmente;
   - il processo di pagamento non è interamente digitale.
 
-**10. L’area servizi per il cittadino del sito comunale consente di prenotare un appuntamento presso l'ufficio di competenza**
+**12. L’area servizi per il cittadino del sito comunale consente di prenotare un appuntamento presso l'ufficio di competenza**
 
   In conformità con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
 
@@ -129,17 +130,18 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
 ``Sicurezza``
 
-**11. L'area servizi utilizza un sottodominio istituzionale**
+**13. L'area servizi per il cittadino del sito comunale utilizza un sottodominio istituzionale congruente al dominio istituzionale del sito**
 
   In linea con il `registro dei nomi a dominio riservati per i Comuni italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_
   
   Casi di non conformità:
   
+  - il sottodominio dell'area servizi utilizzato non è congruente al dominio del sito;
   - il sottodominio non è in linea con il registro dei nomi a dominio riservati per i Comuni italiani.
 
   
   
-**12. L'area servizi presenta cookie tecnici in conformità con le** `Linee guida cookie e altri strumenti di tracciamento - 10 giugno 2021 del Garante per la protezione dei dati personali <https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9677876>`_
+**14. L'area servizi presenta cookie tecnici in conformità con le** `Linee guida cookie e altri strumenti di tracciamento - 10 giugno 2021 del Garante per la protezione dei dati personali <https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9677876>`_
 
   Casi di non conformità:
   
@@ -147,7 +149,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
 
 
-**13. L’area servizi presenta una dichiarazione di accessibilità secondo le** `norme AGID <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_
+**15. L’area servizi presenta una dichiarazione di accessibilità secondo le** `norme AGID <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_
 
   E in linea con le `Linee guida AGID sull’accessibilità degli strumenti informatici <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`_, la `Legge 9 gennaio 2004 n. 4 <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2004-01-17&atto.codiceRedazionale=004G0015&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=10&qId=cb6b9a05-f5c3-40ac-81b8-f89e73e5b4c7&tabID=0.029511124589268523&title=lbl.dettaglioAtto>`_, le `Web Content Accessibility Guidelines (WCAG 2.1) <https://www.w3.org/Translations/WCAG21-it/#background-on-wcag-2>`_ e la `Direttiva Reg. UE n. 2102/2016 <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32016L2102>`_.
 
@@ -158,7 +160,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
   
   
-**14. L'area servizi presenta l’informativa sul trattamento dei dati personali in conformità con la** `normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/2016) <https://www.garanteprivacy.it/regolamentoue>`_
+**16. L'area servizi presenta l’informativa sul trattamento dei dati personali in conformità con la** `normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/2016) <https://www.garanteprivacy.it/regolamentoue>`_
 
   Casi di non conformità:
   
@@ -169,14 +171,14 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
 ``Performance``
 
-**15. L’area servizi presenta livelli di performance idonei**
+**17. I flussi di servizio presentano livelli di performance idonei**
 
 .. note::
-  Il livello di performance viene calcolato dalla piattaforma PAdigitale2026 tramite le librerie Lighthouse (punteggio da 1 a 100 ottenuto dalla media pesata di 6 metriche standard). Nel caso di punteggio inferiore a 50 il Comune dovrà indicare nel footer un link ad un "Piano di miglioramento dell’area servizi" che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa e le relative tempistiche di realizzazione attese.
+  Nel caso in cui i flussi di servizio presentino livelli di performance (media pesata di 6 metriche standard) inferiori a 50 secondo quanto calcolato e verificato tramite le librerie Lighthouse, il Comune pubblica sul sito comunale un "Piano di miglioramento dei servizi" che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa e le relative tempistiche di realizzazione attese.
 
   Casi di non conformità:
   
-  - L’area servizi presenta un punteggio inferiore a 50 e non presenta il “Piano di miglioramento dell’area servizi” nel footer.
+  - Anche solo un flusso di servizio presenta una performance con punteggio inferiore a 50 e non è presente il “Piano di miglioramento dell’area servizi” nel footer.
 
 
 
@@ -217,8 +219,8 @@ Per migliorare ulteriormente l’esperienza degli utenti e garantire l’uso di 
 **5. Il processo consente all'utente di utilizzare i dati già forniti alle Pubbliche Amministrazioni e presenti nelle banche dati digitali nazionali (es. ANPR), senza doverli inserire nuovamente**
 
   In linea con la direttiva CAD `Art. 50 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_50.html>`_, `50-ter <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_50-ter.html>`_ e `60 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_II-articolo_60.html>`_, e  Linee Guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni.
-
-
+  
+  
 **6. Il Comune mette a disposizione il software nel** `catalogo del riuso <https://developers.italia.it/it/search?type=software_reuse&sort_by=release_date&page=0>`_ **sotto licenza aperta**
 
   In linea con le `Linee Guida Riuso delle soluzioni e standard aperti <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo6_art69.html>`_ e `Acquisizione e riuso di software per le pubbliche amministrazioni <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_.

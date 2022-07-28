@@ -7,7 +7,7 @@ La progettazione, ispirata ai principi dell'*user centred design*, ha da subito 
 
 Il modello permette a tutti i Comuni di soddisfare i requisiti previsti dall’Investimento 1.4.1 Esperienza del cittadino nei servizi pubblici digitali per l’erogazione delle risorse del Piano nazionale di ripresa e resilienza (PNRR), disponibili sulla piattaforma PA digitale 2026.
 
-Aggiornamento ed evoluzione del modello
+Ricerca, aggiornamento ed evoluzione del modello
 ----------------------------------------
 
 Grazie ad analisi euristiche, test di usabilità, interviste e momenti di confronto con i protagonisti della trasformazione digitale sul territorio (Comuni, Consorzi, *in-house* e fornitori), il modello di sito istituzionale per i Comuni italiani è stato aggiornato in termini di accessibilità, usabilità e conformità alle normative vigenti in materia di design e sviluppo di siti e servizi della Pubblica Amministrazione.
@@ -19,6 +19,8 @@ In particolare, gli ultimi interventi hanno riguardato:
 - l’introduzione di nuove funzionalità, come la prenotazione di appuntamenti;
 - l’ampliamento dell’area personale a disposizione del cittadino;
 - la creazione di 5 tipologie di flusso di interfaccia per la realizzazione di servizi digitali per il cittadino.
+
+`Consulta il report completo della ricerca <https://docs.italia.it/italia/designers-italia/design-report-ricerca-comuni-docs/>`_ alla base della progettazione del modello e della sua evoluzione
 
 
 Principi di progettazione
