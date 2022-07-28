@@ -181,7 +181,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
 ``Performance``
 
-**20. Il sito presenta livelli di performace idonei**
+**20. Il sito presenta livelli di performance idonei**
 
 .. note::
   Il livello di performance viene calcolato dalla piattaforma PAdigitale2026 tramite le librerie Lighthouse (punteggio da 1 a 100 ottenuto dalla media pesata di 6 metriche standard). Nel caso di punteggio inferiore a 50 il Comune dovrà indicare nel footer un link ad un "Piano di miglioramento del sito" che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa e le relative tempistiche di realizzazione attese.
