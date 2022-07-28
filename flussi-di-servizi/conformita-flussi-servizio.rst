@@ -28,7 +28,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
 **3. L’utente può verificare tutte le informazioni inserite relative all’istanza in una schermata di riepilogo**
 
-  Il riepiligo viene presentato immediatamente prima della richiesta di conferma per la finalizzazione della procedura, in linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
+  Il riepilogo viene presentato immediatamente prima della richiesta di conferma per la finalizzazione della procedura, in linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
   
   Casi di non conformità:
   
@@ -80,7 +80,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
 **8. L’utente può visionare lo stato della propria istanza tramite area personale o un codice univoco di referenza, visualizzandone le principali tappe di avanzamento**
 
-  In confromità con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
+  In conformità con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
   
   Casi di non conformità:
   
