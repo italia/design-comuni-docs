@@ -68,7 +68,7 @@ Questo componente è stato progettato usando una scala che vuole misurare la chi
 
 La funzionalità si articola nei seguenti passaggi:
 
-1. viene posta la domanda "Le informazioni sulla pagina sono chiare?", a cui l'utente risponde con una scala likert 1-5 sotto forma di stelline;
+1. viene posta la domanda "*Quanto sono chiare le informazioni su questa pagina?*", a cui l'utente risponde con una scala likert 1-5 sotto forma di stelline;
 
 2. in base alla risposta dell'utente, il secondo passaggio presenta 2 varianti:
 
