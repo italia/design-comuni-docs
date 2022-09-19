@@ -9,7 +9,7 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
 **C.SI.1.1 - Coerenza dell'utilizzo dei font (librerie di caratteri)**
 
-Il sito comunale utilizza** `i font <../modello-sito-comunale/template-html.html#i-font-del-modello>`_ indicati nella documentazione del modello di sito comunale.
+Il sito comunale utilizza `i font <../modello-sito-comunale/template-html.html#i-font-del-modello>`_ indicati nella documentazione del modello di sito comunale.
 
   Casi di non conformità:
   
@@ -215,7 +215,7 @@ Il sito comunale pubblica dati, documenti e informazioni con licenza aperta comu
 
 **C.SI.4.1 - Velocità e tempi di risposta**
 
-Nel caso in cui il sito comunale presenti livelli di performance (media pesata di 6 metriche standard) inferiori a 50, secondo quanto calcolato e verificato tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`, il Comune pubblica sul sito comunale un "Piano di miglioramento del sito" che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa e le relative tempistiche di realizzazione attese.
+Nel caso in cui il sito comunale presenti livelli di performance (media pesata di 6 metriche standard) inferiori a 50, secondo quanto calcolato e verificato tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`_, il Comune pubblica sul sito comunale un "Piano di miglioramento del sito" che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa e le relative tempistiche di realizzazione attese.
 
   Casi di non conformità:
   
