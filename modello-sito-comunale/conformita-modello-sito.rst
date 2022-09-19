@@ -7,187 +7,247 @@ Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento 
 
 ``Esperienza utente``
 
-**1. Le schede servizio presentano tutte le informazioni obbligatorie e nell’ordine segnalato nel** `documento di architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html>`_, **con particolare attenzione ai tempi di risposta del Comune alla richiesta del cittadino**
+**C.SI.1.1 - Coerenza dell'utilizzo dei font (librerie di caratteri)**
+
+Il sito comunale utilizza** `i font <../modello-sito-comunale/template-html.html#i-font-del-modello>`_ indicati nella documentazione del modello di sito comunale.
 
   Casi di non conformità:
   
-  - anche solo una scheda servizio non presenta più di due delle informazioni obbligatorie;
-  - anche solo una scheda servizio presenta le informazioni obbligatorie in un ordine diverso.
+  - il sito non utilizza prevalentemente o esclusivamente il font Titillium Web;
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
-**2. I contenuti del sito comunale sono taggati con le voci della lista degli argomenti definita nel** `documento di architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html#tassonomie>`_ **o appartenenti al** `vocabolario controllato EuroVOC <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_
+**C.SI.1.2 - Libreria di elementi di interfaccia**
+
+Il sito comunale utilizza la `libreria Bootstrap Italia <https://italia.github.io/bootstrap-italia/docs/componenti/introduzione/>`_
 
   Casi di non conformità:
   
-  - più del 50% degli argomenti utilizzati non corrisponde a quelli della lista del modello o non sono appartenenti al vocabolario controllato EuroVOC.
+  - il sito non utilizza la libreria Bootstrap Italia;
+  - la libreria Bootstrap Italia non è collegata nell’head del sito;
+  - la versione utilizzata è precedente alla 2.0.
+
+**C.SI.1.3 - Schede informative di servizio per il cittadino**
+
+Nel sito comunale tutte le schede informative dei servizi per il cittadino mostrano le voci segnalate come obbligatorie all'interno dell'`architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html>`_, nell'ordine segnalato dal modello. In particolare, indicano il tempo massimo di risposta della PA al servizio ove presente.
+
+  Casi di non conformità:
+  
+  - anche solo in una scheda servizio più di 2 voci obbligatorie non sono presenti;
+  - più di 1 voce obbligatoria non è nell'ordine corretto;
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
+**C.SI.1.4 - Utilizzo di temi per CMS (Content Management System)**
 
-**3. Il sito presenta tutte le voci di primo livello nell’ordine esatto descritto nel** `documento di architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html/#navigazione-e-alberatura>`_
+Nel caso in cui il sito utilizzi `tema messo a disposizione <../modello-sito-comunale/temi-cms.html>`_ nella documentazione del modello di sito comunale, lo utilizza nella versione più recente disponibile alla data di inizio lavori.
+
+  Casi di non conformità:
+  
+  - il sito utilizza un tema CMS del modello Comuni ma non ne utilizza la versione più recente disponibile alla data di inizio lavori o ne utilizza una versione precedente alla v1.0.
+
+**C.SI.1.5 - Vocabolari controllati**
+
+Il sito comunale utilizza `gli argomenti forniti dal modello di sito comunale <../modello-sito-comunale/architettura-informazione.html#tassonomie>`_ ovvero quelli appartenenti al vocabolario controllato europeo `EuroVoc <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_.
+
+  Casi di non conformità:
+  
+  - meno del 50% degli argomenti utilizzati appartengono al vocabolario controllato del modello o al vocabolario controllato EuroVOC;
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
+
+**C.SI.1.6 - Voci di menù di primo livello**
+
+Il sito comunale presenta tutte le voci di primo livello nell’esatto ordine descritto nella `documentazione del modello di sito comunale <../modello-sito-comunale/architettura-informazione.html/#navigazione-e-alberatura>`_.
 
   Casi di non conformità:
   
   - almeno una delle voci di menu di primo livello è assente o inesatta;
-  - le voci di menu di primo livello sono in ordine diverso da quanto descritto;
-  - sono presenti più di 7 voci di menu di primo livello.
+  - le voci obbligatorie sono in ordine errato;
+  - sono presenti 8 o più voci nel menù del sito;
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
-**4. Il sito presenta i titoli delle pagine di secondo livello come descritto nel** `documento di architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html/#navigazione-e-alberatura>`_, **sotto la voce “Coreografia: alberatura”**
+**C.SI.1.7 - Titoli delle pagine di secondo livello**
 
-  Casi di non conformità:
-  
-  - meno del 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nel documento dell’architettura dell’informazione.
-
-
-
-**5. Il sito utilizza** `i font <../modello-sito-comunale/template-html.html#i-font-del-modello>`_ **indicati nella documentazione del modello di sito comunale**
+Nel sito comunale, i titoli delle pagine di secondo livello rispettano il vocabolario descritto nella `documentazione del modello di sito comunale <../modello-sito-comunale/architettura-informazione.html/#navigazione-e-alberatura>`_.
 
   Casi di non conformità:
   
-  - il sito usa prevalentemente o esclusivamente font non indicati nel modello.
-
-
-
-**6. Il sito usa gli** `elementi di interfaccia della libreria Bootstrap Italia <https://italia.github.io/bootstrap-italia/docs/componenti/introduzione/>`_
-
-  Casi di non conformità:
-  
-  - la libreria Bootstrap Italia non è collegata nell'head del sito;
-  - la libreria Bootstrap Italia utilizzata è una versione precedente alla 2.0.
-
-
-
-**7. Nel caso in cui il sito utilizzi un** `tema messo a disposizione <../modello-sito-comunale/temi-cms.html>`_ **nella documentazione del modello di sito comunale, lo utilizza nella versione più recente disponibile alla data di inizio lavori**
-
-  Casi di non conformità:
-  
-  - il sito utilizza un tema del modello Comuni ma non utilizza la versione più recente disponibile alla data di inizio lavori.
+  - meno del 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella documentazione;
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
 ``Funzionalità``
 
-**8. Il sito presenta una sezione per le domande frequenti (FAQ)**
+**C.SI.2.1 - Prenotazione appuntamenti**
 
-  In linea con  l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
-  
-  Casi di non conformità:
-  
-  - il sito non presenta il link alla sezione FAQ nel footer.
-
-
-**9. Il sito permette al cittadino di** `segnalare un disservizio <../modello-sito-comunale/funzionalita.html#segnalazione-disservizio>`_, **tramite email o servizio dedicato**
-
-  In linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
-  
-  Casi di non conformità:
-  
-  - il sito non presenta il link alla funzionalità di segnalazione disservizio nel footer.
-
-
-**10. Il sito consente al cittadino di fornire** `una valutazione della chiarezza informativa <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_ **di ogni pagina di primo e secondo livello**
-
-  In linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
+Il sito comunale consente di `prenotare un appuntamento <../modello-sito-comunale/funzionalita.html#prenotazione-appuntamento>`_ presso lo sportello di competenza.
 
   Casi di non conformità:
   
-  - almeno una delle pagine di primo e secondo livello non presenta la funzionalità di valutazione della chiarezza informativa.
+  - la funzionalità per prenotare un appuntamento non è presente sul sito;
+  - la funzionalità non permette al cittadino di: selezionare l’ufficio, scegliere fra le date e gli orari disponibili, scegliere l’argomento e spiegare il motivo della richiesta, lasciare il proprio nominativo e i propri contatti;
+  - la funzionalità non è accessibile come servizio a sé nell’elenco dei servizi;
+  - la funzionalità non è accessibile all’interno delle schede servizio;
+  - la funzionalità non circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato, quando vi si accede direttamente da una scheda servizio;
+  - la funzionalità non indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio;
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
-**11. Tutte le schede di servizi erogabili a sportello consentono di** `prenotare un appuntamento <../modello-sito-comunale/funzionalita.html#prenotazione-appuntamento>`_ **presso l'ufficio di competenza**
+
+**C.SI.2.2 - Richiesta di assistenza / contatti**
+
+All'interno del sito comunale, nel contenuto della scheda servizio, i contatti sono specifici per l'ufficio preposto all'erogazione del servizio.
+
 
   Casi di non conformità:
   
-  - anche solo una scheda di servizio erogabile a sportello non presenta la funzionalità per prenotare un appuntamento.
+  - anche solo una scheda servizio non presenta i contatti dell’ufficio preposto all’erogazione del servizio;
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
-**12. Tutte le schede servizio presentano i contatti specifici per l'ufficio preposto all'erogazione del servizio**
-
-  In linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
+**C.SI.2.3 - Richiesta di assistenza / domande frequenti**
+  
+Il sito comunale contiene una sezione per le domande più frequenti (FAQ).
   
   Casi di non conformità:
   
-  - anche solo una scheda servizio non presenta la voce “Contatti”.
+  - il sito non presenta il link alla sezione di domande frequenti nel footer;
+  - la pagina di destinazione del link non esiste;
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+  
 
+**C.SI.2.4 - Segnalazione disservizio**
 
-**13. Nel caso in cui il servizio non sia erogato in digitale, il sito comunale permette la** `valutazione dell’utilità della scheda di servizio <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_, **come per il criterio “valutazione della chiarezza** informativa”.
+Il sito comunale fornisce al cittadino di `segnalare un disservizio <../modello-sito-comunale/funzionalita.html#segnalazione-disservizio>`_, tramite email o servizio dedicato.
 
-  In conformità con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
+In linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
+  
+  Casi di non conformità:
+  
+  - il sito non presenta il link alla funzionalità di segnalazione disservizio nel footer;
+  - la pagina di destinazione non esiste;
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio;
+  - se è stata implementata la funzionalità dedicata, il cittadino deve avere la possibilità di:assegnare una categoria alla segnalazione; indicare il luogo a cui la segnalazione si riferisce, attraverso l’immissione di un indirizzo o con la funzione di geotag su una mappa; indicare l’oggetto della segnalazione; aggiungere una breve descrizione; aggiungere delle immagini; allegare uno o più documenti.
+
+**C.SI.2.5 - Valutazione dell'esperienza d'uso, chiarezza delle pagine informative**
+
+Il sito comunale consente al cittadino di fornire `una valutazione della chiarezza <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_ di ogni pagina di primo e secondo livello.
+
+In linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
 
   Casi di non conformità:
   
-  - nel caso di servizi non erogabili o richiedibili digitalmente, almeno una delle schede servizio non presenta la funzione di valutazione delle     informazioni e della chiarezza informativa.
+  - almeno una delle pagine di primo e secondo livello non presenta la funzionalità di valutazione della chiarezza informativa;
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio;
+  - la funzionalità non rispetta anche solo una delle caratteristiche e passaggi descritti nella documentazione.
 
 
-``Sicurezza``
 
-**14. Il sito ha un certificato https valido e attivo**
+**C.SI.2.6 - Valutazione dell'esperienza d'uso, chiarezza informativa della scheda di servizio**
 
-  In linea con le `Raccomandazioni AgID in merito allo standard Transport Layer Security (TLS) <https://cert-agid.gov.it/wp-content/uploads/2020/11/AgID-RACCSECTLS-01.pdf>`_
+Il sito comunale permette la `valutazione della chiarezza informativa <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_ per ogni scheda di servizio, secondo le modalità indicate nella documentazione del modello di sito comunale.
 
-  Casi di non conformità:
-  
-  - il certificato https non è presente;
-  - il certificato https è scaduto;
-  - il certificato https è obsoleto.
-
-
-**15. Il sito utilizza un dominio istituzionale**
-
-  In linea con il `registro dei nomi a dominio riservati per i Comuni italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_
+In conformità con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
 
   Casi di non conformità:
   
-  - il dominio non è in linea con il registro dei nomi a dominio riservati per i Comuni italiani.
+  - almeno una delle schede servizio non presenta la funzionalità di valutazione della chiarezza informativa;
+  - la funzionalità non rispetta anche solo una delle caratteristiche e passaggi descritti nella documentazione.
 
 
 ``Normativa``
 
-**16. Il sito presenta cookie tecnici in conformità** con le `Linee guida cookie e altri strumenti di tracciamento - 10 giugno 2021 del Garante per la protezione dei dati personali <https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9677876>`_
+**C.SI.3.1 - Cookie**
+
+Il sito comunale presenta cookie tecnici in linea con la normativa vigente.
+
+`Linee guida cookie e altri strumenti di tracciamento - 10 giugno 2021 del Garante per la protezione dei dati personali <https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9677876>`_
 
   Casi di non conformità:
   
-  - il sito presenta cookie che non rispettano le linee guida del Garante per la protezione dei dati personali.
+  - il sito presenta cookie che non rispettano le linee guida del Garante per la protezione dei dati personali;
+  - il dominio di anche solo un cookie presente nel sito non è corrispondente al dominio del sito web del Comune.
+  
 
+**C.SI.3.2 - Dichiarazione di accessibilità** 
 
+Il sito comunale espone la dichiarazione di accessibilità in conformità al modello e alle linee guida rese disponibili da AgID in ottemperanza alla normativa vigente in materia di accessibilità e con livelli di accessibilità contemplati nelle specifiche tecniche WCAG 2.1.
 
-**17. Il sito presenta una dichiarazione di accessibilità secondo le norme AGID**
-
-  In linea con le `Linee guida AGID per la dichiarazione di accessibilità <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_, le `Linee guida AgID sull’accessibilità degli strumenti informatici <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`_, la `Legge 9 gennaio 2004 n. 4 <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2004-01-17&atto.codiceRedazionale=004G0015&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=10&qId=cb6b9a05-f5c3-40ac-81b8-f89e73e5b4c7&tabID=0.029511124589268523&title=lbl.dettaglioAtto>`_, le `Web Content Accessibility Guidelines (WCAG 2.1) <https://www.w3.org/Translations/WCAG21-it/#background-on-wcag-2>`_ e la `Direttiva Reg. UE n. 2102/2016 <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32016L2102>`_.
+`Linee guida AGID per la dichiarazione di accessibilità <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_, le `Linee guida AgID sull’accessibilità degli strumenti informatici <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`_, la `Legge 9 gennaio 2004 n. 4 <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2004-01-17&atto.codiceRedazionale=004G0015&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=10&qId=cb6b9a05-f5c3-40ac-81b8-f89e73e5b4c7&tabID=0.029511124589268523&title=lbl.dettaglioAtto>`_, le `Web Content Accessibility Guidelines (WCAG 2.1) <https://www.w3.org/Translations/WCAG21-it/#background-on-wcag-2>`_ e la `Direttiva Reg. UE n. 2102/2016 <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32016L2102>`_.
 
   Casi di non conformità:
   
-  - la dichiarazione di accessibilità non è valida secondo le norme AGID;
-  - il link alla dichiarazione di accessibilità non è presente nel footer del sito.
+  - il link alla dichiarazione di accessibilità non è presente nel footer del sito;
+  - il link invia a una dichiarazione di accessibilità non valida secondo le norme AGID;
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
-**18. Il sito presenta l'informativa sul trattamento dei dati personali in conformità con la** `normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/2016) <https://www.garanteprivacy.it/regolamentoue>`_
+**C.SI.3.3 - Informativa privacy**
+
+Il sito comunale presenta l'informativa sul trattamento dei dati personali, secondo quanto previsto dalla normativa vigente.
+
+`Normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/2016) <https://www.garanteprivacy.it/regolamentoue>`_
 
   Casi di non conformità:
   
-  - l’informativa sul trattamento dei dati personali non è valida secondo la normativa GDPR;
   - il link all’informativa sul trattamento dei dati personali non è presente nel footer.
+  - il link invia a una informativa sul trattamento dei dati personali non valida secondo il regolamento GDPR;
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+  
 
+**C.SI.3.4 - Licenza e attribuzione**
 
-**19. Il Comune pubblica dati, documenti e informazioni sul sito con licenza aperta (es. CC-BY 4.0)**
+Il sito comunale pubblica dati, documenti e informazioni con licenza aperta comunicandolo come descritto nella documentazione del modello di sito comunale.
 
-  In linea con `Linee guida AGID per l'acquisizione e il riuso software PA <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_, l'`Art. 52 d.lgs. 82/2005 del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_52.html>`_,  l'`Art. 7, comma 1, D.Lgs. n. 33/2013 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33>`_ e il `D.lgs. n. 36/2006 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig=>`_
+`Linee guida AGID per l'acquisizione e il riuso software PA <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_, l'`Art. 52 d.lgs. 82/2005 del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_52.html>`_,  l'`Art. 7, comma 1, D.Lgs. n. 33/2013 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33>`_ e il `D.lgs. n. 36/2006 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig=>`_
 
   Casi di non conformità:
   
-  - il Comune non segue le linee guida AGID sulla pubblicazione di dati, documenti o informazioni.
+  - il Comune non segue la normativa sulla pubblicazione di dati, documenti o informazioni;
+  - la licenza non viene comunicata nella pagina delle “note legali“;
+  - all’interno della pagina delle “note legali” non è presente la sezione “Licenza dei contenuti” che riporta la dicitura: "In applicazione del principio open by default ai sensi dell’articolo 52 del decreto legislativo 7 marzo 2005, n. 82 (CAD) e salvo dove diversamente specificato (compresi i contenuti incorporati di terzi), i dati, i documenti e le informazioni pubblicati sul sito sono rilasciati con `licenza CC-BY 4.0 <https://creativecommons.org/licenses/by/4.0/legalcode.it>`_. Gli utenti sono quindi liberi di condividere (riprodurre, distribuire, comunicare al pubblico, esporre in pubblico), rappresentare, eseguire e recitare questo materiale con qualsiasi mezzo e formato e modificare (trasformare il materiale e utilizzarlo per opere derivate) per qualsiasi fine, anche commerciale con il solo onere di attribuzione, senza apporre restrizioni aggiuntive."
 
 
 ``Performance``
 
-**20. Il sito presenta livelli di performance idonei**
+**C.SI.4.1 - Velocità e tempi di risposta**
 
-.. note::
-  Nel caso in cui il sito comunale presenti livelli di performance (media pesata di 6 metriche standard) inferiori a 50, secondo quanto calcolato e verificato tramite le librerie Lighthouse, il Comune pubblica sul sito comunale un "Piano di miglioramento del sito" che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa e le relative tempistiche di realizzazione attese.
+Nel caso in cui il sito comunale presenti livelli di performance (media pesata di 6 metriche standard) inferiori a 50, secondo quanto calcolato e verificato tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`, il Comune pubblica sul sito comunale un "Piano di miglioramento del sito" che mostri, per ciascuna voce che impatta negativamente la performance, le azioni future di miglioramento della performance stessa e le relative tempistiche di realizzazione attese.
 
   Casi di non conformità:
   
-  - il sito presenta un punteggio inferiore a 50 e non presenta il “Piano di miglioramento del sito” nel footer.
+  - il sito presenta un punteggio inferiore a 50 e il “Piano di miglioramento del sito” non è pubblicato o non è raggiungibile da footer.
+
+
+``Sicurezza``
+
+**C.SI.5.1 - Certificato https**
+
+Il sito comunale ha un certificato https valido e attivo.
+
+In linea con le `Raccomandazioni AgID in merito allo standard Transport Layer Security (TLS) <https://cert-agid.gov.it/wp-content/uploads/2020/11/AgID-RACCSECTLS-01.pdf>`_
+
+  Casi di non conformità:
+  
+  - il sito non utilizza il protocollo https;
+  - il certificato https è scaduto;
+  - il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata è inadatta).
+
+
+**C.SI.5.2 - Dominio istituzionale**
+
+Il sito comunale utilizza un dominio istituzionale secondo le modalità indicate nella documentazione del modello di sito comunale.
+
+In linea con il `registro dei nomi a dominio riservati per i Comuni italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_.
+
+  Casi di non conformità:
+  
+  - il sito comunale non utilizza il sottodominio "comune." o non è seguito da uno dei domini istituzionali per il Comune presente nella lista Elenco Nomi a Dominio Riservati Per i Comuni Italiani (es: comune.anzio.roma.it) o dal nome del Comune se coincidente con il nome del capoluogo di provincia (es: comune.roma.it);
+  - il sito non è raggiungibile a meno che non si inserisca necessariamente il sottodominio "www.".
+
 
 
 
@@ -196,27 +256,32 @@ Raccomandazioni
 
 Per migliorare ulteriormente l'esperienza degli utenti e garantire l'uso di tecnologie aggiornate, restano valide altre indicazioni di legge e buone pratiche.
 
-**1. Il Comune mette a disposizione il software nel** `catalogo del riuso <https://developers.italia.it/it/search?type=software_reuse&sort_by=release_date&page=0>`_ **sotto licenza aperta**
+**R.SI.1.1 - Metatag**
 
-  In linea con le Linee Guida `Riuso delle soluzioni e standard aperti <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_VI-articolo_69.html?highlight=riuso>`_ e `Acquisizione e riuso di software per le pubbliche amministrazioni <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_
-
-  Da evitare:
-  
-  - i repository con i file sorgente del sito del Comune non sono inseriti sul catalogo del riuso.
-
-
-
-**2. Le voci delle schede servizio sono marcate secondo** `i vocabolari di dati strutturati di schema.org (metatag) <../modello-sito-comunale/scheda-servizio.html#dati-strutturati-e-interoperabilità>`_ **per garantire l’interoperabilità dei dati**
+Nel sito comunale, le voci della scheda servizio presentano i `metatag descritti dal modello <../modello-sito-comunale/scheda-servizio.html#dati-strutturati-e-interoperabilità>`_, in base agli standard internazionali.
 
   Da evitare:
   
   - più del 50% dei metatag indicati non vengono utilizzati per marcare le voci della scheda servizio.
+  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+  
 
+**R.SI.2.1 - Infrastrutture Cloud**
 
-**3. Il sito usa tecnologie e infrastrutture cloud**
-
-  In linea con la `Stategia Cloud Italia <https://cloud.italia.it/strategia-cloud-pa/>`_
+Il sito comunale è ospitato su infrastrutture qualificate ai sensi della normativa vigente.
 
 .. note::
-  L’uso di infrastrutture cloud consente un’erogazione più sicura, efficiente e scalabile del sito comunale. L’adozione di queste tecnologie può essere finanziata attraverso la categoria «servizi informativi e open data» all’interno della misura 1.2 Abilitazione e facilitazione migrazione al Cloud.
+  Per consentire un'erogazione più sicura, efficiente e scalabile del sito comunale, può essere utile considerare di impostare l'infrastruttura che lo ospita in cloud, secondo quanto descritto nella `Strategia Cloud Italia <https://cloud.italia.it/strategia-cloud-pa/>`_. Hosting e re-hosting non sono finanziabili ai sensi del presente avviso, tuttavia tali costi di infrastruttura possono essere coperti dalla misura 1.2 *Abilitazione e facilitazione migrazione al Cloud per i comuni*, attraverso la scelta del servizio per l'amministrazione "Comunicazione istituzionale web e open data".
+
+
+**R.SI.2.2 - Riuso**
+
+Il Comune mette a riuso sotto licenza aperta il software secondo le Linee Guida `Acquisizione e riuso di software per le pubbliche amministrazioni <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_.
+
+  Da evitare:
+  
+  - i repository con i file sorgente del sito del Comune non sono inseriti sul `catalogo del riuso <https://developers.italia.it/it/search?type=software_reuse&sort_by=release_date&page=0>`_.
+
+
+
 
