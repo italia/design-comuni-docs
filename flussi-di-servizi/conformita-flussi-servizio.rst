@@ -30,7 +30,7 @@ I servizi digitali del sito comunale rilasciano al cittadino, possibilmente in m
 
 **C.SE.1.3 - Consistenza dell'utilizzo dei font (librerie di caratteri)**
 
-I servizi digitali del sito comunale utilizzano i font indicati dalla documentazione del modello di sito comunale.
+I servizi digitali del sito comunale utilizzano `i font <../modello-sito-comunale/template-html.html#i-font-del-modello>`_ indicati dalla documentazione del modello di sito comunale.
 
   Casi di non conformità:
   
@@ -214,7 +214,7 @@ I servizi digitali del sito comunale hanno un certificato https valido e attivo.
   - i servizi digitali non utilizzano il protocollo https;
   - il certificato https è scaduto;
   - il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata è inadatta);
-  - non sono presenti i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/it/versione-attuale/index.html>` per questo criterio.
+  - non sono presenti i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/it/versione-attuale/index.html>`_ per questo criterio.
   
 
 **C.SE.5.2 - Sottodominio servizi**
@@ -225,7 +225,7 @@ I servizi digitali del sito comunale utilizzano un sottodominio del sito istituz
   
   - i servizi digitali non vengono messi a disposizione in un sottodominio (o un percorso);
   - il dominio utilizzato non rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale”;
-  - non sono presenti i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/it/versione-attuale/index.html>` per questo criterio.
+  - non sono presenti i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/it/versione-attuale/index.html>`_ per questo criterio.
  
 
 
