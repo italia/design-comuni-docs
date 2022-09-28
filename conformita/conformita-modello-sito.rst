@@ -1,20 +1,26 @@
 Conformità al modello di sito comunale
 ======================================
 
-I criteri di conformità guidano alla corretta adozione del modello in termini di esperienza utente, sicurezza, performance e rispetto della normativa. 
-
-Per i Comuni che partecipano agli avvisi di finanziamento per l’aggiornamento del sito comunale, il DTD verifica a campione il rispetto dei requisiti di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali.
-
 ``Esperienza utente``
 
 **C.SI.1.1 - Coerenza dell'utilizzo dei font (librerie di caratteri)**
 
 Il sito comunale utilizza `i font <../modello-sito-comunale/template-html.html#i-font-del-modello>`_ indicati nella documentazione del modello di sito comunale.
 
-  Casi di non conformità:
-  
-  - il sito non utilizza prevalentemente o esclusivamente il font Titillium Web;
-  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-interface/il-disegno-di-un-interfaccia-e-lo-ui-kit.html#la-tipografia>`_ all’interno delle `Linee guida di design per i servizi web della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Il sito utilizza prevalentemente o esclusivamente i font Titillium Web e Lora **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     
+   * - **Tolleranza**
+     - Il sito utilizza prevalentemente o esclusivamente il font Titillium Web ma non Lora **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     
+   * - **Fallimento**
+     - Il sito non utilizza prevalentemente o esclusivamente il font Titillium Web **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
 
 
 
@@ -38,7 +44,33 @@ Nel sito comunale tutte le schede informative dei servizi per il cittadino mostr
   - più di 1 voce obbligatoria non è nell'ordine corretto;
   - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
 
+   * - **Successo**
+     - In tutte le schede servizio, tutte le voci obbligatorie sono presenti e sono nell'ordine corretto:
+        - Categoria del servizio (la tipologia di servizio indicata nella breadcrumb); 
+        - Titolo del servizio;
+        - Stato del servizio;
+        - Motivo dello stato (visibile nel caso in cui il servizio non è attivo);
+        - Descrizione breve;
+        - A chi è rivolto;
+        - Come fare;
+        - Cosa serve;
+        - Cosa si ottiene;
+        - Tempi e scadenze;
+        - Accedi al servizio (Canale fisico);
+        - Condizioni di servizio; 
+        - Contatti.
+     
+   * - **Tolleranza**
+     - Il sito utilizza prevalentemente o esclusivamente il font Titillium Web ma non Lora **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     
+   * - **Fallimento**
+     - Il sito non utilizza prevalentemente o esclusivamente il font Titillium Web **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     
+     
 **C.SI.1.4 - Utilizzo di temi per CMS (Content Management System)**
 
 Nel caso in cui il sito utilizzi `tema messo a disposizione <../modello-sito-comunale/temi-cms.html>`_ nella documentazione del modello di sito comunale, lo utilizza nella versione più recente disponibile alla data di inizio lavori.
