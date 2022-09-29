@@ -26,23 +26,30 @@ Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/
 
 **C.SI.1.2 - Libreria di elementi di interfaccia**
 
-Il sito comunale utilizza la `libreria Bootstrap Italia <https://italia.github.io/bootstrap-italia/docs/componenti/introduzione/>`_
+Il sito comunale utilizza la libreria Bootstrap Italia.
 
-  Casi di non conformità:
-  
-  - il sito non utilizza la libreria Bootstrap Italia;
-  - la libreria Bootstrap Italia non è collegata nell’head del sito;
-  - la versione utilizzata è precedente alla 2.0.
+Riferimenti normativi e tecnici: Bootstrap Italia <https://italia.github.io/bootstrap-italia/docs/componenti/introduzione/>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
+
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Il sito utilizza la libreria Bootstrap Italia in una versione uguale o superiore alla 2.0 **e** la libreria Bootstrap Italia è collegata nell’head del sito
+     
+   * - **Tolleranza**
+     - /
+     
+   * - **Fallimento**
+     - Il sito non utilizza la libreria Bootstrap Italia **o** la libreria Bootstrap Italia non è collegata nell’head del sito **o** la versione utilizzata è precedente alla 2.0
+
 
 **C.SI.1.3 - Schede informative di servizio per il cittadino**
 
 Nel sito comunale tutte le schede informative dei servizi per il cittadino mostrano le voci segnalate come obbligatorie all'interno dell'`architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html>`_, nell'ordine segnalato dal modello. In particolare, indicano il tempo massimo di risposta della PA al servizio ove presente.
 
-  Casi di non conformità:
-  
-  - anche solo in una scheda servizio più di 2 voci obbligatorie non sono presenti;
-  - più di 1 voce obbligatoria non è nell'ordine corretto;
-  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al cittadino <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/v2022.1/modello-sito-comunale/scheda-servizio.html#scheda-informativa-di-servizio-al-cittadino>`_ all’interno della Documentazione del modello Comuni; `sezione Tipologia servizio <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=335720294>`_ all’interno del `documento di Architettura dell’informazione del modello Comuni <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit?usp=sharing&ouid=115576940975219606169&rtpof=true&sd=true>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+
 
 .. list-table::
    :widths: 10 30
@@ -65,19 +72,31 @@ Nel sito comunale tutte le schede informative dei servizi per il cittadino mostr
         - Contatti.
      
    * - **Tolleranza**
-     - Il sito utilizza prevalentemente o esclusivamente il font Titillium Web ma non Lora **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - In qualsiasi scheda servizio fino a 2 `voci obbligatorie <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=335720294>`_ non sono presenti **e/o** 1 voce obbligatoria non è nell'ordine corretto **e** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
      
    * - **Fallimento**
-     - Il sito non utilizza prevalentemente o esclusivamente il font Titillium Web **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - Anche solo in una scheda servizio più di 2 `voci obbligatorie <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=335720294>`_ non sono presenti **o** più di 1 voce obbligatoria non è nell'ordine corretto **o** il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
      
      
 **C.SI.1.4 - Utilizzo di temi per CMS (Content Management System)**
 
 Nel caso in cui il sito utilizzi `tema messo a disposizione <../modello-sito-comunale/temi-cms.html>`_ nella documentazione del modello di sito comunale, lo utilizza nella versione più recente disponibile alla data di inizio lavori.
 
-  Casi di non conformità:
-  
-  - il sito utilizza un tema CMS del modello Comuni ma non ne utilizza la versione più recente disponibile alla data di inizio lavori o ne utilizza una versione precedente alla v1.0.
+Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designers Italia <https://designers.italia.it/modello/comuni/>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
+
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Il sito utilizza un tema CMS del modello Comuni **e** ne utilizza la versione più recente disponibile alla data di inizio lavori **e** ne utilizza una versione uguale o superiore alla v1.0
+     
+   * - **Tolleranza**
+     - Il sito non utilizza un tema CMS del modello Comuni
+     
+   * - **Fallimento**
+     - Il sito utilizza un tema CMS del modello Comuni ma non ne utilizza la versione più recente disponibile alla data di inizio lavori o ne utilizza una versione precedente alla v1.0
+
 
 **C.SI.1.5 - Vocabolari controllati**
 
