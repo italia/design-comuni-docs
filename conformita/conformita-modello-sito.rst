@@ -102,32 +102,75 @@ Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designer
 
 Il sito comunale utilizza `gli argomenti forniti dal modello di sito comunale <../modello-sito-comunale/architettura-informazione.html#tassonomie>`_ ovvero quelli appartenenti al vocabolario controllato europeo `EuroVoc <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_.
 
-  Casi di non conformità:
+Riferimenti normativi e tecnici: il vocabolario controllato del modello è disponibile alla voce `Tassonomia argomenti <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=428595160>`_ all’interno del `documento di Architettura dell’informazione del modello Comuni <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit?usp=sharing&ouid=115576940975219606169&rtpof=true&sd=true>`_; `vocabolario controllato EuroVOC <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
   
-  - meno del 50% degli argomenti utilizzati appartengono al vocabolario controllato del modello o al vocabolario controllato EuroVOC;
-  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Tutti gli argomenti utilizzati appartengono al vocabolario controllato del modello, disponibile alla voce `Tassonomia argomenti <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=428595160>`_ all’interno del `documento di Architettura dell’informazione del modello Comuni <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit?usp=sharing&ouid=115576940975219606169&rtpof=true&sd=true>`_ **e** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     
+   * - **Tolleranza**
+     - Almeno il 50% degli argomenti utilizzati appartengono al `vocabolario controllato del modello <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=428595160>`_ o al `vocabolario controllato EuroVOC <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_ **e** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     
+   * - **Fallimento**
+     - Meno del 50% degli argomenti utilizzati appartengono al `vocabolario controllato del modello <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=428595160>`_ o al `vocabolario controllato EuroVOC <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_ **e** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 **C.SI.1.6 - Voci di menù di primo livello**
 
 Il sito comunale presenta tutte le voci di primo livello nell’esatto ordine descritto nella `documentazione del modello di sito comunale <../modello-sito-comunale/architettura-informazione.html/#navigazione-e-alberatura>`_.
 
-  Casi di non conformità:
-  
-  - almeno una delle voci di menu di primo livello è assente o inesatta;
-  - le voci obbligatorie sono in ordine errato;
-  - sono presenti 8 o più voci nel menù del sito;
-  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico dell’alberatura <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_ e nella `Coreografia sistema di navigazione <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=1853196915>`_ all’interno del `documento di Architettura dell’informazione del modello Comuni <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit?usp=sharing&ouid=115576940975219606169&rtpof=true&sd=true>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+
+
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Le `voci obbligatorie <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_ del menù sono presenti, corrette e nell'ordine giusto:
+        - "Amministrazione"
+        - "Novità"
+        - "Servizi"
+        - “Vivere il Comune” o “Vivere {nome_Comune}”
+       **e** non sono presenti voci aggiuntive oltre a quelle obbligatorie **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     
+   * - **Tolleranza**
+     - Le `voci obbligatorie <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_ del menù sono presenti, corrette e nell’ordine giusto **e** sono presenti fino a 3 voci aggiuntive **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
+   * - **Fallimento**
+     - Almeno una delle `voci obbligatorie <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_ è assente o inesatta **o** le voci obbligatorie sono in ordine errato **o** sono presenti 8 o più voci nel menù di primo livello del sito **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
+
 
 
 **C.SI.1.7 - Titoli delle pagine di secondo livello**
 
 Nel sito comunale, i titoli delle pagine di secondo livello rispettano il vocabolario descritto nella `documentazione del modello di sito comunale <../modello-sito-comunale/architettura-informazione.html/#navigazione-e-alberatura>`_.
 
-  Casi di non conformità:
-  
-  - meno del 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella documentazione;
-  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+Riferimenti normativi e tecnici: i titoli delle pagine di secondo livello sono indicati nel `Grafico dell’alberatura <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_ e nella `Coreografia sistema di navigazione <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=1853196915>`_ all’interno del `documento di Architettura dell’informazione del modello Comuni <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit?usp=sharing&ouid=115576940975219606169&rtpof=true&sd=true>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Tutti i titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_:
+        - Per la sezione *Amministrazione*, sono: “Organi di governo”, “Aree amministrative”, “Uffici”, “Enti e fondazioni”, “Politici”, “Personale amministrativo”, “Documenti e dati”;
+        - Per la sezione *Novità*, sono: “Notizie”, “Comunicati”, “Avvisi”;
+        - Per la sezione *Servizi*, sono: “Educazione e formazione”, “Salute, benessere e assistenza”, “Vita lavorativa”, “Mobilità e trasporti”, “Catasto e urbanistica”, “Anagrafe e stato civile”, “Turismo”, “Giustizia e sicurezza pubblica”, “Tributi, finanze e contravvenzioni”, Cultura e tempo libero”, “Ambiente”, “Imprese e commercio”, “Autorizzazioni”, “Appalti pubblici”, “Agricoltura e pesca”;
+        - Per la sezione Vivere il Comune o Vivere {nome_comune}, sono: “Luoghi”, “Eventi”;
+       **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     
+   * - **Tolleranza**
+     - Almeno il 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_ **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
+   * - **Fallimento**
+     - Meno del 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_ **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
 
 
 
