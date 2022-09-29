@@ -162,7 +162,7 @@ Riferimenti normativi e tecnici: i titoli delle pagine di secondo livello sono i
         - Per la sezione *Amministrazione*, sono: “Organi di governo”, “Aree amministrative”, “Uffici”, “Enti e fondazioni”, “Politici”, “Personale amministrativo”, “Documenti e dati”;
         - Per la sezione *Novità*, sono: “Notizie”, “Comunicati”, “Avvisi”;
         - Per la sezione *Servizi*, sono: “Educazione e formazione”, “Salute, benessere e assistenza”, “Vita lavorativa”, “Mobilità e trasporti”, “Catasto e urbanistica”, “Anagrafe e stato civile”, “Turismo”, “Giustizia e sicurezza pubblica”, “Tributi, finanze e contravvenzioni”, Cultura e tempo libero”, “Ambiente”, “Imprese e commercio”, “Autorizzazioni”, “Appalti pubblici”, “Agricoltura e pesca”;
-        - Per la sezione Vivere il Comune o Vivere {nome_comune}, sono: “Luoghi”, “Eventi”;
+        - Per la sezione *Vivere il Comune* o *Vivere {nome_comune}*, sono: “Luoghi”, “Eventi”;
        **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
@@ -180,16 +180,31 @@ Riferimenti normativi e tecnici: i titoli delle pagine di secondo livello sono i
 
 Il sito comunale consente di `prenotare un appuntamento <../modello-sito-comunale/funzionalita.html#prenotazione-appuntamento>`_ presso lo sportello di competenza.
 
-  Casi di non conformità:
-  
-  - la funzionalità per prenotare un appuntamento non è presente sul sito;
-  - la funzionalità non permette al cittadino di: selezionare l’ufficio, scegliere fra le date e gli orari disponibili, scegliere l’argomento e spiegare il motivo della richiesta, lasciare il proprio nominativo e i propri contatti;
-  - la funzionalità non è accessibile come servizio a sé nell’elenco dei servizi;
-  - la funzionalità non è accessibile all’interno delle schede servizio;
-  - la funzionalità non circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato, quando vi si accede direttamente da una scheda servizio;
-  - la funzionalità non indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio;
-  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzionalita.html#prenotazione-appuntamento>`_ dettagliata all’interno della `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Il sito presenta la funzionalità per prenotare un appuntamento e la funzionalità permette al cittadino di:
+        - selezionare l’ufficio;
+        - scegliere fra le date e gli orari disponibili;
+        - scegliere l’argomento e spiegare il motivo della richiesta;
+        - lasciare il proprio nominativo e i propri contatti;
+       **e** e la funzionalità è accessibile come servizio a sé nell’elenco dei servizi; **e** la funzionalità è accessibile all’interno delle schede servizio, come funzione trasversale ai servizi; **e** la funzionalità circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato, quando vi si accede direttamente da una scheda servizio; **e** la funzionalità indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **e** se l’utente è autenticato al portale, nominativo e contatti saranno quelli del profilo autenticato (in caso contrario verrà data al cittadino la possibilità di autenticarsi o di inserire i dati nell’apposita form); **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     
+   * - **Tolleranza**
+     - /
+
+   * - **Fallimento**
+     - La funzionalità per prenotare un appuntamento non è presente sul sito **o** la funzionalità non permette al cittadino di:
+        - selezionare l’ufficio;
+        - scegliere fra le date e gli orari disponibili;
+        - scegliere l’argomento e spiegare il motivo della richiesta;
+        - lasciare il proprio nominativo e i propri contatti;
+       **o** la funzionalità non è accessibile come servizio a sé nell’elenco dei servizi; **o** la funzionalità non è accessibile all’interno delle schede servizio, come funzione trasversale ai servizi; **o** la funzionalità non circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato, quando vi si accede direttamente da una scheda servizio; **o** la funzionalità non indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **o** se l’utente è autenticato al portale, nominativo e contatti non saranno quelli del profilo autenticato (oppure non verrà data al cittadino la possibilità di autenticarsi o di inserire i dati nell’apposita form); **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+       
 
 **C.SI.2.2 - Richiesta di assistenza / contatti**
 
