@@ -549,9 +549,11 @@ Per migliorare ulteriormente l'esperienza degli utenti e garantire l'uso di tecn
 
 Nel sito comunale, le voci della scheda servizio presentano i `metatag descritti dal modello <../modello-sito-comunale/scheda-servizio.html#dati-strutturati-e-interoperabilità>`_, in base agli standard internazionali.
 
+Riferimenti tecnici e normativi: `Schema.org <https://schema.org/>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+
   Da evitare:
   
-  - più del 50% dei metatag indicati non vengono utilizzati per marcare le voci della scheda servizio.
+  - più del 50% dei metatag indicati non vengono utilizzati per marcare le voci della scheda servizio;
   - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
   
 
@@ -559,13 +561,14 @@ Nel sito comunale, le voci della scheda servizio presentano i `metatag descritti
 
 Il sito comunale è ospitato su infrastrutture qualificate ai sensi della normativa vigente.
 
-.. note::
-  Per consentire un'erogazione più sicura, efficiente e scalabile del sito comunale, può essere utile considerare di impostare l'infrastruttura che lo ospita in cloud, secondo quanto descritto nella `Strategia Cloud Italia <https://cloud.italia.it/strategia-cloud-pa/>`_. Hosting e re-hosting non sono finanziabili ai sensi del presente avviso, tuttavia tali costi di infrastruttura possono essere coperti dalla misura 1.2 *Abilitazione e facilitazione migrazione al Cloud per i comuni*, attraverso la scelta del servizio per l'amministrazione "Comunicazione istituzionale web e open data".
+Riferimenti tecnici e normativi: Per consentire un'erogazione più sicura, efficiente e scalabile del sito comunale, può essere utile considerare di impostare l'infrastruttura che lo ospita in cloud, secondo quanto descritto nella `Strategia Cloud Italia <https://cloud.italia.it/strategia-cloud-pa/>`_. Hosting e re-hosting non sono finanziabili ai sensi del presente avviso, tuttavia tali costi di infrastruttura possono essere coperti dalla misura 1.2 *Abilitazione e facilitazione migrazione al Cloud per i comuni*, attraverso la scelta del servizio per l'amministrazione "Comunicazione istituzionale web e open data"; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
 
 **R.SI.2.2 - Riuso**
 
 Il Comune mette a riuso sotto licenza aperta il software secondo le Linee Guida `Acquisizione e riuso di software per le pubbliche amministrazioni <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_.
+
+Riferimenti tecnici e normativi: `CAD - Art. 69 (Riuso delle soluzioni e standard aperti) <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_VI-articolo_69.html>`_; `AgID - Linee guida su acquisizione e riuso di software per le pubbliche amministrazioni <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
   Da evitare:
   
