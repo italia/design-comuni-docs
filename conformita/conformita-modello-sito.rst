@@ -28,7 +28,7 @@ Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/
 
 Il sito comunale utilizza la libreria Bootstrap Italia.
 
-Riferimenti normativi e tecnici: Bootstrap Italia <https://italia.github.io/bootstrap-italia/docs/componenti/introduzione/>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
+Riferimenti normativi e tecnici: `Bootstrap Italia <https://italia.github.io/bootstrap-italia/docs/componenti/introduzione/>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
 .. list-table::
    :widths: 10 30
@@ -57,6 +57,7 @@ Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al citt
 
    * - **Successo**
      - In tutte le schede servizio, tutte le voci obbligatorie sono presenti e sono nell'ordine corretto:
+     
         - Categoria del servizio (la tipologia di servizio indicata nella breadcrumb); 
         - Titolo del servizio;
         - Stato del servizio;
@@ -132,6 +133,7 @@ Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico de
 
    * - **Successo**
      - Le `voci obbligatorie <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_ del menù sono presenti, corrette e nell'ordine giusto:
+     
         - "Amministrazione"
         - "Novità"
         - "Servizi"
@@ -159,6 +161,7 @@ Riferimenti normativi e tecnici: i titoli delle pagine di secondo livello sono i
 
    * - **Successo**
      - Tutti i titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_:
+     
         - Per la sezione *Amministrazione*, sono: “Organi di governo”, “Aree amministrative”, “Uffici”, “Enti e fondazioni”, “Politici”, “Personale amministrativo”, “Documenti e dati”;
         - Per la sezione *Novità*, sono: “Notizie”, “Comunicati”, “Avvisi”;
         - Per la sezione *Servizi*, sono: “Educazione e formazione”, “Salute, benessere e assistenza”, “Vita lavorativa”, “Mobilità e trasporti”, “Catasto e urbanistica”, “Anagrafe e stato civile”, “Turismo”, “Giustizia e sicurezza pubblica”, “Tributi, finanze e contravvenzioni”, Cultura e tempo libero”, “Ambiente”, “Imprese e commercio”, “Autorizzazioni”, “Appalti pubblici”, “Agricoltura e pesca”;
@@ -188,6 +191,7 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
 
    * - **Successo**
      - Il sito presenta la funzionalità per prenotare un appuntamento e la funzionalità permette al cittadino di:
+     
         - selezionare l’ufficio;
         - scegliere fra le date e gli orari disponibili;
         - scegliere l’argomento e spiegare il motivo della richiesta;
@@ -199,72 +203,180 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
 
    * - **Fallimento**
      - La funzionalità per prenotare un appuntamento non è presente sul sito **o** la funzionalità non permette al cittadino di:
+     
         - selezionare l’ufficio;
         - scegliere fra le date e gli orari disponibili;
         - scegliere l’argomento e spiegare il motivo della richiesta;
         - lasciare il proprio nominativo e i propri contatti;
-       **o** la funzionalità non è accessibile come servizio a sé nell’elenco dei servizi; **o** la funzionalità non è accessibile all’interno delle schede servizio, come funzione trasversale ai servizi; **o** la funzionalità non circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato, quando vi si accede direttamente da una scheda servizio; **o** la funzionalità non indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **o** se l’utente è autenticato al portale, nominativo e contatti non saranno quelli del profilo autenticato (oppure non verrà data al cittadino la possibilità di autenticarsi o di inserire i dati nell’apposita form); **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+       **o** la funzionalità non è accessibile come servizio a sé nell’elenco dei servizi; **o** la funzionalità non è accessibile all’interno delle schede servizio, come funzione trasversale ai servizi; **o** la funzionalità non circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato, quando vi si accede direttamente da una scheda servizio; **o** la funzionalità non indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **o** se l’utente è autenticato al portale, nominativo e contatti non sono quelli del profilo autenticato (o, in caso di utente non autenticato, non viene data la possibilità al cittadino di autenticarsi o di inserire i dati nell’apposita form); **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
        
 
 **C.SI.2.2 - Richiesta di assistenza / contatti**
 
 All'interno del sito comunale, nel contenuto della scheda servizio, i contatti sono specifici per l'ufficio preposto all'erogazione del servizio.
 
+Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al cittadino <../modello-sito-comunale/scheda-servizio.html#scheda-informativa-di-servizio-al-cittadino>`_ all’interno della `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_; `eGovernment Benchmark Method Paper 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_.
 
-  Casi di non conformità:
-  
-  - anche solo una scheda servizio non presenta i contatti dell’ufficio preposto all’erogazione del servizio;
-  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Tutte le schede servizio presentano i contatti dell’ufficio preposto all’erogazione del servizio **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     
+   * - **Tolleranza**
+     - /
+
+   * - **Fallimento**
+     - Anche solo una scheda servizio non presenta i contatti dell’ufficio preposto all’erogazione del servizio **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
 
 
 **C.SI.2.3 - Richiesta di assistenza / domande frequenti**
   
 Il sito comunale contiene una sezione per le domande più frequenti (FAQ).
   
-  Casi di non conformità:
-  
-  - il sito non presenta il link alla sezione di domande frequenti nel footer;
-  - la pagina di destinazione del link non esiste;
-  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+Riferimenti normativi e tecnici: `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_; `eGovernment Benchmark Method Paper 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_.
+
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Nel footer del sito è presente un link che invia a una pagina contenente le domande frequenti **e** la pagina di destinazione del link esiste **e** il testo del link include le espressioni "FAQ" oppure "domande frequenti" **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     
+   * - **Tolleranza**
+     - Nel footer del sito è presente un link che invia a una pagina contenente le domande frequenti **e** la pagina di destinazione del link esiste **e** il testo del link non include le espressioni "FAQ" oppure "domande frequenti" **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
+   * - **Fallimento**
+     - Nel footer del sito non è presente un link che invia a una pagina contenente le domande frequenti **o** la pagina di destinazione del link non esiste **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
   
 
 **C.SI.2.4 - Segnalazione disservizio**
 
 Il sito comunale fornisce al cittadino di `segnalare un disservizio <../modello-sito-comunale/funzionalita.html#segnalazione-disservizio>`_, tramite email o servizio dedicato.
 
-In linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
-  
-  Casi di non conformità:
-  
-  - il sito non presenta il link alla funzionalità di segnalazione disservizio nel footer;
-  - la pagina di destinazione non esiste;
-  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio;
-  - se è stata implementata la funzionalità dedicata, il cittadino deve avere la possibilità di:assegnare una categoria alla segnalazione; indicare il luogo a cui la segnalazione si riferisce, attraverso l’immissione di un indirizzo o con la funzione di geotag su una mappa; indicare l’oggetto della segnalazione; aggiungere una breve descrizione; aggiungere delle immagini; allegare uno o più documenti.
+Riferimenti tecnici e normativi: `funzionalità <../modello-sito-comunale/funzionalita.html#segnalazione-disservizio>`_ all'interno della `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_; `eGovernment Benchmark Method Paper 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_.
+
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Nel footer del sito è presente un link che invia all’email per segnalare un disservizio o alla funzionalità dedicata di segnalazione disservizio **e** la pagina di destinazione del link esiste **e** il testo del link include le espressioni "disservizio" oppure "segnala disservizio" oppure "segnalazione disservizio" **e**, se viene usata la funzionalità dedicata di segnalazione disservizio, il cittadino deve avere la possibilità di:
+     
+        - assegnare una categoria alla segnalazione;
+        - indicare il luogo a cui la segnalazione si riferisce, attraverso l’immissione di un indirizzo o con la funzione di geotag su una mappa;
+        - indicare l’oggetto della segnalazione;
+        - aggiungere una breve descrizione;
+        - aggiungere delle immagini;
+        - allegare uno o più documenti;
+       **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     
+   * - **Tolleranza**
+     - Nel footer del sito è presente un link che invia all’email per segnalare un disservizio o alla funzionalità dedicata di segnalazione disservizio **e** la pagina di destinazione del link esiste **e** il testo del link non include le espressioni "disservizio" oppure "segnala disservizio" oppure "segnalazione disservizio" **e**, se viene usata la funzionalità dedicata di segnalazione disservizio, il cittadino deve avere la possibilità di:
+     
+        - assegnare una categoria alla segnalazione;
+        - indicare il luogo a cui la segnalazione si riferisce, attraverso l’immissione di un indirizzo o con la funzione di geotag su una mappa;
+        - indicare l’oggetto della segnalazione;
+        - aggiungere una breve descrizione;
+        - aggiungere delle immagini;
+        - allegare uno o più documenti;
+       **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
+   * - **Fallimento**
+     - Nel footer del sito non è presente un link che invia all’email per segnalare un disservizio o alla funzionalità dedicata di segnalazione disservizio **o** la pagina di destinazione non esiste **o**, se viene usata la funzionalità dedicata di segnalazione disservizio, il cittadino non ha la possibilità di:
+     
+        - assegnare una categoria alla segnalazione;
+        - indicare il luogo a cui la segnalazione si riferisce, attraverso l’immissione di un indirizzo o con la funzione di geotag su una mappa;
+        - indicare l’oggetto della segnalazione;
+        - aggiungere una breve descrizione;
+        - aggiungere delle immagini;
+        - allegare uno o più documenti;
+       **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
 
 **C.SI.2.5 - Valutazione dell'esperienza d'uso, chiarezza delle pagine informative**
 
 Il sito comunale consente al cittadino di fornire `una valutazione della chiarezza <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_ di ogni pagina di primo e secondo livello.
 
-In linea con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
+Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_ dettagliata all'interno della `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_; `eGovernment Benchmark Method Paper 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_.
 
-  Casi di non conformità:
-  
-  - almeno una delle pagine di primo e secondo livello non presenta la funzionalità di valutazione della chiarezza informativa;
-  - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio;
-  - la funzionalità non rispetta anche solo una delle caratteristiche e passaggi descritti nella documentazione.
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
 
+   * - **Successo**
+     - Tutte le pagine di primo livello presentano la funzionalità di valutazione della chiarezza informativa **e** tutte le pagine di secondo livello presentano la funzionalità di valutazione della chiarezza informativa **e** la funzionalità rispetta le seguenti caratteristiche e passaggi:
+     
+        1. Viene posta la domanda “Quanto sono chiare le informazioni su questa pagina?” a cui il cittadino risponde tramite una scala likert 1-5 sotto forma di stelline.
+        
+        2. In base alla risposta del cittadino, il secondo passaggio presenta 2 varianti:
+        
+         a. Se il punteggio dell’utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla «Dove hai incontrato le maggiori difficoltà?». Le possibili risposte sono: A volte le indicazioni non erano chiare; A volte le indicazioni non erano complete; A volte non capivo se stavo procedendo correttamente; Ho avuto problemi tecnici; Altro.
+         
+         b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
+        
+        3. Viene presentato un campo di testo libero per dare la possibilità all’utente di inserire un breve commento e fornire ulteriori dettagli. 
+       **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     
+   * - **Tolleranza**
+     - /
+
+   * - **Fallimento**
+     - Anche solo una pagina di primo livello non presenta la funzionalità di valutazione della chiarezza informativa **o** anche solo una pagina di secondo livello non presentana la funzionalità di valutazione della chiarezza informativa **o** la funzionalità non rispetta anche solo una delle seguenti caratteristiche e passaggi:
+     
+        1. Viene posta la domanda “Quanto sono chiare le informazioni su questa pagina?” a cui il cittadino risponde tramite una scala likert 1-5 sotto forma di stelline.
+        
+        2. In base alla risposta del cittadino, il secondo passaggio presenta 2 varianti:
+        
+         a. Se il punteggio dell’utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla «Dove hai incontrato le maggiori difficoltà?». Le possibili risposte sono: A volte le indicazioni non erano chiare; A volte le indicazioni non erano complete; A volte non capivo se stavo procedendo correttamente; Ho avuto problemi tecnici; Altro.
+         
+         b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
+        
+        3. Viene presentato un campo di testo libero per dare la possibilità all’utente di inserire un breve commento e fornire ulteriori dettagli. 
+       **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 **C.SI.2.6 - Valutazione dell'esperienza d'uso, chiarezza informativa della scheda di servizio**
 
 Il sito comunale permette la `valutazione della chiarezza informativa <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_ per ogni scheda di servizio, secondo le modalità indicate nella documentazione del modello di sito comunale.
 
-In conformità con l'`eGovernment benchmark 2020-2023 <https://op.europa.eu/it/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_
+Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_ dettagliata all'interno della `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `eGovernment Benchmark Method Paper 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_.
 
-  Casi di non conformità:
-  
-  - almeno una delle schede servizio non presenta la funzionalità di valutazione della chiarezza informativa;
-  - la funzionalità non rispetta anche solo una delle caratteristiche e passaggi descritti nella documentazione.
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Tutte le schede servizio presentano la funzionalità di valutazione della chiarezza informativa **e** la funzionalità rispetta le seguenti caratteristiche e passaggi:
+     
+        1. Viene posta la domanda “Quanto sono chiare le informazioni su questa pagina?” a cui il cittadino risponde tramite una scala likert 1-5 sotto forma di stelline.
+        
+        2. In base alla risposta del cittadino, il secondo passaggio presenta 2 varianti:
+        
+         a. Se il punteggio dell’utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla «Dove hai incontrato le maggiori difficoltà?». Le possibili risposte sono: A volte le indicazioni non erano chiare; A volte le indicazioni non erano complete; A volte non capivo se stavo procedendo correttamente; Ho avuto problemi tecnici; Altro.
+         
+         b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
+        
+        3. Viene presentato un campo di testo libero per dare la possibilità all’utente di inserire un breve commento e fornire ulteriori dettagli. 
+     
+   * - **Tolleranza**
+     - /
+
+   * - **Fallimento**
+     - Anche solo una scheda servizio non presenta la funzionalità di valutazione della chiarezza informativa **o** la funzionalità non rispetta anche solo una delle seguenti caratteristiche e passaggi:
+     
+        1. Viene posta la domanda “Quanto sono chiare le informazioni su questa pagina?” a cui il cittadino risponde tramite una scala likert 1-5 sotto forma di stelline.
+        
+        2. In base alla risposta del cittadino, il secondo passaggio presenta 2 varianti:
+        
+         a. Se il punteggio dell’utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla «Dove hai incontrato le maggiori difficoltà?». Le possibili risposte sono: A volte le indicazioni non erano chiare; A volte le indicazioni non erano complete; A volte non capivo se stavo procedendo correttamente; Ho avuto problemi tecnici; Altro.
+         
+         b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
+        
+        3. Viene presentato un campo di testo libero per dare la possibilità all’utente di inserire un breve commento e fornire ulteriori dettagli. 
 
 
 ``Normativa``
