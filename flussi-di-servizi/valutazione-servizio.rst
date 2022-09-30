@@ -7,7 +7,7 @@ La sezione di valutazione d’esperienza d’uso è presente nel modulo ‘Ricev
 
 La funzionalità si articola nei seguenti passaggi:
 
-1. viene richiesto di valutare la semplicità e l’immediatezza del processo appena svolto, a cui il cittadino risponde con una scala likert 1-5 sotto forma di stelline;
+1. Viene posta la domanda “Quanto è stato facile usare questo servizio?” a cui il cittadino risponde con una scala likert 1-5 sotto forma di stelline;
 
 
 in base alla risposta del cittadino, il secondo passaggio presenta 2 varianti:
