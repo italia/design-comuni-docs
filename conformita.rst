@@ -12,4 +12,4 @@ Per i Comuni che partecipano agli avvisi di finanziamento di `PA digitale 2026 <
    :caption: Indice dei contenuti
 
    conformita/conformita-modello-sito.rst
-   conformita/conformita-flussi-servizio.rst
+   conformita/conformita-servizi-digitali.rst
