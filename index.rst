@@ -14,4 +14,5 @@ Il sito web e i servizi digitali dei Comuni italiani
    modello-sito-comunale.rst
    flussi-di-servizio.rst
    allegati-tecnici.rst
+   conformita.rst
    crediti.rst

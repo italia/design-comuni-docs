@@ -51,3 +51,10 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
      - PDF
      - `Vai ai diagrammi <https://drive.google.com/drive/folders/1PvlN6_3PtZAS8ij_xVa3uPcZJrdUcM4C>`_
      
+   * - Strumento checklist per l'implementazione del modello di sito
+     - Google Doc
+     - `Vai allo strumento <https://docs.google.com/document/d/1E76BHQ5BnyopPU8_7i6VLfeteGxT1CttHnnuM3g5xb8/edit?usp=sharing>`_
+   
+   * - Strumento checklist per l'implementazione dei servizi digitali
+     - Google Doc
+     - `Vai allo strumento <https://docs.google.com/document/d/1DqLvGOP4QNkRXG0bObjTOxxUIOJ3tR3Obbq4FruWpys/edit?usp=sharing>`_

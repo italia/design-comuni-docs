@@ -15,4 +15,4 @@ Come costruire un flusso di servizio:
 4. seleziona e organizza le sezioni usando la `libreria di elementi <https://www.figma.com/file/WkVMh3JnkyUQGE3POb0TSI/Designers-Italia---Documentazione-Moduli-e-Sezioni?node-id=0%3A1>`_, valutando quali varianti sono necessarie.
 
 
-Usa lo `strumento checklist <https://docs.google.com/document/d/1E76BHQ5BnyopPU8_7i6VLfeteGxT1CttHnnuM3g5xb8/edit?usp=sharing>`_ per assicurarti di svolgere tutte le attività necessarie ad una corretta implementazione del modello.
+Usa lo `strumento checklist <https://docs.google.com/document/d/1DqLvGOP4QNkRXG0bObjTOxxUIOJ3tR3Obbq4FruWpys/edit?usp=sharing>`_ per assicurarti di svolgere tutte le attività necessarie ad una corretta implementazione dei servizi digitali.
