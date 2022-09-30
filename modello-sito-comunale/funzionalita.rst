@@ -5,6 +5,8 @@ L'introduzione di funzionalità sul sito di un Comune migliora l'usabilità del 
 
 Le funzionalità, infatti, rispondono al *top-level benchmark* dell'**User-centricity (Centralità dell'utente)**, permettendo all'utente di completare alcune operazioni interamente online: la prenotazione di un appuntamento presso gli uffici comunali, la richiesta di assistenza, la segnalazione di un disservizio e la possibilità di lasciare feedback sulla chiarezza informativa del sito.
 
+I link alle funzionalità di *Prenotazione appuntamento*, *Richiesta assistenza* e *Segnalazione disservizio* devono essere presenti nel footer del sito. Si consiglia di utilizzare anche la barra di assistenza pre-footer, modellizzata nei `template html <../modello-sito-comunale/template-html-sito.html>`_ per il sito comununale.
+
 
 Prenotazione appuntamento
 --------------------------
@@ -17,6 +19,8 @@ Il processo deve offrire la possibilità al cittadino di:
 - scegliere fra le date e gli orari disponibili;
 - scegliere l'argomento e spiegare il motivo della richiesta;
 - lasciare il proprio nominativo e i propri contatti
+
+Il link alla funzionalità deve essere presente nel footer del sito.
 
 La funzionalità deve essere messa a disposizione sia come servizio a sé nell'elenco dei servizi che come funzione trasversale agli altri servizi, all'interno delle schede servizio.
 
@@ -43,13 +47,14 @@ Una volta inviata la richiesta, il sistema deve presentare una schermata di conf
  
 Gli utenti autenticati con identità digitale devono poter salvare una bozza della richiesta nella propria area personale.
 
+Il link alla funzionalità deve essere presente nel footer del sito.
 
 Segnalazione disservizio
 ------------------------
 
-Il sito del Comune deve permettere ai cittadini di segnalare un disservizio.
+Il sito del Comune deve permettere ai cittadini di segnalare un disservizio, tramite email o servizio dedicato. Il link all'email o alla funzionalità deve essere presente nel footer del sito.
 
-La funzionalità deve offire la possibilità al cittadino di:
+Se si sceglie di implementare una funzionalità dedicata, questa deve offire la possibilità al cittadino di:
 
 - assegnare una categoria alla segnalazione;
 - indicare il luogo a cui la segnalazione si riferisce, attraverso l'immissione di un indirizzo o con la funzione di geotag su una mappa;
