@@ -314,9 +314,9 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
         
         2. In base alla risposta del cittadino, il secondo passaggio presenta 2 varianti:
         
-         a. Se il punteggio dell’utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla «Dove hai incontrato le maggiori difficoltà?». Le possibili risposte sono: A volte le indicazioni non erano chiare; A volte le indicazioni non erano complete; A volte non capivo se stavo procedendo correttamente; Ho avuto problemi tecnici; Altro.
+            a. Se il punteggio dell’utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla «Dove hai incontrato le maggiori difficoltà?». Le possibili risposte sono: A volte le indicazioni non erano chiare; A volte le indicazioni non erano complete; A volte non capivo se stavo procedendo correttamente; Ho avuto problemi tecnici; Altro.
          
-         b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
+            b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
         
         3. Viene presentato un campo di testo libero per dare la possibilità all’utente di inserire un breve commento e fornire ulteriori dettagli. 
        **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
@@ -331,9 +331,9 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
         
         2. In base alla risposta del cittadino, il secondo passaggio presenta 2 varianti:
         
-         a. Se il punteggio dell’utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla «Dove hai incontrato le maggiori difficoltà?». Le possibili risposte sono: A volte le indicazioni non erano chiare; A volte le indicazioni non erano complete; A volte non capivo se stavo procedendo correttamente; Ho avuto problemi tecnici; Altro.
+            a. Se il punteggio dell’utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla «Dove hai incontrato le maggiori difficoltà?». Le possibili risposte sono: A volte le indicazioni non erano chiare; A volte le indicazioni non erano complete; A volte non capivo se stavo procedendo correttamente; Ho avuto problemi tecnici; Altro.
          
-         b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
+            b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
         
         3. Viene presentato un campo di testo libero per dare la possibilità all’utente di inserire un breve commento e fornire ulteriori dettagli. 
        **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
@@ -356,9 +356,9 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
         
         2. In base alla risposta del cittadino, il secondo passaggio presenta 2 varianti:
         
-         a. Se il punteggio dell’utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla «Dove hai incontrato le maggiori difficoltà?». Le possibili risposte sono: A volte le indicazioni non erano chiare; A volte le indicazioni non erano complete; A volte non capivo se stavo procedendo correttamente; Ho avuto problemi tecnici; Altro.
+            a. Se il punteggio dell’utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla «Dove hai incontrato le maggiori difficoltà?». Le possibili risposte sono: A volte le indicazioni non erano chiare; A volte le indicazioni non erano complete; A volte non capivo se stavo procedendo correttamente; Ho avuto problemi tecnici; Altro.
          
-         b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
+            b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
         
         3. Viene presentato un campo di testo libero per dare la possibilità all’utente di inserire un breve commento e fornire ulteriori dettagli. 
      
@@ -372,9 +372,9 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
         
         2. In base alla risposta del cittadino, il secondo passaggio presenta 2 varianti:
         
-         a. Se il punteggio dell’utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla «Dove hai incontrato le maggiori difficoltà?». Le possibili risposte sono: A volte le indicazioni non erano chiare; A volte le indicazioni non erano complete; A volte non capivo se stavo procedendo correttamente; Ho avuto problemi tecnici; Altro.
+            a. Se il punteggio dell’utente è inferiore a 4 (1-3), viene posta la domanda a risposta multipla «Dove hai incontrato le maggiori difficoltà?». Le possibili risposte sono: A volte le indicazioni non erano chiare; A volte le indicazioni non erano complete; A volte non capivo se stavo procedendo correttamente; Ho avuto problemi tecnici; Altro.
          
-         b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
+            b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
         
         3. Viene presentato un campo di testo libero per dare la possibilità all’utente di inserire un breve commento e fornire ulteriori dettagli. 
 
