@@ -290,36 +290,60 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
 
 I servizi digitali per il cittadino del sito comunale presentano cookie tecnici in linea con la normativa vigente.
 
-`Linee guida cookie e altri strumenti di tracciamento - 10 giugno 2021 del Garante per la protezione dei dati personali <https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9677876>`_
+Riferimenti tecnici e normativi: `Linee guida cookie e altri strumenti di tracciamento - 10 giugno 2021 del Garante per la protezione dei dati personali <https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9677876>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
-  Casi di non conformità:
-  
-  - i servizi digitali presentano cookie che non rispettano le linee guida del Garante per la protezione dei dati personali;
-  - il dominio di anche solo un cookie presente nei servizi digitali non è corrispondente al dominio del sito web del Comune.
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - I servizi digitali presentano solo cookie che rispettano le linee guida del Garante per la protezione dei dati personali **e** il dominio di tutti i cookie presenti nei servizi digitali è corrispondente al dominio del sito web del Comune.
+     
+   * - **Tolleranza**
+     - /
+
+   * - **Fallimento**
+     - I servizi digitali presentano cookie che non rispettano le linee guida del Garante per la protezione dei dati personali **o** il dominio di anche solo un cookie presente nei servizi digitali non è corrispondente al dominio del sito web del Comune.
 
 
 **C.SE.3.2 - Dichiarazione di accessibilità**
 
 I servizi digitali del sito comunale espongono la dichiarazione di accessibilità in conformità al modello e alle linee guida rese disponibili da AGID in ottemperanza alla normativa vigente in materia di accessibilità e con livelli di accessibilità contemplati nelle specifiche tecniche WCAG 2.1.
 
-In linea con le `Linee guida AGID sulla Dichiarazione d'accessibilità <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_, le `Linee guida AGID sull’accessibilità degli strumenti informatici <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`_, la `Legge 9 gennaio 2004 n. 4 <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2004-01-17&atto.codiceRedazionale=004G0015&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=10&qId=cb6b9a05-f5c3-40ac-81b8-f89e73e5b4c7&tabID=0.029511124589268523&title=lbl.dettaglioAtto>`_, le `Web Content Accessibility Guidelines (WCAG 2.1) <https://www.w3.org/Translations/WCAG21-it/#background-on-wcag-2>`_ e la `Direttiva Reg. UE n. 2102/2016 <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32016L2102>`_.
+Riferimenti tecnici e normativi: `Linee guida AGID per la dichiarazione di accessibilità <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_, le `Linee guida AgID sull’accessibilità degli strumenti informatici <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`_, la `Legge 9 gennaio 2004 n. 4 <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2004-01-17&atto.codiceRedazionale=004G0015&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=10&qId=cb6b9a05-f5c3-40ac-81b8-f89e73e5b4c7&tabID=0.029511124589268523&title=lbl.dettaglioAtto>`_, le `Web Content Accessibility Guidelines (WCAG 2.1) <https://www.w3.org/Translations/WCAG21-it/#background-on-wcag-2>`_ e la `Direttiva Reg. UE n. 2102/2016 <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32016L2102>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
-  Casi di non conformità:
-  
-  - il link alla dichiarazione di accessibilità non è presente nel footer dei servizi digitali;
-  - il link invia a una dichiarazione di accessibilità non valida secondo le norme AGID.
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Il link alla dichiarazione di accessibilità è presente nel footer dei servizi digitali **e** invia a una dichiarazione di accessibilità valida secondo le norme AgID.
+     
+   * - **Tolleranza**
+     - /
+
+   * - **Fallimento**
+     - Il link alla dichiarazione di accessibilità non è presente nel footer dei servizi digitali **o** il link invia a una dichiarazione di accessibilità non valida secondo le norme AgID.
 
   
 **C.SE.3.3 - Informativa privacy**
 
 I servizi digitali del sito comunale presentano l'informativa sul trattamento dei dati personali, secondo quanto previsto dalla normativa vigente.
 
-`Normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/2016) <https://www.garanteprivacy.it/regolamentoue>`_
+Riferimenti tecnici e normativi: `Normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/2016) <https://www.garanteprivacy.it/regolamentoue>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
-  Casi di non conformità:
-  
-  - il link all’informativa sul trattamento dei dati personali non è presente nel footer dei servizi digitali;
-  - il link invia a una informativa sul trattamento dei dati personali non valida secondo il regolamento GDPR.
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - Il link all’informativa sul trattamento dei dati personali è presente nel footer dei servizi digitali **e** invia a una informativa sul trattamento dei dati personali valida secondo il regolamento GDPR.
+     
+   * - **Tolleranza**
+     - Il link all’informativa sul trattamento dei dati personali è presente nel footer dei servizi digitali **e** invia a una informativa sul trattamento dei dati personali valida secondo il regolamento GDPR.
+
+   * - **Fallimento**
+     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer dei servizi digitali **o** invia a una informativa sul trattamento dei dati personali non valida secondo il regolamento GDPR.
 
 
 ``Performance``
@@ -328,9 +352,20 @@ I servizi digitali del sito comunale presentano l'informativa sul trattamento de
 
 Nel caso in cui l’area servizi per il cittadino presenti livelli di prestazioni (media pesata di 6 metriche standard), inferiori a 50 secondo quanto calcolato e verificato tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`_, il Comune pubblica nell'area servizi per il cittadino del sito comunale un "Piano di miglioramento dei servizi" che mostri, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
 
-  Casi di non conformità:
-  
-  - l’area servizi presenta un punteggio inferiore a 50 e il “Piano di miglioramento del sito” non è pubblicato o non è raggiungibile dal footer.
+Riferimenti tecnici e normativi: è possibile produrre il report usando `Lighthouse PageSpeed Insights <https://pagespeed.web.dev/>`_; Lighthouse performance scoring guide <https://web.dev/performance-scoring/>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
+
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - L'area servizi presenta almeno un punteggio di prestazioni pari a 50.
+     
+   * - **Tolleranza**
+     - L'area servizi presenta un punteggio inferiore a 50 **e** il “Piano di miglioramento dei servizi” è pubblicato **e** il “Piano di miglioramento dei servizi” è raggiungibile dal footer.
+
+   * - **Fallimento**
+     - Il sito presenta un punteggio inferiore a 50 e il “Piano di miglioramento dei servizi” non è pubblicato **o** il “Piano di miglioramento dei servizi” non è raggiungibile dal footer.
 
   
 ``Sicurezza``
@@ -339,25 +374,43 @@ Nel caso in cui l’area servizi per il cittadino presenti livelli di prestazion
 
 I servizi digitali del sito comunale hanno un certificato https valido e attivo.
 
-`Raccomandazioni AGID in merito allo standard Transport Layer Security (TLS) <https://cert-agid.gov.it/wp-content/uploads/2020/11/AgID-RACCSECTLS-01.pdf>`_
+Riferimenti tecnici e normativi: `Raccomandazioni AgID in merito allo standard Transport Layer Security (TLS) <https://cert-agid.gov.it/wp-content/uploads/2020/11/AgID-RACCSECTLS-01.pdf>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
-  Casi di non conformità:
-  
-  - i servizi digitali non utilizzano il protocollo https;
-  - il certificato https è scaduto;
-  - il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata è inadatta);
-  - non sono presenti i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/it/versione-attuale/index.html>`_ per questo criterio.
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - I servizi digitali utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto (la versione del TLS e la suite di cifratura associata sono adatte) **e** i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     
+   * - **Tolleranza**
+     - /
+
+   * - **Fallimento**
+     - I servizi digitali non utilizzano il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata è inadatta)**o** non sono presenti i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
   
 
 **C.SE.5.2 - Sottodominio servizi**
 
 I servizi digitali del sito comunale utilizzano un sottodominio del sito istituzionale (come descritto dal criterio C.SI.5.2) secondo le modalità indicate nella documentazione del modello di sito comunale.
   
-  Casi di non conformità:
-  
-  - i servizi digitali non vengono messi a disposizione in un sottodominio (o un percorso);
-  - il dominio utilizzato non rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale”;
-  - non sono presenti i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/it/versione-attuale/index.html>`_ per questo criterio.
+Riferimenti tecnici e normativi: `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+
+.. list-table::
+   :widths: 10 30
+   :header-rows: 0
+
+   * - **Successo**
+     - I servizi digitali vengono messi a disposizione all’interno di un sottodominio “servizi.” **e** il dominio utilizzato rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” (es: servizi.comune.roma.it) **e** sono presenti i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
+     
+   * - **Tolleranza**
+     - I servizi digitali vengono messi a disposizione all’interno di un sottodominio nominato diversamente da “servizi.” **o** utilizzano un percorso della url (es: comune.roma.it/servizi/) in alternativa al sottodominio (es: servizi.comune.roma.it) **e** il dominio utilizzato rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” **e** sono presenti i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
+
+   * - **Fallimento**
+     - I servizi digitali non vengono messi a disposizione in un sottodominio (o un percorso) **o** il dominio utilizzato non rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” **o** non sono presenti i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+
  
 
 
@@ -371,47 +424,47 @@ Per migliorare ulteriormente l’esperienza degli utenti e garantire l’uso di 
 
 I servizi digitali del sito comunale rilasciano al cittadino una notifica di completamento della presentazione dell'istanza tramite le interfacce dell’app IO.
 
-In linea con la `direttiva CAD: art. 64-bis e c.1-ter <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_III-articolo_64-bis.html>`_, e le `Linee guida AgID sul punto di accesso telematico ai servizi della Pubblica Amministrazione <https://www.agid.gov.it/sites/default/files/repository_files/lg_punto_accesso_telematico_servizi_pa_3112021.pdf>`_.
+Riferimenti tecnici e normativi: Sebbene non sia finanziabile ai fini del presente avviso, questo step è convenientemente risolvibile mediante l’integrazione con l'app IO. Si consiglia di valutare l'adesione alla misura dedicata all’integrazione con l’app IO 1.4.3 Adozione pagoPA e app IO; `CAD: - art. 64-bis, c.1-ter <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_III-articolo_64-bis.html>`_, `Linee guida AgID sul punto di accesso telematico ai servizi della Pubblica Amministrazione <https://www.agid.gov.it/sites/default/files/repository_files/lg_punto_accesso_telematico_servizi_pa_3112021.pdf>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
-Sebbene non sia finanziabile ai fini del presente avviso, questo step è convenientemente risolvibile mediante l’integrazione con l'app IO. Si consiglia di valutare l'adesione alla misura dedicata all’integrazione con l’app IO 1.4.3 Adozione pagoPA e app IO.
 
 **R.SE.1.2 - Effettuare il pagamento / PagoPA**
 
 I servizi digitali del sito comunale consentono al cittadino, laddove gli sia richiesto di effettuare un pagamento, di effettuare lo stesso tramite piattaforma pagoPA.
 
-In linea con gli `Art. 5 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_I-sezione_II-articolo_5.html>`_ e `Art. 64 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_III-articolo_64.html>`_ del CAD.
+Riferimenti tecnici e normativi: nel caso delle tipologie di flussi di interfaccia "Servizi a pagamento", "Pagamento dovuti" e "Permessi e autorizzazioni" è previsto uno step di pagamento. Sebbene non sia finanziabile ai sensi del presente avviso, questo step è convenientemente risolvibile mediante l’integrazione con i sistemi di pagamento pagoPA. Si consiglia di valutare l'adesione alla misura dedicata all’integrazione con l’AppIO 1.4.3 Adozione pagoPA e app IO; `CAD - Art. 5 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_I-sezione_II-articolo_5.html>`_; ` CAD - Art. 64 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_III-articolo_64.html>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
-Nel caso delle tipologie di flussi di interfaccia "Servizi a pagamento", "Pagamento dovuti" e "Permessi e autorizzazioni" è previsto uno step di pagamento. Sebbene non sia finanziabile ai sensi del presente avviso, questo step è convenientemente risolvibile mediante l’integrazione con i sistemi di pagamento pagoPA. Si consiglia di valutare l'adesione alla misura dedicata all’integrazione con l’AppIO 1.4.3 Adozione pago PA e app IO.
 
 **R.SE.1.3 - Once only, integrazione con le basi dati nazionali**
 
 I servizi digitali del sito comunale consentono di utilizzare i dati personali presenti nelle banche dati digitali nazionali (eg. ANPR).
 
-In linea con la direttiva CAD `Art. 50 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_50.html>`_, `50-ter <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_50-ter.html>`_ e `60 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_II-articolo_60.html>`_.
+Riferimenti tecnici e normativi: `CAD - Art. 50 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_50.html>`_; ` CAD - Art. 50-ter <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_50-ter.html>`_; `CAD - Art. 60 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_II-articolo_60.html>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
+
 
 **R.SE.1.4 - Once only, interoperabilità**
 
 I servizi digitali del sito comunale rendono i dati interoperabili secondo la normativa vigente.
 
-In linea con la direttiva CAD `Art. 50 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_50.html>`_, `50-ter <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_50-ter.html>`_ e `60 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_II-articolo_60.html>`_, e  Linee Guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni.
+Riferimenti tecnici e normativi: `Linee Guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni <https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/212801215110O__OLinee+Guida+interoperabilit%26%23224%3B+tecnica+PA.pdf>`_.
+
 
 **R.SE.2.1 - Accedere al servizio / SPID e CIE**
 
 I servizi digitali del sito comunale consentono ai cittadini italiani ed europei, di effettuare l'accesso tramite identità digitale secondo quanto previsto dalla norma.
 
-In linea con la `direttiva CAD: Sezione III (Identità digitali, istanze e servizi on-line), art. 64 e ss. <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_III.html>`_
-
-Sebbene non sia finanziabile ai fini del presente avviso, questo step è convenientemente risolvibile mediante l’integrazione con SPID e CIE. Si consiglia di valutare l'adesione alla misura dedicata all'integrazione degli stessi *1.4.4 Adozione identità digitale*.
+Riferimenti tecnici e normativi: Sebbene non sia finanziabile ai fini del presente avviso, questo step è convenientemente risolvibile mediante l’integrazione con SPID e CIE. Si consiglia di valutare l'adesione alla misura dedicata all'integrazione degli stessi *1.4.4 Adozione identità digitale*; `CAD - Sezione III (Identità digitali, istanze e servizi on-line), art. 64 e ss. <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_III.html>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
 **R.SE.2.2 - Infrastrutture Cloud**
 
 I servizi digitali del sito comunale sono ospitati su infrastrutture qualificate ai sensi della normativa vigente.
 
-Per consentire un'erogazione più sicura, efficiente e scalabile dei servizi al cittadino, può essere utile considerare di impostare l'infrastruttura che ospita i servizi comunali in cloud, secondo quanto descritto nella `Stategia Cloud Italia <https://cloud.italia.it/strategia-cloud-pa/>`_. Hosting e re-hosting non sono finanziabili ai sensi del presente avviso, tuttavia l'impostazione dei servizi per classi e categorie è fatta per consentire una più facile adesione alla misura 1.2 Abilitazione e facilitazione migrazione al Cloud, che può coprire tali costi di l'infrastruttura. In questo caso, si consiglia di scegliere i servizi dei due avvisi facendo riferimento alle medesime Categorie.
+Riferimenti tecnici e normativi: Per consentire un'erogazione più sicura, efficiente e scalabile dei servizi al cittadino, può essere utile considerare di impostare l'infrastruttura che ospita i servizi comunali in cloud, secondo quanto descritto nella `Stategia Cloud Italia <https://cloud.italia.it/strategia-cloud-pa/>`_. Hosting e re-hosting non sono finanziabili ai sensi del presente avviso, tuttavia l'impostazione dei servizi per classi e categorie è fatta per consentire una più facile adesione alla misura 1.2 Abilitazione e facilitazione migrazione al Cloud, che può coprire tali costi di l'infrastruttura. In questo caso, si consiglia di scegliere i servizi dei due avvisi facendo riferimento alle medesime Categorie; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
 **R.SE.2.3 - Riuso**
 
 Il Comune mette a riuso sotto licenza aperta il software secondo le `Linee Guida acquisizione e riuso di software e riuso di software per le pubbliche amministrazioni <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_.
+
+Riferimenti tecnici e normativi: `CAD - Art. 69. (Riuso delle soluzioni e standard aperti) <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_VI-articolo_69.html>`_; `Linee Guida acquisizione e riuso di software e riuso di software per le pubbliche amministrazioni <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
 
   Da evitare:
