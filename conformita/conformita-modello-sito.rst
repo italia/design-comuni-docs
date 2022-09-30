@@ -255,7 +255,7 @@ Riferimenti normativi e tecnici: `Documentazione del modello Comuni <https://doc
 
 **C.SI.2.4 - Segnalazione disservizio**
 
-Il sito comunale fornisce al cittadino di `segnalare un disservizio <../modello-sito-comunale/funzionalita.html#segnalazione-disservizio>`_, tramite email o servizio dedicato.
+Il sito comunale permette al cittadino di `segnalare un disservizio <../modello-sito-comunale/funzionalita.html#segnalazione-disservizio>`_, tramite email o servizio dedicato.
 
 Riferimenti tecnici e normativi: `funzionalità <../modello-sito-comunale/funzionalita.html#segnalazione-disservizio>`_ all'interno della `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_; `eGovernment Benchmark Method Paper 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_.
 
