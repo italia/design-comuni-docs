@@ -14,13 +14,13 @@ Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/
    :header-rows: 0
 
    * - **Successo**
-     - Il sito utilizza prevalentemente o esclusivamente i font Titillium Web e Lora **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - Tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana devono usare esclusivamente i font Titillium Web, Lora e Roboto Mono **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
      
    * - **Tolleranza**
-     - Il sito utilizza prevalentemente o esclusivamente il font Titillium Web ma non Lora **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - Tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana devono includere Titillium Web o Lora tra i font utilizzati **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
      
    * - **Fallimento**
-     - Il sito non utilizza prevalentemente o esclusivamente il font Titillium Web **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - Anche solo un titolo (heading) o un paragrafo in qualsiasi pagina del sito in lingua italiana non include Titillium Web o Lora tra i font utilizzati **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
 
 
 
