@@ -48,20 +48,20 @@ Riferimenti tecnici e normativi: `Documentazione del modello Comuni <https://doc
 
 I servizi digitali del sito comunale utilizzano `i font <../modello-sito-comunale/template-html.html#i-font-del-modello>`_ indicati dalla documentazione del modello di sito comunale.
 
-Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-interface/il-disegno-di-un-interfaccia-e-lo-ui-kit.html#la-tipografia>`_ all’interno delle `Linee guida di design per i servizi web della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; 
+Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-interface/il-disegno-di-un-interfaccia-e-lo-ui-kit.html#la-tipografia>`_ all’interno delle `Linee guida di design per i servizi web della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
 .. list-table::
    :widths: 10 30
    :header-rows: 0
 
    * - **Successo**
-     - Il servizi digitali utilizzano prevalentemente o esclusivamente i font Titillium Web e Lora.
+     - Tutti i titoli (heading) e tutti i paragrafi delle pagine in lingua italiana dei servizi digitali devono usare esclusivamente i font Titillium Web, Lora e Roboto Mono.
      
    * - **Tolleranza**
-     - I servizi digitali utilizzano prevalentemente o esclusivamente il font Titillium Web ma non Lora.
+     - Tutti i titoli (heading) e tutti i paragrafi delle pagine in lingua italiana dei servizi digitali devono includere Titillium Web o Lora tra i font utilizzati.
      
    * - **Fallimento**
-     - I servizi digitali non utilizzano prevalentemente o esclusivamente il font Titillium Web.
+     - Anche solo un titolo (heading) o un paragrafo in qualsiasi pagina in lingua italiana dei servizi digitali non include Titillium Web o Lora tra i font utilizzati.
 
   
 
