@@ -65,7 +65,7 @@ Nella rappresentazione andranno riportati alcuni degli attributi della tipologia
 
 Si riporta il template del codice, con gli attributi in formato "<nomeattributo>":
 
-.. code-block:: html
+
 
 	<script type="application/ld+json">
         {
