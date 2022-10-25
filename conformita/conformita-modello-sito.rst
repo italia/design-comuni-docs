@@ -70,7 +70,9 @@ Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al citt
         - Tempi e scadenze;
         - Accedi al servizio (Canale fisico);
         - Condizioni di servizio; 
-        - Contatti.
+        - Contatti;
+        - Unità organizzativa responsabile;
+        - Argomenti.
      
    * - **Tolleranza**
      - In qualsiasi scheda servizio fino a 2 `voci obbligatorie <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=335720294>`_ non sono presenti **e** fino a 1 voce obbligatoria non è nell'ordine corretto **e** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
