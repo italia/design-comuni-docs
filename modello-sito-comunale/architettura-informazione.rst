@@ -174,17 +174,11 @@ In caso di uso del motore di ricerca, i primi 5 servizi verranno sostituiti con 
 
 **Amministrazione**
 
-Amministrazione è una sezione che contiene elementi di 3 tipologie di contenuto:
+La pagina Amministrazione presenta:
 
-- persone;
-- unità organizzative;
-- documenti e dati.
+- una sezione in evidenza, dove possono essere mostrati fino a 3 contenuti;
+- l'elenco dei sottolivelli della sezione, che ne permette la navigazione (Aree amministrative, Documenti e dati, Enti e fondazioni, Organi di governo, Personale amministrativo, Politici, Uffici).
 
-Ogni tipologia deve avere una propria sezione nella pagina. Ogni sezione potrà avere fino a 3 contenuti in evidenza (persone in evidenza, unità organizzative in evidenza, documenti e dati in evidenza) e l'elenco delle categorie non vuote della specifica tassonomia:
-
-- per le persone, la tassonomia "Tipi di incarico": politici, amministrativi, altri incarichi;
-- per le unità organizzative la tassonomia "Tipi di unità organizzativa": organi di governo, aree amministrative, uffici, enti e fondazioni;
-- per documenti e dati: Documenti albo pretorio, Modulistica, Documenti funzionamento interno, Normative, Accordi tra enti, Documenti attività politica, Rapporti tecnici, Istanze, Documenti di programmazione e rendicontazione, Dataset.
 
 **Vivere il comune**
 
@@ -199,7 +193,12 @@ Ogni tipologia deve avere una propria sezione nella pagina. Poiché questa pagin
 
 "Novità" è una sezione che contiene la tipologia di contenuto "Notizia". Queste possono essere notizie, avvisi e comunicati.
 
-La pagina deve contenere una sezione "Notizie in evidenza" e una sezione con l'elenco delle notizie ordinate per data, con paginazione.
+La pagina deve contenere:
+
+- una sezione "Novità in evidenza";
+- una sezione di ricerca con l'elenco delle novità ordinate per data, con paginazione;
+- l'elenco delle categorie per poter navigare ai sottolivelli.
+
 
 Pagine lista di secondo livello
 --------------------------------
