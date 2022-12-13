@@ -21,8 +21,8 @@ Le risorse includono:
    :caption: Indice dei contenuti
 
    flussi-di-servizi/tipologie-flussi-servizio.rst
-   flussi-di-servizi/blocchi.rst
-   flussi-di-servizi/bricks.rst
+   flussi-di-servizi/moduli.rst
+   flussi-di-servizi/sezioni.rst
    flussi-di-servizi/costruisci-un-servizio.rst
    flussi-di-servizi/valutazione-servizio.rst
    flussi-di-servizi/conformita-flussi-servizio.rst
