@@ -156,6 +156,8 @@ La homepage del sito di un Comune è composta da:
 
 La homepage deve presentare anche dei link in chiaro alle domande frequenti, alla richiesta di assistenza, alla prenotazione appuntamento e alla segnalazione disservizio.
 
+`Vai ai wireframe hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=0%3A2121&t=3v6HDPIEBkHrVFvA-1>`_
+
 Pagine lista di primo livello
 ------------------------------
 
@@ -172,6 +174,8 @@ La pagina lista "Servizi" è composta da:
 
 In caso di uso del motore di ricerca, i primi 5 servizi verranno sostituiti con i primi risultati del motore di ricerca, filtrati con un meccanismo di live search.
 
+`Vai ai wireframe hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=2008%3A287250&t=3v6HDPIEBkHrVFvA-1>`_
+
 **Amministrazione**
 
 La pagina Amministrazione presenta:
@@ -179,6 +183,7 @@ La pagina Amministrazione presenta:
 - una sezione in evidenza, dove possono essere mostrati fino a 3 contenuti;
 - l'elenco dei sottolivelli della sezione, che ne permette la navigazione (Aree amministrative, Documenti e dati, Enti e fondazioni, Organi di governo, Personale amministrativo, Politici, Uffici).
 
+`Vai ai wireframe hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=2003%3A300781&t=3v6HDPIEBkHrVFvA-1>`_
 
 **Vivere il comune**
 
@@ -188,6 +193,8 @@ La pagina Amministrazione presenta:
 - luoghi.
 
 Ogni tipologia deve avere una propria sezione nella pagina. Poiché questa pagina ha, principalmente, una funzione "vetrina". Ogni sezione (Eventi, Luoghi) deve avere 6 elementi in evidenza e un link che porta alle corrispondenti pagine di secondo livello (lista Eventi e lista Luoghi).
+
+`Vai ai wireframe hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=887%3A137876&t=3v6HDPIEBkHrVFvA-1>`_
 
 **Novità**
 
@@ -199,6 +206,7 @@ La pagina deve contenere:
 - una sezione di ricerca con l'elenco delle novità ordinate per data, con paginazione;
 - l'elenco delle categorie per poter navigare ai sottolivelli.
 
+`Vai ai wireframe hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=0%3A7772&t=3v6HDPIEBkHrVFvA-1>`_
 
 Pagine lista di secondo livello
 --------------------------------
@@ -315,6 +323,8 @@ Le tassonomie di riferimento per la scheda servizio sono:
 - la lista degli "Argomenti di un comune", i cui tag appariranno nella parte superiore della scheda servizio per permettere la navigazione trasversale del sito e l'accesso a contenuti correlati.
 
 Ogni scheda servizio dovrà, inoltre, presentare la `funzionalità di valutazione della chiarezza informativa <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_.
+
+`Vai ai wireframe hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=0%3A8382&t=3v6HDPIEBkHrVFvA-1>`_
 
 
 Dati strutturati e interoperabilità
