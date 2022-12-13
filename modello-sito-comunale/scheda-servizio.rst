@@ -65,6 +65,6 @@ Nella rappresentazione andranno riportati alcuni degli attributi della tipologia
 
 Si riporta il template del codice, con gli attributi in formato "<nomeattributo>":
 
-.. literalinclude:: modello-sito-comunale/template-dati-strutturati-scheda-servizio.html
+.. literalinclude:: template-dati-strutturati-scheda-servizio.html
 
 L'attributo `availableChannel>serviceUrl` **deve** essere presente in quei servizi erogati anche in modalità digitale e deve indicare l'url di accesso al servizio digitale.
