@@ -23,7 +23,7 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
      - Antemprime HTML
      - `Vai alle anteprime <https://italia.github.io/design-comuni-pagine-statiche>`_
      
-   * - Template HTML per il sito e i servizi digitali
+   * - Sorgenti dei template HTML per il sito e i servizi digitali
      - Repository GitHub
      - `Vai ai template HTML <https://github.com/italia/design-comuni-pagine-statiche>`_
 
@@ -35,7 +35,11 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
      - Repository GitHub con installazione per Drupal
      - `Vai al tema Drupal <https://github.com/italia/design-comuni-drupal-theme>`_
      
-   * - Libreria di componenti per i servizi
+   * - Libreria dei componenti UI per i servizi digitali
+     - Figma
+     - `Vai alla libreria <https://www.figma.com/file/WkVMh3JnkyUQGE3POb0TSI/Designers-Italia---Documentazione-Moduli-e-Sezioni?node-id=0%3A1>`_
+     
+   * - Libreria dei moduli e delle sezioni per i servizi digitali
      - Figma
      - `Vai alla libreria <https://www.figma.com/file/WkVMh3JnkyUQGE3POb0TSI/Designers-Italia---Documentazione-Moduli-e-Sezioni?node-id=0%3A1>`_
    
