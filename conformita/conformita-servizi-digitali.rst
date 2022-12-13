@@ -46,7 +46,7 @@ Riferimenti tecnici e normativi: `Documentazione del modello Comuni <https://doc
 
 **C.SE.1.3 - Consistenza dell'utilizzo dei font (librerie di caratteri)**
 
-I servizi digitali del sito comunale utilizzano `i font <../modello-sito-comunale/template-html.html#i-font-del-modello>`_ indicati dalla documentazione del modello di sito comunale.
+I servizi digitali del sito comunale utilizzano `i font <../modello-sito-comunale/font-modello.html>`_ indicati dalla documentazione del modello di sito comunale.
 
 Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-interface/il-disegno-di-un-interfaccia-e-lo-ui-kit.html#la-tipografia>`_ all’interno delle `Linee guida di design per i servizi web della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
