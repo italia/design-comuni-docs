@@ -65,48 +65,6 @@ Nella rappresentazione andranno riportati alcuni degli attributi della tipologia
 
 Si riporta il template del codice, con gli attributi in formato "<nomeattributo>":
 
-
-
-	<script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "GovernmentService",
-          "name": "<titolo del servizio>",
-          "serviceType": "<materie del servizio>",
-          "serviceOperator": {
-            "@type": "GovernmentOrganization",
-            "name": "Comune di <nomecomune>"
-          },
-          "areaServed": {
-            "@type": "AdministrativeArea",
-            "name": "<Copertura geografica>"
-          },
-          "audience": {
-            "@type": "Audience",
-            "audienceType": "<a chi è rivolto>"
-          },
-          "availableChannel": {
-            "@type": "ServiceChannel",
-            "name": "Dove rivolgersi",
-            "serviceUrl": "<canale digitale>",
-            "availableLanguage": {
-              "@type": "Language",
-              "name": "Italian",
-              "alternateName": "it"
-            },
-            "serviceLocation": {
-              "@type": "Place",
-              "name": "<unità organizzativa>",
-              "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "<luogo:indirizzo>",
-                "postalCode": "<luogo:cap>"
-                "addressLocality": "<nomecomune>",
-              }
-            }
-          }
-        }
-	</script>
-
+.. literalinclude:: modello-sito-comunale/template-dati-strutturati-scheda-servizio.html
 
 L'attributo `availableChannel>serviceUrl` **deve** essere presente in quei servizi erogati anche in modalità digitale e deve indicare l'url di accesso al servizio digitale.
