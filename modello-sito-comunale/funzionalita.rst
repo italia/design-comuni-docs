@@ -28,6 +28,11 @@ Se l'utente accede alla funzione a partire dalla scheda di un servizio, la scelt
 
 Se l'utente si è autenticato al portale, nominativo e contatti saranno quelli del profilo autenticato. In caso contrario verrà data al cittadino la possibilità di autenticarsi, oppure di inserire i dati nell'apposita form.
 
+`Naviga il prototipo mobile <https://www.figma.com/proto/Kfa8NiMX4BDgJmRZiXxjnY/Siti-Comuni---hi-fi?page-id=1257%3A208298&node-id=1291%3A223386&viewport=466%2C48%2C0.89&scaling=scale-down&starting-point-node-id=1291%3A223386>`_
+
+`Vai ai wireframe hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=1257%3A208298&t=3v6HDPIEBkHrVFvA-1>`_
+
+
 Richiesta di assistenza
 ------------------------
 
@@ -49,6 +54,11 @@ Gli utenti autenticati con identità digitale devono poter salvare una bozza del
 
 Il link alla funzionalità deve essere presente nel footer del sito.
 
+`Naviga il prototipo mobile <https://www.figma.com/proto/Kfa8NiMX4BDgJmRZiXxjnY/Siti-Comuni---hi-fi?page-id=5152%3A367364&node-id=5631%3A410664&viewport=3683%2C-19222%2C0.84&scaling=scale-down&starting-point-node-id=5631%3A411910>`_
+
+`Vai ai wireframe hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=5152%3A367364&t=3v6HDPIEBkHrVFvA-1>`_
+
+
 Segnalazione disservizio
 ------------------------
 
@@ -62,6 +72,10 @@ Se si sceglie di implementare una funzionalità dedicata, questa deve offire la 
 - aggiungere una breve descrizione;
 - aggiungere delle immagini;
 - allegare uno o più documenti.
+
+`Naviga il prototipo mobile<https://www.figma.com/proto/Kfa8NiMX4BDgJmRZiXxjnY/Siti-Comuni---hi-fi?page-id=745%3A108216&node-id=982%3A278237&viewport=466%2C48%2C0.44&scaling=scale-down&starting-point-node-id=982%3A278237>`_
+
+`Vai ai wireframe hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=745%3A108216&t=3v6HDPIEBkHrVFvA-1>`_
 
 
 Valutazione della chiarezza informativa delle pagine
@@ -107,6 +121,10 @@ L’utente accede all’interfaccia di ricerca globale nel sito attraverso l’i
 - **tipologie di contenuto**, raggruppati in base alle voci della navigazione (Unità organizzativa, Persona pubblica, Documenti, Servizi, Luogo, Evento);
 - **argomenti**, ovvero i tag tematici con cui possono essere taggati tutti i contenuti del sito.
 
+`Naviga il prototipo desktop <https://www.figma.com/proto/Kfa8NiMX4BDgJmRZiXxjnY/Siti-Comuni---hi-fi?page-id=2216%3A296171&node-id=2253%3A325491&viewport=466%2C48%2C0.03&scaling=scale-down&starting-point-node-id=2278%3A304333>`_
+
+`Vai ai wireframe hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=2216%3A296171&t=3v6HDPIEBkHrVFvA-1>`_
+
 
 Ricerca contestuale
 ----------------------
@@ -121,3 +139,4 @@ L’utente può accedere alla all’interfaccia di ricerca contestuale per i ser
 
 La ricerca contestuale è presente anche nelle pagine di Categorie di servizi. In questo caso la ricerca filtra i risultati per tipologia di contenuto (“Servizi”) e per categoria di servizio. Per esempio, nella categoria “Anagrafe e stato civile” la ricerca contestuale restituisce soltanto risultati di tipo “Servizio” che appartengono alla categoria “Anagrafe e stato civile”.
 
+`Vai al wireframe della pagina Servizi e della pagina Categoria di servizio <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=2008%3A287250&t=3v6HDPIEBkHrVFvA-1>`_
