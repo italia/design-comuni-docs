@@ -248,6 +248,8 @@ uffici che compongono l’amministrazione. Gli argomenti offrono agli
 uffici la possibilità di gestire i propri contenuti e condividere le
 proprie iniziative.
 
+`Vai ai wireframe hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=0%3A5587&t=8XnfAMHviKpeIRCj-1>`_
+
 
 Struttura delle pagine
 ----------------------
