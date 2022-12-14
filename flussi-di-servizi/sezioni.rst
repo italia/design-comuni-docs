@@ -30,20 +30,20 @@ Alcune sezioni sono state progettate con una serie di varianti, in modo da poter
 **Sezioni “Preferenze di servizio”** (per il modulo “Inserire/controllare i dati”):
 
 * Tre sezioni per alla raccolta di scelte esclusive, quando tra diverse opzioni se ne può selezionare al massimo una. Le sezioni si basano su tre criteri:
- - radio button, quando le opzioni tra cui scegliere sono 5 o minori di 5;
- - menù a tendina, quando le opzioni tra cui scegliere sono almeno 6 ma al massimo 10;
- - autocompletamento, quando le opzioni tra cui scegliere sono più di 10.
+ a. radio button, quando le opzioni tra cui scegliere sono 5 o minori di 5;
+ b. menù a tendina, quando le opzioni tra cui scegliere sono almeno 6 ma al massimo 10;
+ c. autocompletamento, quando le opzioni tra cui scegliere sono più di 10.
 
 * Una sezione per la scelta multipla, quando tra diverse opzioni se ne può selezionare una o più. Il numero minimo e massimo di scelte si può indicare nello spazio dedicato alla descrizione.
 
 * Due sezioni per alla scelta di una data. Le sezioni si contraddistinguono tramite due criteri:
- - scelta di un giorno;
- - scelta di un periodo.
+ a. scelta di un giorno;
+ b. scelta di un periodo.
 
 * Una sezione dedicata all’inserimento di un codice di avviso, dove sono previsti:
- - un campo per l’inserimento del codice; 
- - uno spazio di visualizzazione dei dati legati all’avviso;
- - uno campo dove poter inserire dati che possano modificare i dati dell’avviso, ad esempio la data di ricevuta dell’avviso nel pagamento di una multa che risulta discriminante per il calcolo dell’importo dovuto.
+ a. un campo per l’inserimento del codice; 
+ b. uno spazio di visualizzazione dei dati legati all’avviso;
+ c. uno campo dove poter inserire dati che possano modificare i dati dell’avviso, ad esempio la data di ricevuta dell’avviso nel pagamento di una multa che risulta discriminante per il calcolo dell’importo dovuto.
 
 **Sezione di riepilogo** (per il modulo “Confermare il riepilogo informazioni”)
 
