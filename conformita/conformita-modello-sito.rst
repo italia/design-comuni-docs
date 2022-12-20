@@ -83,7 +83,7 @@ Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al citt
      
 **C.SI.1.4 - Utilizzo di temi per CMS (Content Management System)**
 
-Nel caso in cui il sito utilizzi `tema messo a disposizione <../modello-sito-comunale/temi-cms.html>`_ nella documentazione del modello di sito comunale, lo utilizza nella versione più recente disponibile alla data di inizio lavori.
+Nel caso in cui il sito utilizzi `tema messo a disposizione <../modello-sito-comunale/temi-cms.html>`_ nella documentazione del modello di sito comunale, lo utilizza nella versione 1.0 o successive.
 
 Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designers Italia <https://designers.italia.it/modello/comuni/>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
@@ -92,13 +92,13 @@ Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designer
    :header-rows: 0
 
    * - **Successo**
-     - Il sito utilizza un tema CMS del modello Comuni **e** ne utilizza la versione più recente disponibile alla data di inizio lavori **e** ne utilizza una versione uguale o superiore alla v1.0
+     - Il sito utilizza un tema CMS del modello Comuni **e** ne utilizza una versione uguale o superiore alla v1.0
      
    * - **Tolleranza**
      - Il sito non utilizza un tema CMS del modello Comuni
      
    * - **Fallimento**
-     - Il sito utilizza un tema CMS del modello Comuni ma non ne utilizza la versione più recente disponibile alla data di inizio lavori o ne utilizza una versione precedente alla v1.0
+     - Il sito utilizza un tema CMS del modello Comuni ma ne utilizza una versione precedente alla v1.0
 
 
 **C.SI.1.5 - Vocabolari controllati**
@@ -198,7 +198,7 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
         - scegliere fra le date e gli orari disponibili;
         - scegliere l’argomento e spiegare il motivo della richiesta;
         - lasciare il proprio nominativo e i propri contatti;
-       **e** e la funzionalità è accessibile come servizio a sé nell’elenco dei servizi; **e** la funzionalità è accessibile all’interno delle schede servizio, come funzione trasversale ai servizi; **e** la funzionalità circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato, quando vi si accede direttamente da una scheda servizio; **e** la funzionalità indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **e** se l’utente è autenticato al portale, nominativo e contatti saranno quelli del profilo autenticato (in caso contrario verrà data al cittadino la possibilità di autenticarsi o di inserire i dati nell’apposita form); **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+       **e** e la funzionalità è accessibile come servizio a sé dalla pagina di primo livello "Servizi"; **e** la funzionalità è accessibile all’interno delle schede servizio, come funzione trasversale ai servizi; **e** la funzionalità circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato, quando vi si accede direttamente da una scheda servizio; **e** la funzionalità indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **e** se l’utente è autenticato al portale, nominativo e contatti saranno quelli del profilo autenticato (in caso contrario verrà data al cittadino la possibilità di autenticarsi o di inserire i dati nell’apposita form); **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - /
@@ -210,7 +210,7 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
         - scegliere fra le date e gli orari disponibili;
         - scegliere l’argomento e spiegare il motivo della richiesta;
         - lasciare il proprio nominativo e i propri contatti;
-       **o** la funzionalità non è accessibile come servizio a sé nell’elenco dei servizi; **o** la funzionalità non è accessibile all’interno delle schede servizio, come funzione trasversale ai servizi; **o** la funzionalità non circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato, quando vi si accede direttamente da una scheda servizio; **o** la funzionalità non indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **o** se l’utente è autenticato al portale, nominativo e contatti non sono quelli del profilo autenticato (o, in caso di utente non autenticato, non viene data la possibilità al cittadino di autenticarsi o di inserire i dati nell’apposita form); **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+       **o** la funzionalità non è accessibile come servizio a sé dalla pagina di primo livello "Servizi"; **o** la funzionalità non è accessibile all’interno delle schede servizio, come funzione trasversale ai servizi; **o** la funzionalità non circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato, quando vi si accede direttamente da una scheda servizio; **o** la funzionalità non indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **o** se l’utente è autenticato al portale, nominativo e contatti non sono quelli del profilo autenticato (o, in caso di utente non autenticato, non viene data la possibilità al cittadino di autenticarsi o di inserire i dati nell’apposita form); **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
        
 
 **C.SI.2.2 - Richiesta di assistenza / contatti**
@@ -394,20 +394,20 @@ Riferimenti tecnici e normativi: `Linee guida cookie e altri strumenti di tracci
    :header-rows: 0
 
    * - **Successo**
-     - Il sito presenta solo cookie che rispettano le linee guida del Garante per la protezione dei dati personali **e** il dominio di tutti i cookie presenti nel sito è corrispondente al dominio del sito web del Comune.
+     - Il dominio di tutti i cookie presenti nel sito è corrispondente al dominio del sito web del Comune.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il sito presenta cookie che non rispettano le linee guida del Garante per la protezione dei dati personali **o** il dominio di anche solo un cookie presente nel sito non è corrispondente al dominio del sito web del Comune.
+     - Il dominio di anche solo un cookie presente nel sito non è corrispondente al dominio del sito web del Comune.
 
 
  
 
 **C.SI.3.2 - Dichiarazione di accessibilità** 
 
-Il sito comunale espone la dichiarazione di accessibilità in conformità al modello e alle linee guida rese disponibili da AgID in ottemperanza alla normativa vigente in materia di accessibilità e con livelli di accessibilità contemplati nelle specifiche tecniche WCAG 2.1.
+Il sito comunale espone la dichiarazione di accessibilità in conformità al modello e alle linee guida rese disponibili da AGID in ottemperanza alla normativa vigente in materia di accessibilità e con livelli di accessibilità contemplati nelle specifiche tecniche WCAG 2.1.
 
 Riferimenti tecnici e normativi: `Linee guida AGID per la dichiarazione di accessibilità <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_, le `Linee guida AgID sull’accessibilità degli strumenti informatici <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`_, la `Legge 9 gennaio 2004 n. 4 <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2004-01-17&atto.codiceRedazionale=004G0015&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=10&qId=cb6b9a05-f5c3-40ac-81b8-f89e73e5b4c7&tabID=0.029511124589268523&title=lbl.dettaglioAtto>`_, le `Web Content Accessibility Guidelines (WCAG 2.1) <https://www.w3.org/Translations/WCAG21-it/#background-on-wcag-2>`_ e la `Direttiva Reg. UE n. 2102/2016 <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32016L2102>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
@@ -416,13 +416,13 @@ Riferimenti tecnici e normativi: `Linee guida AGID per la dichiarazione di acces
    :header-rows: 0
 
    * - **Successo**
-     - Il link alla dichiarazione di accessibilità è presente nel footer del sito **e** invia a una dichiarazione di accessibilità valida secondo le norme AgID **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link alla dichiarazione di accessibilità è presente nel footer del sito **e** invia a una dichiarazione di accessibilità secondo le norme AgID **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il link alla dichiarazione di accessibilità non è presente nel footer del sito **o** il link invia a una dichiarazione di accessibilità non valida secondo le norme AgID **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link alla dichiarazione di accessibilità non è presente nel footer del sito **o** il link non invia a una dichiarazione di accessibilità secondo le norme AgID **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
@@ -438,13 +438,13 @@ Riferimenti tecnici e normativi: `Normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/
    :header-rows: 0
 
    * - **Successo**
-     - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito **e** invia a una informativa sul trattamento dei dati personali valida secondo il regolamento GDPR **e** la pagina di destinazione è sicura (ovvero presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito **e** invia all'informativa sul trattamento dei dati personali **e** la pagina di destinazione è sicura (ovvero presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito **e** invia a una informativa sul trattamento dei dati personali valida secondo il regolamento GDPR **e** la pagina di destinazione non è sicura (ovvero non presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
    * - **Fallimento**
-     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer del sito **o** invia a una informativa sul trattamento dei dati personali non valida secondo il regolamento GDPR **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer del sito **o** non invia all'informativa sul trattamento dei dati personali **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 **C.SI.3.4 - Licenza e attribuzione**
