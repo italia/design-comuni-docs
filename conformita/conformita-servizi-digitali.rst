@@ -268,7 +268,7 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
         - scegliere fra le date e gli orari disponibili;
         - scegliere l’argomento e spiegare il motivo della richiesta;
         - lasciare il proprio nominativo e i propri contatti;
-       **e** e la funzionalità è accessibile come servizio a sé nell’elenco dei servizi; **e** la funzionalità è accessibile all’interno dei servizi digitali, come funzione trasversale ai servizi; **e** la funzionalità circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato; **e** la funzionalità indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **e** nominativo e contatti saranno quelli del profilo autenticato.
+       **e** e la funzionalità è accessibile come servizio a sé dalla pagina di primo livello "Servizi"; **e** la funzionalità è accessibile all’interno dei servizi digitali, come funzione trasversale ai servizi; **e** la funzionalità circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato; **e** la funzionalità indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **e** nominativo e contatti saranno quelli del profilo autenticato.
      
    * - **Tolleranza**
      - /
@@ -280,7 +280,7 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
         - scegliere fra le date e gli orari disponibili;
         - scegliere l’argomento e spiegare il motivo della richiesta;
         - lasciare il proprio nominativo e i propri contatti;
-       **o** la funzionalità non è accessibile come servizio a sé nell’elenco dei servizi; **o** la funzionalità non è accessibile all’interno dei servizi digitali, come funzione trasversale ai servizi; **o** la funzionalità non circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato; **o** la funzionalità non indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **o** se l’utente è autenticato al portale, nominativo e contatti non sono quelli del profilo autenticato.
+       **o** la funzionalità non è accessibile come servizio a sé dalla pagina di primo livello "Servizi"; **o** la funzionalità non è accessibile all’interno dei servizi digitali, come funzione trasversale ai servizi; **o** la funzionalità non circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato; **o** la funzionalità non indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **o** se l’utente è autenticato al portale, nominativo e contatti non sono quelli del profilo autenticato.
 
 
 
@@ -297,13 +297,13 @@ Riferimenti tecnici e normativi: `Linee guida cookie e altri strumenti di tracci
    :header-rows: 0
 
    * - **Successo**
-     - I servizi digitali presentano solo cookie che rispettano le linee guida del Garante per la protezione dei dati personali **e** il dominio di tutti i cookie presenti nei servizi digitali è corrispondente al dominio del sito web del Comune.
+     - Il dominio di tutti i cookie presenti nei servizi digitali è corrispondente al dominio del sito web del Comune.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - I servizi digitali presentano cookie che non rispettano le linee guida del Garante per la protezione dei dati personali **o** il dominio di anche solo un cookie presente nei servizi digitali non è corrispondente al dominio del sito web del Comune.
+     - Il dominio di anche solo un cookie presente nei servizi digitali non è corrispondente al dominio del sito web del Comune.
 
 
 **C.SE.3.2 - Dichiarazione di accessibilità**
@@ -317,13 +317,13 @@ Riferimenti tecnici e normativi: `Linee guida AGID per la dichiarazione di acces
    :header-rows: 0
 
    * - **Successo**
-     - Il link alla dichiarazione di accessibilità è presente nel footer dei servizi digitali **e** invia a una dichiarazione di accessibilità valida secondo le norme AgID.
+     - Il link alla dichiarazione di accessibilità è presente nel footer dei servizi digitali **e** invia a una dichiarazione di accessibilità secondo le norme AGID.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il link alla dichiarazione di accessibilità non è presente nel footer dei servizi digitali **o** il link invia a una dichiarazione di accessibilità non valida secondo le norme AgID.
+     - Il link alla dichiarazione di accessibilità non è presente nel footer dei servizi digitali **o** il link non invia a una dichiarazione di accessibilità secondo le norme AGID.
 
   
 **C.SE.3.3 - Informativa privacy**
@@ -337,14 +337,13 @@ Riferimenti tecnici e normativi: `Normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/
    :header-rows: 0
 
    * - **Successo**
-     - Il link all’informativa sul trattamento dei dati personali è presente nel footer dei servizi digitali **e** invia a una informativa sul trattamento dei dati personali valida secondo il regolamento GDPR.
+     - Il link all’informativa sul trattamento dei dati personali è presente nel footer dei servizi digitali **e** invia all'informativa sul trattamento dei dati personali **e** e la pagina di destinazione è sicura (ovvero presenta un certificato https valido e attivo).
      
    * - **Tolleranza**
-     - Il link all’informativa sul trattamento dei dati personali è presente nel footer dei servizi digitali **e** invia a una informativa sul trattamento dei dati personali valida secondo il regolamento GDPR.
+     - Il link all’informativa sul trattamento dei dati personali è presente nel footer dei servizi digitali **e** invia all'informativa sul trattamento dei dati personali **e** la pagina di destinazione non è sicura (ovvero non presenta un certificato https valido e attivo).
 
    * - **Fallimento**
-     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer dei servizi digitali **o** invia a una informativa sul trattamento dei dati personali non valida secondo il regolamento GDPR.
-
+     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer dei servizi digitali **o** non invia all'informativa sul trattamento dei dati personali.
 
 ``Performance``
 
@@ -381,14 +380,13 @@ Riferimenti tecnici e normativi: `Raccomandazioni AgID in merito allo standard T
    :header-rows: 0
 
    * - **Successo**
-     - I servizi digitali utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto (la versione del TLS e la suite di cifratura associata sono adatte) **e** i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - I servizi digitali utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto (la versione del TLS e la suite di cifratura associata sono adatte).
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - I servizi digitali non utilizzano il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata è inadatta)**o** non sono presenti i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
-  
+     - I servizi digitali non utilizzano il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata è inadatta).
 
 **C.SE.5.2 - Sottodominio servizi**
 
@@ -401,15 +399,15 @@ Riferimenti tecnici e normativi: `Documentazione del modello Comuni <https://doc
    :header-rows: 0
 
    * - **Successo**
-     - I servizi digitali vengono messi a disposizione all’interno di un sottodominio “servizi.” **e** il dominio utilizzato rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” (es: servizi.comune.roma.it) **e** sono presenti i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - I servizi digitali vengono messi a disposizione all’interno di un sottodominio “servizi.” **e** il dominio utilizzato rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” (es: servizi.comune.roma.it).
 
      
    * - **Tolleranza**
-     - I servizi digitali vengono messi a disposizione all’interno di un sottodominio nominato diversamente da “servizi.” **o** utilizzano un percorso della url (es: comune.roma.it/servizi/) in alternativa al sottodominio (es: servizi.comune.roma.it) **e** il dominio utilizzato rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” **e** sono presenti i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - I servizi digitali vengono messi a disposizione all’interno di un sottodominio nominato diversamente da “servizi.” **o** utilizzano un percorso della url (es: comune.roma.it/servizi/) in alternativa al sottodominio (es: servizi.comune.roma.it) **e** il dominio utilizzato rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale”.
 
 
    * - **Fallimento**
-     - I servizi digitali non vengono messi a disposizione in un sottodominio (o un percorso) **o** il dominio utilizzato non rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” **o** non sono presenti i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - I servizi digitali non vengono messi a disposizione in un sottodominio (o un percorso) **o** il dominio utilizzato non rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale”.
 
  
 
