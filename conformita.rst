@@ -1,7 +1,7 @@
 Conformità al modello Comuni
 ==============================
 
-I criteri di conformità guidano alla corretta adozione del modello in termini di esperienza utente, sicurezza, performance e rispetto della normativa.
+I criteri di conformità guidano alla corretta adozione del modello in termini di esperienza utente, sicurezza, performance e rispetto della normativa. 
 
 Per i Comuni che partecipano agli avvisi di finanziamento di `PA digitale 2026 <https://padigitale2026.gov.it/>`_ per l’aggiornamento del sito comunale e la creazione di servizi digitali, il DTD verifica il rispetto di tutti i criteri di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali. In questo caso, è necessario tener conto dei `requisiti tecnici necessari allo svolgimento delle verifiche <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/it/versione-attuale>`_.
 
