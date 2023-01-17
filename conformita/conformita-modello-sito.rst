@@ -217,7 +217,7 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
 
 All'interno del sito comunale, nel contenuto della scheda servizio, i contatti sono specifici per l'ufficio preposto all'erogazione del servizio.
 
-Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al cittadino <../modello-sito-comunale/scheda-servizio.html#scheda-informativa-di-servizio-al-cittadino>`_ all’interno della `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_; `eGovernment Benchmark Method Paper 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_.
+Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al cittadino <../modello-sito-comunale/architettura-informazione.html#scheda-informativa-di-servizio-al-cittadino>`_ all’interno della `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_; `eGovernment Benchmark Method Paper 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_.
 
 .. list-table::
    :widths: 10 30

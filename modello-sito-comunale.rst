@@ -14,6 +14,7 @@ Usa lo `strumento checklist <https://docs.google.com/document/d/1E76BHQ5BnyopPU8
    :caption: Indice dei contenuti
 
    modello-sito-comunale/architettura-informazione.rst
+   modello-sito-comunale/amministrazione-trasparente.rst
    modello-sito-comunale/funzionalita.rst
    modello-sito-comunale/font-modello.rst
    modello-sito-comunale/template-html-sito.rst
