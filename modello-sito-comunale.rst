@@ -18,7 +18,7 @@ Usa lo `strumento checklist <https://docs.google.com/document/d/1E76BHQ5BnyopPU8
    modello-sito-comunale/funzionalita.rst
    modello-sito-comunale/font-modello.rst
    modello-sito-comunale/template-html-sito.rst
-   modello-sito-comunale/wireframe-sito.rst
+   modello-sito-comunale/mockup-alta-definizione.rst
    modello-sito-comunale/temi-cms.rst
    modello-sito-comunale/guida-migrazione-contenuti.rst
    modello-sito-comunale/conformita-modello-sito.rst
