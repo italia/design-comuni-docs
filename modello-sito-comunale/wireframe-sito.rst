@@ -22,9 +22,6 @@ Per facilitare l’adozione del modello di sito istituzionale dei Comuni, sono d
 * `Pagina Novità (mobile e desktop) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=0%3A7772&t=3v6HDPIEBkHrVFvA-1>`_
 * `Scheda notizia (mobile e desktop) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=0%3A10747&t=3v6HDPIEBkHrVFvA-1>`_
 
-**Persona**
-* `Pagina Persona (desktop) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=24059%3A198882&t=gyNuZrSUG13FLBu8-1>`_
-
 **Servizi**
 
 * `Pagine Servizi e Categoria di servizi (mobile e desktop) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=2008%3A287250&t=3v6HDPIEBkHrVFvA-1>`_
