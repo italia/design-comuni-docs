@@ -1,7 +1,7 @@
-Wireframe ad alta definizione
+Mockup ad alta definizione
 =============================
 
-Per facilitare l’adozione del modello di sito istituzionale dei Comuni, sono disponibili i wireframe ad alta definizione delle principali pagine del sito.
+Per facilitare l’adozione del modello di sito istituzionale dei Comuni, sono disponibili i mockup ad alta definizione delle principali pagine del sito.
 
 **Homepage e pagine lista**
 
@@ -13,6 +13,9 @@ Per facilitare l’adozione del modello di sito istituzionale dei Comuni, sono d
 
 * `Pagina Amministrazione (mobile e desktop) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=2003%3A300781&t=3v6HDPIEBkHrVFvA-1>`_
 
+**Documenti e dati**
+
+* `Pagina Documenti e dati (mobile e desktop) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=134%3A206136&t=gyNuZrSUG13FLBu8-1>`_
 
 **Novità**
 
@@ -28,6 +31,13 @@ Per facilitare l’adozione del modello di sito istituzionale dei Comuni, sono d
 **Vivere il Comune**
 
 * `Vivere il Comune (mobile e desktop) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=887%3A137876&t=3v6HDPIEBkHrVFvA-1>`_
+
+**Tipologie di pagina (content-type)**
+
+* `Documento pubblico (desktop) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=19%3A200599&t=gyNuZrSUG13FLBu8-1>`_
+* `Luogo (desktop) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=19%3A199961&t=gyNuZrSUG13FLBu8-1>`_
+* `Persona (desktop) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=24059%3A198882&t=gyNuZrSUG13FLBu8-1>`_
+* `Unità organizzativa (desktop) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=30%3A199476&t=gyNuZrSUG13FLBu8-1>`_
 
 **Funzionalità**
 
