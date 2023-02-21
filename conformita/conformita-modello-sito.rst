@@ -7,20 +7,20 @@ Conformità al modello di sito comunale
 
 Il sito comunale utilizza `i font <../modello-sito-comunale/font-modello.html>`_ indicati nella documentazione del modello di sito comunale.
 
-Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-interface/il-disegno-di-un-interfaccia-e-lo-ui-kit.html#la-tipografia>`_ all’interno delle `Linee guida di design per i servizi web della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs/it/versione-corrente/doc/esperienza-utente/progettare-e-costruire-in-alta-fedelta.html#la-tipografia>`_ all’interno del `Manuale operativo di design <https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs/it/>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
 .. list-table::
    :widths: 10 30
    :header-rows: 0
 
    * - **Successo**
-     - Tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana devono usare esclusivamente i font Titillium Web, Lora e Roboto Mono **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - Tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana utilizzano esclusivamente i font Titillium Web, Lora o Roboto Mono come font di default **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
      
    * - **Tolleranza**
-     - Tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana devono includere Titillium Web o Lora tra i font utilizzati **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - Tutti i titoli (heading) e tutti i paragrafi delle pagine del sito in lingua italiana utilizzano Titillium Web, Lora o Roboto Mono come font di default, ma sono presenti degli elementi all’interno dei titoli o dei paragrafi che usano altri font di default **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
      
    * - **Fallimento**
-     - Anche solo un titolo (heading) o un paragrafo in qualsiasi pagina del sito in lingua italiana non include Titillium Web o Lora tra i font utilizzati **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+     - Anche solo un titolo (heading) o un paragrafo in qualsiasi pagina del sito in lingua italiana non utilizza Titillium Web, Lora o Roboto Mono come font di default **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
 
 
 
@@ -35,20 +35,20 @@ Riferimenti normativi e tecnici: `Bootstrap Italia <https://italia.github.io/boo
    :header-rows: 0
 
    * - **Successo**
-     - Il sito utilizza la libreria Bootstrap Italia in una versione uguale o superiore alla 2.0 **e** la libreria Bootstrap Italia è collegata nell’head del sito
+     - In tutte le pagine del sito viene utilizzata la libreria Bootstrap Italia **e** la libreria Bootstrap Italia è presente nel tag <head> delle pagine del sito **e** la versione in uso è uguale o superiore alla 2.0 **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
      
    * - **Tolleranza**
      - /
      
    * - **Fallimento**
-     - Il sito non utilizza la libreria Bootstrap Italia **o** la libreria Bootstrap Italia non è collegata nell’head del sito **o** la versione utilizzata è precedente alla 2.0
+     - Anche solo in una pagina del sito non viene utilizzata la libreria Bootstrap Italia **o** la libreria Bootstrap Italia non è presente nel tag <head> delle pagine del sito **o** la versione in uso non è uguale o superiore alla 2.0 **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
 
 
 **C.SI.1.3 - Schede informative di servizio per il cittadino**
 
 Nel sito comunale tutte le schede informative dei servizi per il cittadino mostrano le voci segnalate come obbligatorie all'interno dell'`architettura dell’informazione <../modello-sito-comunale/architettura-informazione.html>`_, nell'ordine segnalato dal modello. In particolare, indicano il tempo massimo di risposta della PA al servizio ove presente.
 
-Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al cittadino <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/v2022.1/modello-sito-comunale/scheda-servizio.html#scheda-informativa-di-servizio-al-cittadino>`_ all’interno della Documentazione del modello Comuni; `sezione Tipologia servizio <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=335720294>`_ all’interno del `documento di Architettura dell’informazione del modello Comuni <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit?usp=sharing&ouid=115576940975219606169&rtpof=true&sd=true>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al cittadino <../modello-sito-comunale/architettura-informazione.html#scheda-informativa-di-servizio-al-cittadino>`_ all’interno della Documentazione del modello Comuni; `sezione Tipologia servizio <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=335720294>`_ all’interno del `documento di Architettura dell’informazione del modello Comuni <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit?usp=sharing&ouid=115576940975219606169&rtpof=true&sd=true>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
 
 .. list-table::
@@ -56,34 +56,89 @@ Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al citt
    :header-rows: 0
 
    * - **Successo**
-     - In tutte le schede servizio, tutte le voci obbligatorie sono presenti e sono nell'ordine corretto:
+     - In tutte le schede servizio tutte le voci obbligatorie e i relativi contenuti sono presenti nel seguente ordine: 
      
         - Categoria del servizio (la tipologia di servizio indicata nella breadcrumb); 
         - Titolo del servizio;
-        - Stato del servizio;
-        - Motivo dello stato (visibile nel caso in cui il servizio non è attivo);
+        - Stato del servizio (nel caso in cui il servizio non è attivo deve essere indicato il Motivo dello stato);
         - Descrizione breve;
         - A chi è rivolto;
         - Come fare;
         - Cosa serve;
         - Cosa si ottiene;
         - Tempi e scadenze;
-        - Accedi al servizio (Canale fisico);
+        - Accedi al servizio;
         - Condizioni di servizio; 
-        - Contatti;
-        - Unità organizzativa responsabile;
+        - Contatti (indicando l'Unità organizzativa responsabile);
         - Argomenti.
+        
+       **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
      
    * - **Tolleranza**
-     - In qualsiasi scheda servizio fino a 2 `voci obbligatorie <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=335720294>`_ non sono presenti **e** fino a 1 voce obbligatoria non è nell'ordine corretto **e** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+     - Anche solo in una scheda servizio fino a 2 delle seguenti voci obbligatorie e i relativi contenuti non sono presenti:
+     
+       - Categoria del servizio (la tipologia di servizio indicata nella breadcrumb), 
+       - Titolo del servizio,
+       - Stato del servizio (nel caso in cui il servizio non è attivo deve essere indicato il Motivo dello stato),
+       - Descrizione breve,
+       - A chi è rivolto,
+       - Come fare,
+       - Cosa serve,
+       - Cosa si ottiene,
+       - Tempi e scadenze,
+       - Accedi al servizio,
+       - Condizioni di servizio,
+       - Contatti (indicando l’Unità Organizzativa responsabile),
+       - Argomenti
+       
+       e in tutte le schede servizio fino a 1 delle voci utilizzate tra le seguenti non è nell’ordine corretto:
+
+       - A chi è rivolto;
+       - Come fare;
+       - Cosa serve;
+       - Cosa si ottiene;
+       - Tempi e scadenze;
+       - Accedi al servizio;
+       - Condizioni di servizio;
+       - Contatti
+
+       **e** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
      
    * - **Fallimento**
-     - Anche solo in una scheda servizio più di 2 `voci obbligatorie <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=335720294>`_ non sono presenti **o** più di 1 voce obbligatoria non è nell'ordine corretto **o** il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+     - Anche solo in una scheda servizio più di 2 delle seguenti voci obbligatorie e i relativi contenuti non sono presenti:
+       
+       - Categoria del servizio (la tipologia di servizio indicata nella breadcrumb);
+       - Titolo del servizio;
+       - Stato del servizio (nel caso in cui il servizio non è attivo deve essere indicato il Motivo dello stato);
+       - Descrizione breve;
+       - A chi è rivolto;
+       - Come fare;
+       - Cosa serve;
+       - Cosa si ottiene;
+       - Tempi e scadenze; 
+       - Accedi al servizio;
+       - Condizioni di servizio;
+       - Contatti (indicando l’Unità Organizzativa responsabile);
+       - Argomenti.
+       
+       **o** anche solo in una scheda servizio più di 1 delle voci utilizzate tra le seguenti non è nell’ordine corretto:
+
+       - A chi è rivolto;
+       - Come fare;
+       - Cosa serve;
+       - Cosa si ottiene;
+       - Tempi e scadenze;
+       - Accedi al servizio;
+       - Condizioni di servizio;
+       - Contatti.
+       
+       **o** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+
      
      
 **C.SI.1.4 - Utilizzo di temi per CMS (Content Management System)**
 
-Nel caso in cui il sito utilizzi `tema messo a disposizione <../modello-sito-comunale/temi-cms.html>`_ nella documentazione del modello di sito comunale, lo utilizza nella versione più recente disponibile alla data di inizio lavori.
+Nel caso in cui il sito utilizzi `tema messo a disposizione <../modello-sito-comunale/temi-cms.html>`_ nella documentazione del modello di sito comunale, lo utilizza nella versione 1.0 o successive.
 
 Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designers Italia <https://designers.italia.it/modello/comuni/>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
@@ -92,13 +147,13 @@ Riferimenti normativi e tecnici: i temi CMS sono raggiungibili tramite `Designer
    :header-rows: 0
 
    * - **Successo**
-     - Il sito utilizza un tema CMS del modello Comuni **e** ne utilizza la versione più recente disponibile alla data di inizio lavori **e** ne utilizza una versione uguale o superiore alla v1.0
+     - Il sito utilizza un tema CMS del modello Comuni **e** ne utilizza una versione uguale o superiore alla 1.0
      
    * - **Tolleranza**
      - Il sito non utilizza un tema CMS del modello Comuni
      
    * - **Fallimento**
-     - Il sito utilizza un tema CMS del modello Comuni ma non ne utilizza la versione più recente disponibile alla data di inizio lavori o ne utilizza una versione precedente alla v1.0
+     - Il sito utilizza un tema CMS del modello Comuni ma ne utilizza una versione precedente alla 1.0
 
 
 **C.SI.1.5 - Vocabolari controllati**
@@ -113,13 +168,13 @@ Riferimenti normativi e tecnici: il vocabolario controllato del modello è dispo
    :header-rows: 0
 
    * - **Successo**
-     - Tutti gli argomenti utilizzati appartengono al vocabolario controllato del modello, disponibile alla voce `Tassonomia argomenti <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=428595160>`_ all’interno del `documento di Architettura dell’informazione del modello Comuni <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit?usp=sharing&ouid=115576940975219606169&rtpof=true&sd=true>`_ **e** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Tutti gli argomenti utilizzati appartengono al vocabolario controllato del modello, disponibile alla voce `Tassonomia argomenti <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=428595160>`_ all’interno del `documento di Architettura dell’informazione del modello Comuni <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit?usp=sharing&ouid=115576940975219606169&rtpof=true&sd=true>`_ **e** nell’homepage del sito è presente un link (ad esempio nominato “Tutti gli argomenti”) che invia a una pagina contenente l’elenco completo degli argomenti **e** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
-     - Almeno il 50% degli argomenti utilizzati appartengono al `vocabolario controllato del modello <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=428595160>`_ o al `vocabolario controllato EuroVOC <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_ **e** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Almeno il 50% degli argomenti utilizzati appartengono al `vocabolario controllato del modello <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=428595160>`_ o al `vocabolario controllato EuroVOC <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_ **e** nell’homepage del sito è presente un link (ad esempio nominato “Tutti gli argomenti”) che invia a una pagina contenente l’elenco completo degli argomenti **e** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Fallimento**
-     - Meno del 50% degli argomenti utilizzati appartengono al `vocabolario controllato del modello <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=428595160>`_ o al `vocabolario controllato EuroVOC <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_ **e** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Meno del 50% degli argomenti utilizzati appartengono al `vocabolario controllato del modello <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=428595160>`_ o al `vocabolario controllato EuroVOC <https://eur-lex.europa.eu/browse/eurovoc.html?locale=it>`_ **o** nell’homepage del sito non è presente un link (ad esempio nominato “Tutti gli argomenti”) che invia a una pagina contenente l’elenco completo degli argomenti **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 **C.SI.1.6 - Voci di menù di primo livello**
@@ -198,7 +253,8 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
         - scegliere fra le date e gli orari disponibili;
         - scegliere l’argomento e spiegare il motivo della richiesta;
         - lasciare il proprio nominativo e i propri contatti;
-       **e** e la funzionalità è accessibile come servizio a sé nell’elenco dei servizi; **e** la funzionalità è accessibile all’interno delle schede servizio, come funzione trasversale ai servizi; **e** la funzionalità circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato, quando vi si accede direttamente da una scheda servizio; **e** la funzionalità indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **e** se l’utente è autenticato al portale, nominativo e contatti saranno quelli del profilo autenticato (in caso contrario verrà data al cittadino la possibilità di autenticarsi o di inserire i dati nell’apposita form); **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+        
+       **e** e la funzionalità è accessibile come servizio a sé dalla pagina di primo livello “Servizi”; **e** la funzionalità è accessibile all’interno delle schede servizio, come funzione trasversale ai servizi; **e** se è presente il pulsante di Prenotazione appuntamento come modalità di accesso al servizio all’interno di una scheda servizio, la funzionalità circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato; **e** se è presente il pulsante di Prenotazione appuntamento come modalità di accesso al servizio all’interno di una scheda servizio, la funzionalità indica come argomento pre-selezionato il titolo del servizio; **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - /
@@ -210,7 +266,8 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
         - scegliere fra le date e gli orari disponibili;
         - scegliere l’argomento e spiegare il motivo della richiesta;
         - lasciare il proprio nominativo e i propri contatti;
-       **o** la funzionalità non è accessibile come servizio a sé nell’elenco dei servizi; **o** la funzionalità non è accessibile all’interno delle schede servizio, come funzione trasversale ai servizi; **o** la funzionalità non circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato, quando vi si accede direttamente da una scheda servizio; **o** la funzionalità non indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **o** se l’utente è autenticato al portale, nominativo e contatti non sono quelli del profilo autenticato (o, in caso di utente non autenticato, non viene data la possibilità al cittadino di autenticarsi o di inserire i dati nell’apposita form); **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+        
+       **o** la funzionalità non è accessibile come servizio a sé dalla pagina di primo livello “Servizi; **o** la funzionalità non è accessibile all’interno delle schede servizio, come funzione trasversale ai servizi; **o** se è presente il pulsante di Prenotazione appuntamento come modalità di accesso al servizio all’interno di una scheda servizio, la funzionalità non circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato; **o** se è presente il pulsante di Prenotazione appuntamento come modalità di accesso al servizio all’interno di una scheda servizio, la funzionalità non indica come argomento pre-selezionato il titolo del servizio; **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
        
 
 **C.SI.2.2 - Richiesta di assistenza / contatti**
@@ -266,7 +323,7 @@ Riferimenti tecnici e normativi: `funzionalità <../modello-sito-comunale/funzio
    :header-rows: 0
 
    * - **Successo**
-     - Nel footer del sito è presente un link che invia all’email per segnalare un disservizio o alla funzionalità dedicata di segnalazione disservizio **e** la pagina di destinazione del link esiste **e** il testo del link include le espressioni "disservizio" oppure "segnala disservizio" oppure "segnalazione disservizio" **e**, se viene usata la funzionalità dedicata di segnalazione disservizio, il cittadino deve avere la possibilità di:
+     - Nel footer del sito è presente un link per segnalare un disservizio inviando un’email o utilizzando la funzionalità dedicata di segnalazione disservizio **e** la pagina di destinazione del link esiste **e** il testo del link include le espressioni "disservizio" oppure "segnala disservizio" oppure "segnalazione disservizio" **e**, se viene usata la funzionalità dedicata di segnalazione disservizio, il cittadino deve avere la possibilità di:
      
         - assegnare una categoria alla segnalazione;
         - indicare il luogo a cui la segnalazione si riferisce, attraverso l’immissione di un indirizzo o con la funzione di geotag su una mappa;
@@ -277,7 +334,7 @@ Riferimenti tecnici e normativi: `funzionalità <../modello-sito-comunale/funzio
        **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
-     - Nel footer del sito è presente un link che invia all’email per segnalare un disservizio o alla funzionalità dedicata di segnalazione disservizio **e** la pagina di destinazione del link esiste **e** il testo del link non include le espressioni "disservizio" oppure "segnala disservizio" oppure "segnalazione disservizio" **e**, se viene usata la funzionalità dedicata di segnalazione disservizio, il cittadino deve avere la possibilità di:
+     - Nel footer del sito è presente un link per segnalare un disservizio inviando un’email o utilizzando la funzionalità dedicata di segnalazione disservizio **e** la pagina di destinazione del link esiste **e** il testo del link non include le espressioni "disservizio" oppure "segnala disservizio" oppure "segnalazione disservizio" **e**, se viene usata la funzionalità dedicata di segnalazione disservizio, il cittadino deve avere la possibilità di:
      
         - assegnare una categoria alla segnalazione;
         - indicare il luogo a cui la segnalazione si riferisce, attraverso l’immissione di un indirizzo o con la funzione di geotag su una mappa;
@@ -288,7 +345,7 @@ Riferimenti tecnici e normativi: `funzionalità <../modello-sito-comunale/funzio
        **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
    * - **Fallimento**
-     - Nel footer del sito non è presente un link che invia all’email per segnalare un disservizio o alla funzionalità dedicata di segnalazione disservizio **o** la pagina di destinazione non esiste **o**, se viene usata la funzionalità dedicata di segnalazione disservizio, il cittadino non ha la possibilità di:
+     - Nel footer del sito non è presente un link per segnalare un disservizio inviando un’email o utilizzando la funzionalità dedicata di segnalazione disservizio **o** la pagina di destinazione non esiste **o**, se viene usata la funzionalità dedicata di segnalazione disservizio, il cittadino non ha la possibilità di:
      
         - assegnare una categoria alla segnalazione;
         - indicare il luogo a cui la segnalazione si riferisce, attraverso l’immissione di un indirizzo o con la funzione di geotag su una mappa;
@@ -345,7 +402,7 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
 
 Il sito comunale permette la `valutazione della chiarezza informativa <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_ per ogni scheda di servizio, secondo le modalità indicate nella documentazione del modello di sito comunale.
 
-Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_ dettagliata all'interno della `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `eGovernment Benchmark Method Paper 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_.
+Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzionalita.html#valutazione-della-chiarezza-informativa-delle-pagine>`_ dettagliata all'interno della `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_; `eGovernment Benchmark Method Paper 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_.
 
 .. list-table::
    :widths: 10 30
@@ -363,6 +420,8 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
             b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
         
         3. Viene presentato un campo di testo libero per dare la possibilità all’utente di inserire un breve commento e fornire ulteriori dettagli. 
+        
+        **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - /
@@ -379,6 +438,8 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
             b. Se il punteggio è pari o superiore a 4 (4-5) il testo della domanda sarà: «Quali sono stati gli aspetti che hai preferito?». Le possibili risposte sono: Le indicazioni erano chiare; Le indicazioni erano complete; Capivo sempre che stavo procedendo correttamente; Non ho avuto problemi tecnici; Altro.
         
         3. Viene presentato un campo di testo libero per dare la possibilità all’utente di inserire un breve commento e fornire ulteriori dettagli. 
+        
+        **e** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.  
 
 
 ``Normativa``
