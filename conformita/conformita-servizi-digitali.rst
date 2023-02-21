@@ -14,13 +14,13 @@ Riferimenti tecnici e normativi: `CAD: Sezione III (Identità digitali, istanze 
    :header-rows: 0
 
    * - **Successo**
-     - L’utente può accedere a tutti i servizi erogati digitalmente tramite identità digitale **ed** è possibile effettuare l’accesso direttamente dalle schede servizio corrispondenti.
+     - L’utente può accedere tramite identità digitale a tutti i servizi erogati digitalmente **ed** è possibile effettuare l’accesso ai servizi digitali direttamente dalle schede servizio corrispondenti **e** e se l’utente effettua l’accesso a partire da una specifica scheda servizio, a valle dell’autenticazione deve trovarsi direttamente all’interno del flusso di quel servizio digitale.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Anche solo uno dei servizi erogati digitalmente non permette all’utente l’accesso tramite identità digitale **o** non è possibile effettuare l’accesso direttamente dalle schede servizio corrispondenti.
+     - Anche solo uno dei servizi erogati digitalmente non permette all’utente l’accesso tramite identità digitale **o** non è possibile effettuare l’accesso ai servizi digitali direttamente dalle schede servizio corrispondenti **o** o se l’utente effettua l’accesso a partire da una specifica scheda servizio, a valle dell’autenticazione non si trova direttamente all’interno del flusso di quel servizio digitale
 
   
   
@@ -48,20 +48,20 @@ Riferimenti tecnici e normativi: `Documentazione del modello Comuni <https://doc
 
 I servizi digitali del sito comunale utilizzano `i font <../modello-sito-comunale/font-modello.html>`_ indicati dalla documentazione del modello di sito comunale.
 
-Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-interface/il-disegno-di-un-interfaccia-e-lo-ui-kit.html#la-tipografia>`_ all’interno delle `Linee guida di design per i servizi web della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/index.html>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
+Riferimenti normativi e tecnici: `sezione La tipografia <https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs/it/versione-corrente/doc/esperienza-utente/progettare-e-costruire-in-alta-fedelta.html#la-tipografia>`_ all’interno del `Manuale operativo di design <https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs/it/>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
 .. list-table::
    :widths: 10 30
    :header-rows: 0
 
    * - **Successo**
-     - Tutti i titoli (heading) e tutti i paragrafi delle pagine in lingua italiana dei servizi digitali devono usare esclusivamente i font Titillium Web, Lora e Roboto Mono.
+     - Tutti i titoli (heading) e tutti i paragrafi delle pagine in lingua italiana dei servizi digitali utilizzano esclusivamente i font Titillium Web, Lora o Roboto Mono come font di default.
      
    * - **Tolleranza**
-     - Tutti i titoli (heading) e tutti i paragrafi delle pagine in lingua italiana dei servizi digitali devono includere Titillium Web o Lora tra i font utilizzati.
+     - Tutti i titoli (heading) e tutti i paragrafi delle pagine in lingua italiana dei servizi digitali utilizzano Titillium Web, Lora o Roboto Mono come font di default ma sono presenti degli elementi all’interno dei titoli o dei paragrafi che usano altri font di default
      
    * - **Fallimento**
-     - Anche solo un titolo (heading) o un paragrafo in qualsiasi pagina in lingua italiana dei servizi digitali non include Titillium Web o Lora tra i font utilizzati.
+     - Anche solo un titolo (heading) o un paragrafo in qualsiasi pagina in lingua italiana dei servizi digitali non utilizza Titillium Web, Lora o Roboto Mono come font di default.
 
   
 
@@ -76,13 +76,13 @@ Riferimenti tecnici e normativi: `Documentazione del modello Comuni <https://doc
    :header-rows: 0
 
    * - **Successo**
-     - Tutti i servizi digitali presentano il riepilogo delle informazioni in formato testuale in una schermata unica **e** la schermata di riepilogo viene presentata immediatamente prima della conferma per finalizzare la procedura.
+     - Tutti i servizi digitali presentano il riepilogo delle informazioni in formato testuale in una schermata unica **e** la schermata di riepilogo viene presentata a valle di tutte le schermate in cui vengono richiesti dati per la compilazione dell’istanza e immediatamente prima della conferma per finalizzare la procedura.
 
    * - **Tolleranza**
-     - Tutti i servizi digitali presentano il riepilogo delle informazioni in formato testuale in una schermata unica **e** la schermata di riepilogo viene presentata prima della conferma per finalizzare la procedura ma non immediatamente prima di quest’ultimo passaggio.
+     - Tutti i servizi digitali presentano il riepilogo delle informazioni in formato testuale in una schermata unica **e** la schermata di riepilogo viene presentata a valle di tutte le schermate in cui vengono richiesti dati per la compilazione dell’istanza e prima della conferma per finalizzare la procedura, ma non immediatamente prima di quest’ultimo passaggio.
 
    * - **Fallimento**
-     - Anche solo un servizio non fornisce all’utente il riepilogo di tutte le informazioni relative all’istanza in un’unica schermata **o** la schermata di riepilogo non viene presentata prima della conferma per finalizzare la procedura **o** anche solo un servizio non fornisce le informazioni di riepilogo in formato testuale (es. presenta invece un documento scaricabile).
+     - Anche solo un servizio non fornisce all’utente il riepilogo di tutte le informazioni relative all’istanza in un’unica schermata **o** la schermata di riepilogo non viene presentata a valle di tutte le schermate in cui vengono richiesti dati per la compilazione dell’istanza e prima della conferma per finalizzare la procedura **o** anche solo un servizio non fornisce le informazioni di riepilogo in formato testuale (es. presenta invece un documento scaricabile).
 
 
 
@@ -98,13 +98,13 @@ Riferimenti tecnici e normativi: `CAD - Art. 41 <https://docs.italia.it/italia/p
    :header-rows: 0
 
    * - **Successo**
-     - Per tutti i servizi l’utente trova a disposizione i dati e le preferenze già in possesso del Comune, richiedendo l’inserimento solo di dati o preferenze nuove.
+     - Per tutti i servizi l’utente trova a disposizione i dati e le preferenze già forniti al Comune, richiedendo l’inserimento solo di dati o preferenze nuove.
      
    * - **Tolleranza**
      - /
      
    * - **Fallimento**
-     - Anche solo un servizio richiede all’utente l’inserimento di dati o preferenze già in possesso del Comune.
+     - Anche solo un servizio richiede all’utente l’inserimento di dati o preferenze già forniti al Comune.
 
 
      
@@ -168,9 +168,9 @@ Riferimenti tecnici e culturali: `funzionalità <../flussi-di-servizi/valutazion
         3. Viene presentato un campo di testo libero per dare la possibilità all’utente di inserire un breve commento e fornire ulteriori dettagli. 
 
   
-**C.SE.1.8 - Verifica stato del servizio, progresso e navigazione breadcrumbs**
+**C.SE.1.8 - Verifica stato del servizio, progresso e navigazione**
 
-I servizi digitali del sito comunale indicano chiaramente, in ogni momento della fruizione dello specifico servizio digitale e fino alla conferma di invio dell'istanza, gli step necessari al completamento della presentazione dell'istanza stessa (attraverso ad esempio i cosiddetti "breadcrumbs"). Inoltre, consentono di ritornare agli step precedenti ed effettuare modifiche (breadcrumbs navigabili).
+I servizi digitali del sito comunale indicano chiaramente, in ogni momento della fruizione dello specifico servizio digitale e fino alla conferma di invio dell'istanza, gli step necessari al completamento della presentazione dell'istanza stessa. Inoltre, consentono di ritornare agli step precedenti ed effettuare modifiche.
 
 Riferimenti tecnici e normativi: `CAD - Art.3 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_I-sezione_II-articolo_3.html>`_; `CAD - Art. 41 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_III-sezione_II-articolo_41.html>`_; `Linee guida AgID sulla formazione, gestione e conservazione dei documenti informatici <https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5385.html>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `eGovernment Benchmark Method Paper 2020-2023 <https://op.europa.eu/en/publication-detail/-/publication/333fe21f-4372-11ec-89db-01aa75ed71a1>`_.
   
@@ -199,13 +199,13 @@ Riferimenti tecnici e normativi: `Documentazione del modello Comuni <https://doc
    :header-rows: 0
 
    * - **Successo**
-     - Tramite la propria area personale, il cittadino può visualizzare lo stato della sua istanza **e** le tappe dell’avanzamento dell’istanza sono informative **e** lo stato di avanzamento dell’istanza presenta le tappe aggiornate alla fase corrente
+     - Tramite la propria area personale, il cittadino può visualizzare lo stato corrente della sua istanza **e** le tappe dell’avanzamento dell’istanza. sono informative
 
    * - **Tolleranza**
-     - Utilizzando un codice univoco, il cittadino può visualizzare lo stato della sua istanza **e** le tappe dell’avanzamento dell’istanza sono informative **e** lo stato di avanzamento dell’istanza presenta le tappe aggiornate alla fase corrente
+     - Utilizzando un codice univoco, il cittadino può visualizzare lo stato corrente della sua istanza.
  
    * - **Fallimento**
-     - L’utente non ha la possibilità, tramite area personale o codice univoco, di visualizzare lo stato della sua istanza **o** le tappe dell’avanzamento dell’istanza non sono informative **o** lo stato di avanzamento dell’istanza non presenta le tappe aggiornate alla fase corrente.
+     - L’utente non ha la possibilità, tramite area personale o codice univoco, di visualizzare lo stato corrente della sua istanza.
 
 
 **C.SE.1.10 - Verifica stato istanza, tempo massimo**
@@ -262,25 +262,27 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
    :header-rows: 0
 
    * - **Successo**
-     - Tutti i servizi digitali presentano un link che permette di accedere alla funzionalità per prenotare un appuntamento **e** la funzionalità permette al cittadino di:
+     - La funzionalità di prenotazione appuntamento è accessibile, come funzione trasversale, all’interno di tutti i passaggi di tutti i servizi digitali **e** la funzionalità permette al cittadino di:
      
         - selezionare l’ufficio;
         - scegliere fra le date e gli orari disponibili;
         - scegliere l’argomento e spiegare il motivo della richiesta;
         - lasciare il proprio nominativo e i propri contatti;
-       **e** e la funzionalità è accessibile come servizio a sé nell’elenco dei servizi; **e** la funzionalità è accessibile all’interno dei servizi digitali, come funzione trasversale ai servizi; **e** la funzionalità circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato; **e** la funzionalità indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **e** nominativo e contatti saranno quelli del profilo autenticato.
+        
+       **e** il nominativo del profilo che si è autenticato per accedere al servizio è precompilato.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Anche solo un servizio digitale non presenta un link che permette di accedere alla funzionalità per prenotare un appuntamento **o** la funzionalità non permette al cittadino di:
+     - La funzionalità di prenotazione appuntamento non è accessibile, come funzione trasversale, all’interno di anche solo un passaggio di anche solo un servizio digitale **o** la funzionalità non permette al cittadino di:
      
         - selezionare l’ufficio;
         - scegliere fra le date e gli orari disponibili;
         - scegliere l’argomento e spiegare il motivo della richiesta;
         - lasciare il proprio nominativo e i propri contatti;
-       **o** la funzionalità non è accessibile come servizio a sé nell’elenco dei servizi; **o** la funzionalità non è accessibile all’interno dei servizi digitali, come funzione trasversale ai servizi; **o** la funzionalità non circoscrive la scelta degli uffici disponibili a quelli competenti per il servizio selezionato; **o** la funzionalità non indica come argomento pre-selezionato il titolo del servizio, quando vi si accede direttamente da una scheda servizio; **o** se l’utente è autenticato al portale, nominativo e contatti non sono quelli del profilo autenticato.
+       
+       **o** o il nominativo del profilo che si è autenticato per accedere al servizio non è precompilato.
 
 
 
@@ -297,13 +299,13 @@ Riferimenti tecnici e normativi: `Linee guida cookie e altri strumenti di tracci
    :header-rows: 0
 
    * - **Successo**
-     - I servizi digitali presentano solo cookie che rispettano le linee guida del Garante per la protezione dei dati personali **e** il dominio di tutti i cookie presenti nei servizi digitali è corrispondente al dominio del sito web del Comune.
+     - Il dominio di tutti i cookie già presenti nei servizi digitali, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il loro uso, è corrispondente al dominio del sito web del Comune.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - I servizi digitali presentano cookie che non rispettano le linee guida del Garante per la protezione dei dati personali **o** il dominio di anche solo un cookie presente nei servizi digitali non è corrispondente al dominio del sito web del Comune.
+     - Il dominio di anche solo un cookie già presente nei servizi digitali, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il suo uso, non è corrispondente al dominio del sito web del Comune.
 
 
 **C.SE.3.2 - Dichiarazione di accessibilità**
@@ -317,13 +319,13 @@ Riferimenti tecnici e normativi: `Linee guida AGID per la dichiarazione di acces
    :header-rows: 0
 
    * - **Successo**
-     - Il link alla dichiarazione di accessibilità è presente nel footer dei servizi digitali **e** invia a una dichiarazione di accessibilità valida secondo le norme AgID.
+     - Il link alla dichiarazione di accessibilità è presente nel footer dei servizi digitali **e** invia a una dichiarazione di accessibilità secondo le norme AgID **e** la dichiarazione è conforme, anche parzialmente, alle specifiche tecniche WCAG 2.1.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il link alla dichiarazione di accessibilità non è presente nel footer dei servizi digitali **o** il link invia a una dichiarazione di accessibilità non valida secondo le norme AgID.
+     - Il link alla dichiarazione di accessibilità non è presente nel footer dei servizi digitali **o** il link non invia a una dichiarazione di accessibilità secondo le norme AgID **o** la dichiarazione non è conforme alle specifiche tecniche WCAG 2.1.
 
   
 **C.SE.3.3 - Informativa privacy**
@@ -337,13 +339,13 @@ Riferimenti tecnici e normativi: `Normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/
    :header-rows: 0
 
    * - **Successo**
-     - Il link all’informativa sul trattamento dei dati personali è presente nel footer dei servizi digitali **e** invia a una informativa sul trattamento dei dati personali valida secondo il regolamento GDPR.
+     - Il link all’informativa sul trattamento dei dati personali è presente nel footer dei servizi digitali **e** invia all'informativa sul trattamento dei dati personali.
      
    * - **Tolleranza**
-     - Il link all’informativa sul trattamento dei dati personali è presente nel footer dei servizi digitali **e** invia a una informativa sul trattamento dei dati personali valida secondo il regolamento GDPR.
+     - /
 
    * - **Fallimento**
-     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer dei servizi digitali **o** invia a una informativa sul trattamento dei dati personali non valida secondo il regolamento GDPR.
+     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer dei servizi digitali **o** non invia all'informativa sul trattamento dei dati personali.
 
 
 ``Performance``
@@ -359,13 +361,13 @@ Riferimenti tecnici e normativi: è possibile produrre il report usando `Lightho
    :header-rows: 0
 
    * - **Successo**
-     - L'area servizi presenta almeno un punteggio di prestazioni pari a 50.
+     - L'area servizi presenta almeno un punteggio di prestazioni pari a 50 quando testato in modalità “mobile” con Lighthouse.
      
    * - **Tolleranza**
-     - L'area servizi presenta un punteggio inferiore a 50 **e** il “Piano di miglioramento dei servizi” è pubblicato **e** il “Piano di miglioramento dei servizi” è raggiungibile dal footer.
+     - L'area servizi presenta un punteggio inferiore a 50  quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento dei servizi” è pubblicato **e** il “Piano di miglioramento dei servizi” è raggiungibile dal footer.
 
    * - **Fallimento**
-     - Il sito presenta un punteggio inferiore a 50 e il “Piano di miglioramento dei servizi” non è pubblicato **o** il “Piano di miglioramento dei servizi” non è raggiungibile dal footer.
+     - Il sito presenta un punteggio inferiore a 50  quando testato in modalità “mobile” con Lighthouse e il “Piano di miglioramento dei servizi” non è pubblicato **o** il “Piano di miglioramento dei servizi” non è raggiungibile dal footer.
 
   
 ``Sicurezza``
@@ -381,13 +383,13 @@ Riferimenti tecnici e normativi: `Raccomandazioni AgID in merito allo standard T
    :header-rows: 0
 
    * - **Successo**
-     - I servizi digitali utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto (la versione del TLS e la suite di cifratura associata sono adatte) **e** i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - I servizi digitali utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - I servizi digitali non utilizzano il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata è inadatta)**o** non sono presenti i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - I servizi digitali non utilizzano il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto.
   
 
 **C.SE.5.2 - Sottodominio servizi**
@@ -401,15 +403,13 @@ Riferimenti tecnici e normativi: `Documentazione del modello Comuni <https://doc
    :header-rows: 0
 
    * - **Successo**
-     - I servizi digitali vengono messi a disposizione all’interno di un sottodominio “servizi.” **e** il dominio utilizzato rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” (es: servizi.comune.roma.it) **e** sono presenti i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
-
+     - I servizi digitali vengono messi a disposizione all’interno di un sottodominio “servizi.” **e** il dominio utilizzato rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” (es: servizi.comune.roma.it).
      
    * - **Tolleranza**
-     - I servizi digitali vengono messi a disposizione all’interno di un sottodominio nominato diversamente da “servizi.” **o** utilizzano un percorso della url (es: comune.roma.it/servizi/) in alternativa al sottodominio (es: servizi.comune.roma.it) **e** il dominio utilizzato rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” **e** sono presenti i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
-
+     - I servizi digitali vengono messi a disposizione all’interno di un dominio che rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” o di un suo sottodominio.
 
    * - **Fallimento**
-     - I servizi digitali non vengono messi a disposizione in un sottodominio (o un percorso) **o** il dominio utilizzato non rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” **o** non sono presenti i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - I servizi digitali non vengono messi a disposizione all’interno di un dominio che rispetta tutti i parametri del criterio C.SI.5.2 “Dominio istituzionale” o di un suo sottodominio.
 
  
 
