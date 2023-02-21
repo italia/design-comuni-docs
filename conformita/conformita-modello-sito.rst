@@ -448,20 +448,20 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
 
 Il sito comunale presenta cookie tecnici in linea con la normativa vigente.
 
-Riferimenti tecnici e normativi: `Linee guida cookie e altri strumenti di tracciamento - 10 giugno 2021 del Garante per la protezione dei dati personali <https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9677876>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
+Riferimenti tecnici e normativi: `Linee guida cookie e altri strumenti di tracciamento - 10 giugno 2021 del Garante per la protezione dei dati personali <https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9677876>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
 .. list-table::
    :widths: 10 30
    :header-rows: 0
 
    * - **Successo**
-     - Il sito presenta solo cookie che rispettano le linee guida del Garante per la protezione dei dati personali **e** il dominio di tutti i cookie presenti nel sito è corrispondente al dominio del sito web del Comune.
+     - Il dominio di tutti i cookie già presenti nel sito, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il loro uso, è corrispondente al dominio del sito web del Comune **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il sito presenta cookie che non rispettano le linee guida del Garante per la protezione dei dati personali **o** il dominio di anche solo un cookie presente nel sito non è corrispondente al dominio del sito web del Comune.
+     - Il dominio di anche solo un cookie già presente nel sito, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il suo uso, non è corrispondente al dominio del sito web del Comune **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
  
@@ -477,13 +477,13 @@ Riferimenti tecnici e normativi: `Linee guida AGID per la dichiarazione di acces
    :header-rows: 0
 
    * - **Successo**
-     - Il link alla dichiarazione di accessibilità è presente nel footer del sito **e** invia a una dichiarazione di accessibilità valida secondo le norme AgID **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link alla dichiarazione di accessibilità è presente nel footer del sito **e** invia a una dichiarazione di accessibilità secondo le norme AgID **e** e la dichiarazione è conforme, anche parzialmente, alle specifiche tecniche WCAG 2.1 **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il link alla dichiarazione di accessibilità non è presente nel footer del sito **o** il link invia a una dichiarazione di accessibilità non valida secondo le norme AgID **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link alla dichiarazione di accessibilità non è presente nel footer del sito **o** il link non invia a una dichiarazione di accessibilità secondo le norme AgID **o** la dichiarazione non è conforme alle specifiche tecniche WCAG 2.1 **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
@@ -499,37 +499,43 @@ Riferimenti tecnici e normativi: `Normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/
    :header-rows: 0
 
    * - **Successo**
-     - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito **e** invia a una informativa sul trattamento dei dati personali valida secondo il regolamento GDPR **e** la pagina di destinazione è sicura (ovvero presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito **e** invia all'informativa sul trattamento dei dati personali **e** la pagina di destinazione è sicura (ovvero presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
-     - Il link all’informativa sul trattamento dei dati personali è presente nel footer del sito **e** invia a una informativa sul trattamento dei dati personali valida secondo il regolamento GDPR **e** la pagina di destinazione non è sicura (ovvero non presenta un certificato https valido e attivo) **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - /
 
    * - **Fallimento**
-     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer del sito **o** invia a una informativa sul trattamento dei dati personali non valida secondo il regolamento GDPR **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il link all’informativa sul trattamento dei dati personali non è presente nel footer del sito **o** non invia all'informativa sul trattamento dei dati personali **o** la pagina di destinazione non è sicura (ovvero non presenta un certificato https valido e attivo) **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 **C.SI.3.4 - Licenza e attribuzione**
 
 Il sito comunale pubblica dati, documenti e informazioni con licenza aperta comunicandolo come descritto nella documentazione del modello di sito comunale.
 
-Riferimenti tecnici e normativi: `Linee guida AGID per l'acquisizione e il riuso software PA <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_, l'`Art. 52 d.lgs. 82/2005 del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_52.html>`_,  l'`Art. 7, comma 1, D.Lgs. n. 33/2013 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33>`_ e il `D.lgs. n. 36/2006 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig=>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
+Riferimenti tecnici e normativi: `Linee guida AGID per l'acquisizione e il riuso software PA <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_, l'`Art. 52 d.lgs. 82/2005 del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/stabile/_rst/capo_V-sezione_I-articolo_52.html>`_,  l'`Art. 7, comma 1, D.Lgs. n. 33/2013 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33>`_ e il `D.lgs. n. 36/2006 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig=>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
 .. list-table::
    :widths: 10 30
    :header-rows: 0
 
    * - **Successo**
-     - Il Comune segue la normativa sulla pubblicazione di dati, documenti o informazioni **e** la licenza viene comunicata nella pagina delle “note legali“ **e** all’interno della pagina delle “note legali” è presente la sezione “Licenza dei contenuti” che riporta la dicitura:
+     - Il Comune pubblica dati, documenti o informazioni **e** la licenza viene comunicata nella pagina delle “note legali“ raggiungibile da un link nel footer del sito **e** all’interno della pagina delle “note legali” è presente la sezione “Licenza dei contenuti” che riporta la dicitura:
          
          “In applicazione del principio open by default ai sensi dell’articolo 52 del decreto legislativo 7 marzo 2005, n. 82 (CAD) e salvo dove diversamente specificato (compresi i contenuti incorporati di terzi), i dati, i documenti e le informazioni pubblicati sul sito sono rilasciati con licenza CC-BY 4.0. Gli utenti sono quindi liberi di condividere (riprodurre, distribuire, comunicare al pubblico, esporre in pubblico), rappresentare, eseguire e recitare questo materiale con qualsiasi mezzo e formato e modificare (trasformare il materiale e utilizzarlo per opere derivate) per qualsiasi fine, anche commerciale con il solo onere di attribuzione, senza apporre restrizioni aggiuntive.”
+       
+       **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il Comune non segue la normativa sulla pubblicazione di dati, documenti o informazioni **e** la licenza non viene comunicata nella pagina delle “note legali“ **e** all’interno della pagina delle “note legali” non è presente la sezione “Licenza dei contenuti” che riporta la dicitura:
+     - Il Comune non pubblica dati, documenti o informazioni con licenza aperta CC-BY 4.0 **e** la licenza non viene comunicata nella pagina delle “note legali“ raggiungibile da un link nel footer del sito **e** all’interno della pagina delle “note legali” non è presente la sezione “Licenza dei contenuti” che riporta la dicitura:
          
          “In applicazione del principio open by default ai sensi dell’articolo 52 del decreto legislativo 7 marzo 2005, n. 82 (CAD) e salvo dove diversamente specificato (compresi i contenuti incorporati di terzi), i dati, i documenti e le informazioni pubblicati sul sito sono rilasciati con licenza CC-BY 4.0. Gli utenti sono quindi liberi di condividere (riprodurre, distribuire, comunicare al pubblico, esporre in pubblico), rappresentare, eseguire e recitare questo materiale con qualsiasi mezzo e formato e modificare (trasformare il materiale e utilizzarlo per opere derivate) per qualsiasi fine, anche commerciale con il solo onere di attribuzione, senza apporre restrizioni aggiuntive.”
+       
+       **e** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+       
+       
 
 
 
@@ -546,13 +552,13 @@ Riferimenti tecnici e normativi: è possibile produrre il report usando `Lightho
    :header-rows: 0
 
    * - **Successo**
-     - Il sito presenta almeno un punteggio di prestazioni pari a 50.
+     - Il sito presenta almeno un punteggio di prestazioni pari a 50 quando testato in modalità “mobile” con Lighthouse.
      
    * - **Tolleranza**
-     - Il sito presenta un punteggio inferiore a 50 **e** il “Piano di miglioramento del sito” è pubblicato **e** il “Piano di miglioramento del sito” è raggiungibile dal footer.
+     - Il sito presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento del sito” è pubblicato **e** il “Piano di miglioramento del sito” è raggiungibile dal footer.
 
    * - **Fallimento**
-     - Il sito presenta un punteggio inferiore a 50 e il “Piano di miglioramento del sito” non è pubblicato **o** il “Piano di miglioramento del sito” non è raggiungibile dal footer.
+     - Il sito presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse e il “Piano di miglioramento del sito” non è pubblicato **o** il “Piano di miglioramento del sito” non è raggiungibile dal footer.
 
 
 
@@ -583,21 +589,21 @@ Riferimenti tecnici e normativi: `Raccomandazioni AgID in merito allo standard T
 
 Il sito comunale utilizza un dominio istituzionale secondo le modalità indicate nella documentazione del modello di sito comunale.
 
-Riferimenti tecnici e normativi: `Elenco dei nomi a dominio riservati per i Comuni italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
+Riferimenti tecnici e normativi: `Elenco dei nomi a dominio riservati per i Comuni italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
 .. list-table::
    :widths: 10 30
    :header-rows: 0
 
    * - **Successo**
-     - Il sito comunale utilizza il sottodominio "comune." seguito da uno dei domini istituzionali per il Comune presente nella lista `Elenco Nomi a Dominio Riservati Per i Comuni Italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_ (es: comune.anzio.roma.it) o dal nome del Comune se coincidente con il nome del capoluogo di provincia (es: comune.roma.it) **e** il sito deve essere raggiungibile senza necessità di inserimento del sottodominio “www.”.
+     - Il sito comunale utilizza il sottodominio "comune." seguito da uno dei domini istituzionali per il Comune presente nella lista `Elenco Nomi a Dominio Riservati Per i Comuni Italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_ (es: comune.anzio.roma.it) o dal nome del Comune se coincidente con il nome del capoluogo di provincia (es: comune.roma.it) **e** il sito deve essere raggiungibile senza necessità di inserimento del sottodominio “www.” **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il sito comunale non utilizza il sottodominio "comune." o non è seguito da uno dei domini istituzionali per il Comune presente nella lista `Elenco Nomi a Dominio Riservati Per i Comuni Italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_ (es: comune.anzio.roma.it) o dal nome del Comune se coincidente con il nome del capoluogo di provincia (es: comune.roma.it) **o** il sito non è raggiungibile a meno che non si inserisca necessariamente il sottodominio "www.".
+     - Il sito comunale non utilizza il sottodominio "comune." o non è seguito da uno dei domini istituzionali per il Comune presente nella lista `Elenco Nomi a Dominio Riservati Per i Comuni Italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_ (es: comune.anzio.roma.it) o dal nome del Comune se coincidente con il nome del capoluogo di provincia (es: comune.roma.it) **o** il sito non è raggiungibile a meno che non si inserisca necessariamente il sottodominio "www." **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
@@ -610,13 +616,13 @@ Per migliorare ulteriormente l'esperienza degli utenti e garantire l'uso di tecn
 
 **R.SI.1.1 - Metatag**
 
-Nel sito comunale, le voci della scheda servizio presentano i `metatag descritti dal modello <../modello-sito-comunale/scheda-servizio.html#dati-strutturati-e-interoperabilità>`_, in base agli standard internazionali.
+Nel sito comunale, le voci della scheda servizio presentano i `metatag descritti dal modello <../modello-sito-comunale/architettura-informazione.html#dati-strutturati-e-interoperabilita>`_, in base agli standard internazionali.
 
 Riferimenti tecnici e normativi: `Schema.org <https://schema.org/>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_; `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
   Da evitare:
   
-  - più del 50% dei metatag indicati non vengono utilizzati per marcare le voci della scheda servizio;
+  - più del 50% dei metatag indicati non vengono utilizzati per marcare le voci delle schede servizio;
   - il sito non presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
   
 
