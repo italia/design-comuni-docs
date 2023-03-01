@@ -73,7 +73,7 @@ Se si sceglie di implementare una funzionalità dedicata, questa deve offire la 
 - aggiungere delle immagini;
 - allegare uno o più documenti.
 
-`Naviga il prototipo mobile<https://www.figma.com/proto/Kfa8NiMX4BDgJmRZiXxjnY/Siti-Comuni---hi-fi?page-id=745%3A108216&node-id=982%3A278237&viewport=466%2C48%2C0.44&scaling=scale-down&starting-point-node-id=982%3A278237>`_
+`Naviga il prototipo mobile <https://www.figma.com/proto/Kfa8NiMX4BDgJmRZiXxjnY/Siti-Comuni---hi-fi?page-id=745%3A108216&node-id=982%3A278237&viewport=466%2C48%2C0.44&scaling=scale-down&starting-point-node-id=982%3A278237>`_
 
 `Vai ai wireframe hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=745%3A108216&t=3v6HDPIEBkHrVFvA-1>`_
 
