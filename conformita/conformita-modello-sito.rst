@@ -555,10 +555,10 @@ Riferimenti tecnici e normativi: è possibile produrre il report usando `Lightho
      - Il sito presenta almeno un punteggio di prestazioni pari a 50 quando testato in modalità “mobile” con Lighthouse.
      
    * - **Tolleranza**
-     - Il sito presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento del sito” è pubblicato **e** il “Piano di miglioramento del sito” è raggiungibile dal footer.
+     - Il sito presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento del sito” è raggiungibile dal footer **e** il “Piano di miglioramento del sito” mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
 
    * - **Fallimento**
-     - Il sito presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse e il “Piano di miglioramento del sito” non è pubblicato **o** il “Piano di miglioramento del sito” non è raggiungibile dal footer.
+     - Il sito presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento del sito” non è raggiungibile dal footer **o** il “Piano di miglioramento del sito” non mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
 
 
 
