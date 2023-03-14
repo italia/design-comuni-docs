@@ -7,7 +7,7 @@ Il sito web e i servizi digitali dei Comuni italiani
    
 .. important::
    Per gli Enti che hanno aderito alla misura *1.4.1 Esperienza del cittadino nei servizi pubblici* di PA digitale 2026:
-   le modalità di adesione al modello per il rispetto dei criteri di conformità necessari alla ricezione degli incentivi sono specificate nel capitolo `Conformità al modello Comuni <../conformita.html>`_ e nel documento `Allegato 2 - Completamento delle attività e verifiche tecniche Avvisi 1.4.1(PDF 928KB) <https://drive.google.com/file/d/1284_Yoq0jdcrG7XKCMjx0PiGALnCo3Up/view?usp=sharing>`_.
+   le modalità di adesione al modello per il rispetto dei criteri di conformità necessari alla ricezione degli incentivi sono specificate nel capitolo `Conformità al modello Comuni <../conformita.html>`_ e nel documento `Allegato 2 - Completamento delle attività e verifiche tecniche Avvisi 1.4.1 (PDF 928KB) <https://drive.google.com/file/d/1284_Yoq0jdcrG7XKCMjx0PiGALnCo3Up/view?usp=sharing>`_.
 
 .. toctree::
    :numbered:
