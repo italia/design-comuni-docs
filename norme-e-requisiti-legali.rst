@@ -46,7 +46,7 @@ I siti e servizi devono prevedere un’esperienza d’uso comune alle diverse pr
 
 - `Linee guida di design per i siti internet e i servizi digitali della PA - 4.6. Integrazione delle piattaforme abilitanti <https://docs.italia.it/italia/design/lg-design-servizi-web/it/versione-corrente/requisiti.html#integrazione-delle-piattaforme-abilitanti>`_
 - `Codice dell’Amministrazione Digitale (CAD) - Art. 5 Effettuazione di pagamenti con modalità informatiche <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_I-sezione_II-articolo_5.html>`_
-- ``Codice dell’Amministrazione Digitale (CAD) - Art. 64 Sistema pubblico per la gestione delle identità digitali e modalità di accesso ai servizi erogati in rete dalle pubbliche amministrazioni <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_V-sezione_III-articolo_64.html>`_
+- `Codice dell’Amministrazione Digitale (CAD) - Art. 64 Sistema pubblico per la gestione delle identità digitali e modalità di accesso ai servizi erogati in rete dalle pubbliche amministrazioni <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_V-sezione_III-articolo_64.html>`_
 
 
 **Implementazione dei siti**
