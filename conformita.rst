@@ -5,9 +5,9 @@ I criteri di conformità guidano alla corretta adozione del modello in termini d
 
 Il DTD verifica il rispetto di tutti i criteri di conformità tramite controlli automatizzati, parzialmente automatizzati e manuali. A questo proposito, è necessario:
 
-- tener conto dei `requisiti tecnici necessari allo svolgimento delle verifiche <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/it/versione-attuale>`_.
-- che il sito sia raggiungibile e funzionante durante gli **orari notturni**;
-- che il sito sia raggiungibile dagli indirizzi IP **15.160.11.200**, **15.160.250.158** e **18.102.41.229** (è necessario che questi indirizzi non vengano bloccati da un eventuale firewall)
+- tener conto dei `requisiti tecnici necessari allo svolgimento delle verifiche <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/it/versione-attuale>`_;
+- che il sito sia raggiungibile e funzionante anche durante gli **orari notturni**;
+- che il sito sia raggiungibile dagli indirizzi IP **15.160.11.200**, **15.160.250.158** e **18.102.41.229** (è necessario che questi indirizzi non vengano bloccati da un eventuale firewall).
 
 
 
