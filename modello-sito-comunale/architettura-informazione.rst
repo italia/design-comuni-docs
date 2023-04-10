@@ -280,7 +280,8 @@ Il **piè di pagina (footer)** deve contenere obbligatoriamente i contenuti e i 
 - la domande frequenti;
 - la prenotazione appuntamento;
 - la richiesta di assistenza;
-- la segnalazione disservizio.
+- la segnalazione disservizio;
+- la mappa del sito.
 
 Inoltre, per i Comuni che accedono ai finanziamenti previsti nell'ambito della misura 1.4.1 per l'aggiornamento del sito, nel caso di performance negativa del sito secondo quanto calcolato e verificato dalla piattaforma PAdigitale2026 tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`_, il footer dovrà contenere:
 
