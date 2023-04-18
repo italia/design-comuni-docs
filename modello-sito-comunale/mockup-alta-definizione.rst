@@ -1,7 +1,9 @@
 Mockup ad alta definizione
 =============================
 
-Per facilitare l’adozione del modello di sito istituzionale dei Comuni, sono disponibili i mockup ad alta definizione delle principali pagine del sito.
+Per facilitare l’adozione del modello di sito istituzionale dei Comuni, sono disponibili su Figma i mockup ad alta definizione delle principali pagine del sito.
+
+I files sono accessibili in modalità lettura (*view only*). Per modificarli, è necessario duplicarli nel proprio spazio di lavoro personale.
 
 **Homepage e pagine lista**
 
@@ -43,6 +45,3 @@ Per facilitare l’adozione del modello di sito istituzionale dei Comuni, sono d
 * `Prenotazione appuntamento (mobile) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=1257%3A208298&t=3v6HDPIEBkHrVFvA-1>`_
 * `Richiesta assistenza (mobile) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=5152%3A367364&t=3v6HDPIEBkHrVFvA-1>`_
 * `Domande frequenti (mobile) <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/%5BComuni%5D-Modello-sito-e-servizi?node-id=5230%3A380695&t=3v6HDPIEBkHrVFvA-1>`_
-
-
-
