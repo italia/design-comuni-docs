@@ -3,7 +3,8 @@ Mockup ad alta definizione
 
 Per facilitare l’adozione del modello di sito istituzionale dei Comuni, sono disponibili su Figma i mockup ad alta definizione delle principali pagine del sito.
 
-I files sono accessibili in modalità lettura (*view only*). Per modificarli, è necessario duplicarli nel proprio spazio di lavoro personale.
+.. attention::
+  I files sono accessibili in modalità lettura (*view only*). Per modificarli, è necessario duplicarli nel proprio spazio di lavoro personale.
 
 **Homepage e pagine lista**
 
