@@ -119,7 +119,7 @@ La navigazione di secondo livello della sezione **Vivere il comune** è suddivis
 L'etichetta di navigazione può essere, a scelta dei Comuni, o "Vivere il comune" o "Vivere <nomecomune>". Per i Comuni con nomi lunghi, è necessario usare la forma abbreviata (es. per il Comune di San Valentino in Abruzzo Citeriore, l'etichetta di navigazione sarà "Vivere San Valentino").
 
 
-La navigazione di secondo livello dell'**Area personale** è suddivisa in: "Le mie pratiche", "Pagamenti", "Documenti", "Messaggi", "Scadenze" e "Profilo".
+La navigazione di secondo livello dell'**Area personale** è suddivisa in: "Messaggi", "Attività", "I miei servizi", "Pratiche", "Notifiche" e "Impostazioni".
 
 .. attention::
   Le tassonomie presenti nel documento di architettura hanno vari livelli, utili alla classificazione più o meno granulare dei contenuti e pensate per dare un ampio ventaglio di scelta. È possibile che un Comune non abbia contenuti che ricadano in tutte le voci delle tassonomie. In questi casi, soprattutto quando le tassonomie vengono usate per strutturare l'alberatura e la navigazione, bisogna eliminare le voci delle categorie che non presentano contenuti, in modo da non creare voci di navigazione e pagine vuote. 
