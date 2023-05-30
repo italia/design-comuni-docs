@@ -1,6 +1,11 @@
 Conformità al modello di sito comunale - Cittadino informato
 ================================================================
 
+A parte il rispetto dei criteri di conformità, sono comunque considerate obbligatorie tutte le buone pratiche che rendono il sito utile, affidabile, facile da usare e accessibile a tutte le persone: completezza e accuratezza delle informazioni, chiarezza di linguaggio, leggibilità dei testi, formattazione appropriata, qualità delle immagini e dei contenuti multimediali.
+
+In aggiunta, è obbligatoria anche la presenza del LOGO UE, in ottemperanza alla normativa europea (art. 34 del Reg. UE 2021/241), assicurandosi che ci sia la dicitura "Finanziato dall'Unione Europea - Nextgeneration EU" e che il logo abbia lo stesso risalto e visibilità di altri eventuali simboli.
+
+
 ``Esperienza utente``
 
 **C.SI.1.1 - Coerenza dell'utilizzo dei font (librerie di caratteri)**
@@ -189,19 +194,19 @@ Riferimenti normativi e tecnici: le voci del menù sono indicate nel `Grafico de
    :header-rows: 0
 
    * - **Successo**
-     - Le `voci obbligatorie <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_ del menù sono presenti, corrette e nell'ordine giusto:
+     - In tutte le pagine del sito, le `voci obbligatorie <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_ del menù sono presenti, corrette e nell'ordine giusto:
      
         - "Amministrazione"
         - "Novità"
         - "Servizi"
         - “Vivere il Comune” o “Vivere {nome_Comune}”
-       **e** non sono presenti voci aggiuntive oltre a quelle obbligatorie **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+       **e** non sono presenti voci aggiuntive oltre a quelle obbligatorie **e** i titoli delle pagine raggiungibili dal menu e i rispettivi titoli usati nelle breadcrumb (ove presenti) devono corrispondere alle voci di menu **e** la posizione della pagina nella struttura delle breadcrumb (ove presenti) deve rispecchiare quella del menu **e** le URL delle pagine devono seguire l’organizzazione dei menu **e** le pagine raggiungibili dalle voci di menu e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** tutte le pagine raggiungibili dal menu di primo livello portano a pagine interne al dominio del Comune **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
-     - Le `voci obbligatorie <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_ del menù sono presenti, corrette e nell’ordine giusto **e** sono presenti fino a 3 voci aggiuntive **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - In tutte le pagine del sito, le `voci obbligatorie <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_ del menù sono presenti, corrette e nell’ordine giusto **e** sono presenti fino a 3 voci aggiuntive **e** i titoli delle pagine raggiungibili dal menu e i rispettivi titoli usati nelle breadcrumb (ove presenti) devono corrispondere alle voci di menu **e** la posizione della pagina nella struttura delle breadcrumb (ove presenti) deve rispecchiare quella del menu **e** le pagine raggiungibili dalle voci di menu e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** tutte le pagine raggiungibili dal menu di primo livello appartengono al dominio del Comune **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
    * - **Fallimento**
-     - Almeno una delle `voci obbligatorie <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_ è assente o inesatta **o** le voci obbligatorie sono in ordine errato **o** sono presenti 8 o più voci nel menù di primo livello del sito **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - In anche solo una delle pagine del sito, almeno una delle `voci obbligatorie <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_ è assente o inesatta **o** le voci obbligatorie sono in ordine errato **o** sono presenti 8 o più voci nel menù di primo livello del sito **o** anche solo il titolo di una pagina raggiungibile dal menu o il rispettivo titolo usato nelle breadcrumb (ove presenti) non corrispondono alle voci di menu **o** la posizione di anche solo una pagina nella struttura delle breadcrumb (ove presenti) non rispecchia quella del menu **o** anche solo una delle pagine raggiungibili dalle voci di menu o le relative sezioni di pagina non hanno un contenuto coerente con i titoli delle pagine **o** anche solo una delle pagine raggiungibili dal menu di primo livello non appartiene al dominio del Comune **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
@@ -223,13 +228,13 @@ Riferimenti normativi e tecnici: i titoli delle pagine di secondo livello sono i
         - Per la sezione *Novità*, sono: “Notizie”, “Comunicati”, “Avvisi”;
         - Per la sezione *Servizi*, sono: “Educazione e formazione”, “Salute, benessere e assistenza”, “Vita lavorativa”, “Mobilità e trasporti”, “Catasto e urbanistica”, “Anagrafe e stato civile”, “Turismo”, “Giustizia e sicurezza pubblica”, “Tributi, finanze e contravvenzioni”, Cultura e tempo libero”, “Ambiente”, “Imprese e commercio”, “Autorizzazioni”, “Appalti pubblici”, “Agricoltura e pesca”;
         - Per la sezione *Vivere il Comune* o *Vivere {nome_comune}*, sono: “Luoghi”, “Eventi”;
-       **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+       **e** i titoli delle pagine di secondo livello e i rispettivi titoli usati nelle breadcrumb (ove presenti) devono corrispondere **e** la posizione della pagina nella struttura delle breadcrumb (ove presenti) deve essere al livello corretto (es: Home/Servizi/Ambiente) **e** le URL delle pagine devono seguire l’organizzazione del sito **e** le pagine e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
-     - Almeno il 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_ **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Almeno il 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_ **e** i titoli delle pagine di secondo livello e i rispettivi titoli usati nelle breadcrumb (ove presenti) devono corrispondere **e** la posizione della pagina nella struttura delle breadcrumb (ove presenti) deve essere al livello corretto (es: Home/Servizi/Ambiente) **e** le pagine e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
    * - **Fallimento**
-     - Meno del 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_ **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Meno del 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_ **o** anche solo il titolo di una pagina di secondo livello e il rispettivo titolo usato nelle breadcrumb (ove presenti) non corrispondono **o** la posizione di anche solo una pagina nella struttura delle breadcrumb (ove presenti) non è al livello corretto **o** anche solo una delle pagine o le relative sezioni di pagina non hanno un contenuto coerente con i titoli delle pagine **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
@@ -455,13 +460,13 @@ Riferimenti tecnici e normativi: `Linee guida cookie e altri strumenti di tracci
    :header-rows: 0
 
    * - **Successo**
-     - Il dominio di tutti i cookie già presenti nel sito, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il loro uso, è corrispondente al dominio del sito web del Comune **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il dominio di tutti i cookie già presenti in tutte le pagine del sito, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il loro uso, è corrispondente al dominio del sito web del Comune **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il dominio di anche solo un cookie già presente nel sito, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il suo uso, non è corrispondente al dominio del sito web del Comune **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il dominio di anche solo un cookie già presente in anche solo una pagina del sito, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il suo uso, non è corrispondente al dominio del sito web del Comune **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
  
@@ -552,13 +557,13 @@ Riferimenti tecnici e normativi: è possibile produrre il report usando `Lightho
    :header-rows: 0
 
    * - **Successo**
-     - Il sito presenta almeno un punteggio di prestazioni pari a 50 quando testato in modalità “mobile” con Lighthouse.
+     - Tutte le pagine del sito presentano almeno un punteggio di prestazioni pari a 50 quando testate in modalità “mobile” con Lighthouse.
      
    * - **Tolleranza**
-     - Il sito presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento del sito” è raggiungibile dal footer **e** il “Piano di miglioramento del sito” mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
+     - Tutte le pagine del sito presentano un punteggio inferiore a 50 quando testate in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento del sito” è raggiungibile dal footer **e** il “Piano di miglioramento del sito” mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
 
    * - **Fallimento**
-     - Il sito presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento del sito” non è raggiungibile dal footer **o** il “Piano di miglioramento del sito” non mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
+     - Anche solo una pagina del sito presenta un punteggio inferiore a 50 quando testata in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento del sito” non è raggiungibile dal footer **o** il “Piano di miglioramento del sito” non mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
 
 
 
@@ -576,13 +581,13 @@ Riferimenti tecnici e normativi: `Raccomandazioni AgID in merito allo standard T
    :header-rows: 0
 
    * - **Successo**
-     - Il sito utilizza il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto (la versione del TLS e la suite di cifratura associata sono adatte).
+     - Tutte le pagine del sito utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto (la versione del TLS e la suite di cifratura associata sono adatte).
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il sito non utilizza il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata è inadatta).
+     - Anche solo una pagina del sito non utilizza il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata è inadatta).
 
 
 **C.SI.5.2 - Dominio istituzionale**
@@ -596,14 +601,14 @@ Riferimenti tecnici e normativi: `Elenco dei nomi a dominio riservati per i Comu
    :header-rows: 0
 
    * - **Successo**
-     - Il sito comunale utilizza il sottodominio "comune." seguito da uno dei domini istituzionali per il Comune presente nella lista `Elenco Nomi a Dominio Riservati Per i Comuni Italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_ (es: comune.anzio.roma.it) o dal nome del Comune se coincidente con il nome del capoluogo di provincia (es: comune.roma.it) **e** il sito deve essere raggiungibile senza necessità di inserimento del sottodominio “www.” **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Il sito comunale, cioè almeno tutte le pagine/funzionalità indicate nella `documentazione di architettura dell’informazione <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view>`_, se presenti (con la possibile eccezione delle pagine “Amministrazione trasparente” e “Dichiarazione di accessibilità”), utilizza il sottodominio "comune." seguito da uno dei possibili domini utilizzabili presenti `in questa pagina <https://raw.githubusercontent.com/italia/pa-website-validator/main/src/storage/municipality/allowedDomains.ts>`_, secondo la seguente struttura: (1) per i Comuni: comune.[nome comune].[sigla provincia].it o comune.[nome comune].[nome esteso provincia].it (Esempi: comune.anzio.rm.it o comune.anzio.roma.it); (2) per i Comuni capoluogo di provincia: comune.[nome capoluogo].it o comune.[nome capoluogo].[sigla della provincia].it (Esempi: comune.roma.it o comune.roma.rm.it) **e** il sito deve essere raggiungibile senza necessità di inserimento del sottodominio “www.” **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il sito comunale non utilizza il sottodominio "comune." o non è seguito da uno dei domini istituzionali per il Comune presente nella lista `Elenco Nomi a Dominio Riservati Per i Comuni Italiani <https://www.nic.it/sites/default/files/docs/comuni_list.html>`_ (es: comune.anzio.roma.it) o dal nome del Comune se coincidente con il nome del capoluogo di provincia (es: comune.roma.it) **o** il sito non è raggiungibile a meno che non si inserisca necessariamente il sottodominio "www." **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Anche solo una pagina del sito comunale, cioè anche solo una pagina/funzionalità indicate nella `documentazione di architettura dell’informazione <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view>`_, se presenti (con la possibile eccezione delle pagine “Amministrazione trasparente” e “Dichiarazione di accessibilità”), non utilizza il sottodominio "comune." seguito da uno dei possibili domini utilizzabili presenti `in questa pagina <https://raw.githubusercontent.com/italia/pa-website-validator/main/src/storage/municipality/allowedDomains.ts>`_, secondo la seguente struttura: (1) per i Comuni: comune.[nome comune].[sigla provincia].it o comune.[nome comune].[nome esteso provincia].it (Esempi: comune.anzio.rm.it o comune.anzio.roma.it); (2) per i Comuni capoluogo di provincia: comune.[nome capoluogo].it o comune.[nome capoluogo].[sigla della provincia].it (Esempi: comune.roma.it o comune.roma.rm.it) **o** il sito non è raggiungibile a meno che non si inserisca necessariamente il sottodominio "www." **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
