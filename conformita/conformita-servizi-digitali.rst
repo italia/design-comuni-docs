@@ -1,6 +1,11 @@
 Conformità ai servizi digitali - Cittadino attivo
 =======================================================
 
+A parte il rispetto dei criteri di conformità, sono comunque considerate obbligatorie tutte le buone pratiche che rendono il sito utile, affidabile, facile da usare e accessibile a tutte le persone: completezza e accuratezza delle informazioni, chiarezza di linguaggio, leggibilità dei testi, formattazione appropriata, qualità delle immagini e dei contenuti multimediali.
+
+In aggiunta, è obbligatoria anche la presenza del LOGO UE, in ottemperanza alla normativa europea (art. 34 del Reg. UE 2021/241), assicurandosi che ci sia la dicitura "Finanziato dall'Unione Europea - Nextgeneration EU" e che il logo abbia lo stesso risalto e visibilità di altri eventuali simboli.
+
+
 ``Esperienza utente``
 
 **C.SE.1.1 - Accedere al servizio / identità digitale**
@@ -219,13 +224,13 @@ Riferimenti tecnici e normativi: `Legge 241/1990, art. 2 <https://www.normattiva
    :header-rows: 0
 
    * - **Successo**
-     - Tutti i servizi che lo necessitano esplicitano la data di presa in carico dell’istanza **e** tutti i servizi che lo necessitano esplicitano la data ultima prevista per l’evasione dell’istanza **e** tutti i servizi che mostrano la data ultima prevista per l’evasione dell’istanza indicano tempi inferiori o uguali ai termini massimi descritti nella relativa scheda servizio.
+     - Tutti i servizi che lo necessitano esplicitano la data di presa in carico dell’istanza e il numero di protocollo associato, se presente, o il numero dell’istanza **e** tutti i servizi che lo necessitano esplicitano la data ultima prevista per l’evasione dell’istanza **e** tutti i servizi che mostrano la data ultima prevista per l’evasione dell’istanza indicano tempi inferiori o uguali ai termini massimi descritti nella relativa scheda servizio.
 
    * - **Tolleranza**
      - /
  
    * - **Fallimento**
-     - Anche solo un servizio che lo necessita non esplicita la data di presa in carico dell’istanza **o** anche solo un servizio che lo necessita non esplicita la data ultima prevista per l’evasione dell’istanza **o** anche solo un servizio che mostra la data ultima prevista per l’evasione dell’istanza indica tempi superiori ai termini massimi descritti nella relativa scheda servizio.
+     - Anche solo un servizio che lo necessita non esplicita la data di presa in carico dell’istanza o il numero di protocollo associato, se presente, o il numero dell’istanza **o** anche solo un servizio che lo necessita non esplicita la data ultima prevista per l’evasione dell’istanza **o** anche solo un servizio che mostra la data ultima prevista per l’evasione dell’istanza indica tempi superiori ai termini massimi descritti nella relativa scheda servizio.
 
 
 
@@ -299,13 +304,13 @@ Riferimenti tecnici e normativi: `Linee guida cookie e altri strumenti di tracci
    :header-rows: 0
 
    * - **Successo**
-     - Il dominio di tutti i cookie già presenti nei servizi digitali, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il loro uso, è corrispondente al dominio del sito web del Comune.
+     - Il dominio di tutti i cookie già presenti in tutte le pagine dei servizi digitali, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il loro uso, è corrispondente al dominio del sito web del Comune.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Il dominio di anche solo un cookie già presente nei servizi digitali, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il suo uso, non è corrispondente al dominio del sito web del Comune.
+     - Il dominio di anche solo un cookie già presente in anche solo una pagina dei servizi digitali, ovvero senza che sia stata espressa una preferenza da parte dell’utente riguardo il suo uso, non è corrispondente al dominio del sito web del Comune.
 
 
 **C.SE.3.2 - Dichiarazione di accessibilità**
@@ -361,14 +366,14 @@ Riferimenti tecnici e normativi: è possibile produrre il report usando `Lightho
    :header-rows: 0
 
    * - **Successo**
-     - L'area servizi presenta almeno un punteggio di prestazioni pari a 50 quando testato in modalità “mobile” con Lighthouse.
+     - Tutte le pagine dei servizi digitali presentano almeno un punteggio di prestazioni pari a 50 quando testato in modalità “mobile” con Lighthouse.
      
    * - **Tolleranza**
-     - L'area servizi presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento dei servizi” è raggiungibile dal footer **e** il “Piano di miglioramento dei servizi” mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
+     - Tutte le pagine dei servizi digitali presentano un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento dei servizi” è raggiungibile dal footer **e** il “Piano di miglioramento dei servizi” mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
 
 
    * - **Fallimento**
-     - Il sito presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse e **e** il “Piano di miglioramento dei servizi” non è raggiungibile dal footer **o** il “Piano di miglioramento dei servizi” non mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
+     - Anche solo una pagina dei servizi digitali presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento dei servizi” non è raggiungibile dal footer **o** il “Piano di miglioramento dei servizi” non mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
 
   
 ``Sicurezza``
@@ -384,13 +389,13 @@ Riferimenti tecnici e normativi: `Raccomandazioni AgID in merito allo standard T
    :header-rows: 0
 
    * - **Successo**
-     - I servizi digitali utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto.
+     - Tutte le pagine dei servizi digitali utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - I servizi digitali non utilizzano il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto.
+     - Anche solo una pagina dei servizi digitali non utilizza il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto.
   
 
 **C.SE.5.2 - Sottodominio servizi**
