@@ -7,7 +7,7 @@ Alcune sezioni presentano diverse varianti così da adattare i flussi di servizi
 
 Le sezioni devono contenere soltanto i dati necessari per finalizzare la richiesta e mostrare di default solo le informazioni rilevanti (ad esempio, il nome e codice fiscale per una persona fisica oppure opzioni di pagamento per un pagamento dovuto).
 
-`Scopri le possibili sezioni per ogni modulo <https://docs.google.com/spreadsheets/d/12RgHGrhrGKhAGOUf2kOThrgIEyFngknVOhoVIrAeOOk/edit#gid=1049423963>`_ in base agli archetipi di appartenenza
+`Scopri le possibili sezioni per ogni modulo (ODS 23KB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/comprendi-lo-stato-dell-arte/Tipologie-flussi-servizio-Comuni.ods>`_ in base agli archetipi di appartenenza
 
 Le varianti delle sezioni
 --------------------------
