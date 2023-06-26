@@ -9,13 +9,13 @@ Grazie a una serie di elementi modulari e una struttura unica di riferimento, le
 
 Le risorse includono:
 
-- i `diagrammi di flusso <https://drive.google.com/drive/folders/1PvlN6_3PtZAS8ij_xVa3uPcZJrdUcM4C>`_, ovvero un riassunto schematico delle interazioni per capire in che ordine comporre insieme i vari componenti per tipologia di flusso;
+- i diagrammi di flusso, ovvero un riassunto schematico delle interazioni per capire in che ordine comporre insieme i vari componenti per tipologia di flusso;
 - i `modelli di servizio e i prototipi ad alta definizione di esempi applicati <https://www.figma.com/proto/xSkfRizm0SsSg8Wytg1MRM/Hub-Link?page-id=0%3A1&node-id=1%3A707&viewport=241%2C48%2C0.68&scaling=min-zoom>`_, per comprendere il flusso di interazione;
 - la `libreria dei componenti <https://www.figma.com/file/WkVMh3JnkyUQGE3POb0TSI/Designers-Italia---Documentazione-Moduli-e-Sezioni?node-id=0%3A1>`_ che compongono l’interfaccia grafica;
 - i template HTML, che consentono l’implementazione veloce del front-end.
 
 
-Usa lo `strumento checklist <https://docs.google.com/document/d/1DqLvGOP4QNkRXG0bObjTOxxUIOJ3tR3Obbq4FruWpys/edit?usp=sharing>`_ per assicurarti di svolgere tutte le attività necessarie ad una corretta implementazione dei servizi digitali.
+Usa lo `strumento checklist (ODT 5KB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/comprendi-lo-stato-dell-arte/Strumento-checklist-servizi-Comuni.odt>`_ per assicurarti di svolgere tutte le attività necessarie ad una corretta implementazione dei servizi digitali.
 
 
 
