@@ -69,7 +69,7 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
 
    * - Diagramma di flusso per la tipologia di servizio (archetipo) Servizi a pagamento
      - PDF, 2.7MB
-     - `Vai ai diagrammi <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/progetta-il-flusso-di-servizio/5-Servizi-pagamento-diagrammadiflusso-ServiziComuni.pdf>`_
+     - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/progetta-il-flusso-di-servizio/5-Servizi-pagamento-diagrammadiflusso-ServiziComuni.pdf>`_
      
    * - Strumento checklist per l'implementazione del modello di sito
      - ODT, 47KB
