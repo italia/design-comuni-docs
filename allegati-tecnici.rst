@@ -12,12 +12,12 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
      - Collegamento
 
    * - Documento di Architettura dell'informazione
-     - Google Sheets
-     - `Vai al documento <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit?usp=sharing&ouid=109069620194773449819&rtpof=true&sd=true>`_
+     - ODS, 65KB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Architettura-informazione-sito-Comuni.ods>`_
    
    * - Grafico dell'alberatura
-     - PDF
-     - `Vai al documento <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_
+     - PDF, 2MB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Alberatura-ModelloComuni-DesignersItalia.pdf>`_
 
    * - Anteprime dei Template HTML per il sito e i servizi digitali
      - Antemprime HTML
@@ -48,17 +48,33 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
      - `Vai ai prototipi <https://www.figma.com/proto/xSkfRizm0SsSg8Wytg1MRM/Hub-Link?page-id=0%3A1&node-id=1%3A707&viewport=241%2C48%2C0.68&scaling=min-zoom>`_
 
    * - Corrispondenza tra tipologie di flusso di servizio (archetipi), moduli e sezioni per i flussi di servizio 
-     - Google Sheets
-     - `Vai al file <https://docs.google.com/spreadsheets/d/12RgHGrhrGKhAGOUf2kOThrgIEyFngknVOhoVIrAeOOk/edit#gid=1049423963>`_
+     - ODS, 23KB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/comprendi-lo-stato-dell-arte/Tipologie-flussi-servizio-Comuni.ods>`_
      
-   * - Diagrammi di flusso per le tipologie di servizio (archetipi)
-     - PDF
-     - `Vai ai diagrammi <https://drive.google.com/drive/folders/1PvlN6_3PtZAS8ij_xVa3uPcZJrdUcM4C>`_
+   * - Diagramma di flusso per la tipologie di servizio (archetipo) Permessi e documenti
+     - PDF, 520KB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/progetta-il-flusso-di-servizio/1-Permessi-documenti-diagrammadiflusso-ServiziComuni.pdf>`_
+
+   * - Diagramma di flusso per la tipologia di servizio (archetipo) Pagamenti dovuti
+     - PDF, 3MB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/progetta-il-flusso-di-servizio/2-Pagamenti-dovuti-diagrammidiflusso-ServiziComuni.pdf>`_
+
+   * - Diagramma di flusso per la tipologia di servizio (archetipo) Vantaggi economici
+     - PDF, 2.6MB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/progetta-il-flusso-di-servizio/3-Vantaggi-economici-diagrammadiflusso-ServiziComuni.pdf>`_
+
+   * - Diagramma di flusso per la tipologia di servizio (archetipo) Iscrizione a graduatoria
+     - PDF, 570KB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/progetta-il-flusso-di-servizio/4-Iscrizione-graduatoria-diagrammadiflusso-ServiziComuni.pdf>`_
+
+   * - Diagramma di flusso per la tipologia di servizio (archetipo) Servizi a pagamento
+     - PDF, 2.7MB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/progetta-il-flusso-di-servizio/5-Servizi-pagamento-diagrammadiflusso-ServiziComuni.pdf>`_
      
    * - Strumento checklist per l'implementazione del modello di sito
-     - Google Doc
-     - `Vai allo strumento <https://docs.google.com/document/d/1E76BHQ5BnyopPU8_7i6VLfeteGxT1CttHnnuM3g5xb8/edit?usp=sharing>`_
+     - ODT, 47KB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/comprendi-lo-stato-dell-arte/Strumento-checklist-sito-Comuni.odt>`_
    
    * - Strumento checklist per l'implementazione dei servizi digitali
-     - Google Doc
-     - `Vai allo strumento <https://docs.google.com/document/d/1DqLvGOP4QNkRXG0bObjTOxxUIOJ3tR3Obbq4FruWpys/edit?usp=sharing>`_
+     - ODT, 5KB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/comprendi-lo-stato-dell-arte/Strumento-checklist-servizi-Comuni.odt>`_

@@ -3,7 +3,7 @@ Architettura dell'informazione
 
 L'architettura dell'informazione definisce la struttura di un sito, il modo in cui le informazioni sono organizzate, i metodi di navigazione e la terminologia usata entro il sistema, al fine di facilitare l'accesso intuitivo ai contenuti e il completamento di compiti da parte degli utenti. L'architettura rappresenta la guida per la realizzazione delle strutture di front-end e di back-end del sito stesso.
 
-Il `documento di architettura dell’informazione <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit?usp=sharing&ouid=109069620194773449819&rtpof=true&sd=true>`_ presenta:
+Il `documento di architettura dell’informazione (ODS 65KB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Architettura-informazione-sito-Comuni.ods>`_ presenta:
 
 - le **tipologie di contenuto** e le loro proprietà, che servono a creare le varie pagine del sito;
 - le **tassonomie** e i **vocabolari controllati**, utili a classificare i vari contenuti del sito per renderli fruibili tramite motore di ricerca interno e a definire la struttura di secondo e terzo livello del sito;
@@ -44,7 +44,7 @@ Le **tipologie di contenuto** del sito di un Comune sono:
 - Messaggio;
 - Appuntamento.
 
-La lista delle Tipologie di contenuto è riportata anche nel `foglio Ontologia, Tassonomie e Coreografia <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=2066775910>`_ del documento di architettura, con i link alle rispettive schede di dettaglio. La matrice "Corrispondenza Tipologie di contenuto/Tipologie di contenuto" mostra come queste sono combinabili tra di loro per formare le pagine del sito del Comune. 
+La lista delle Tipologie di contenuto è riportata anche nel foglio *Ontologia, Tassonomie e Coreografia* del `documento di architettura (ODS 65KB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Architettura-informazione-sito-Comuni.ods>`_, con i link alle rispettive schede di dettaglio. La matrice "Corrispondenza Tipologie di contenuto/Tipologie di contenuto" mostra come queste sono combinabili tra di loro per formare le pagine del sito del Comune. 
 
 Le schede di dettaglio delle tipologie di contenuto presentano la lista di *attributi* che vanno a formare l'effettivo contenuto. Gli attributi sono pezzi di informazione, rappresentabili principalmente valori testuali, booleani (vero o falso), numerici, temporali (data e ora) o categoriali, ma anche allegati digitali (file di documenti, immagini, video, audio).
 
@@ -79,7 +79,7 @@ Le tassonomie del sito di un Comune sono:
 - Stati di una pratica;
 - Licenze.
 
-La lista delle tassonomie è riportata anche nel `foglio Ontologia, Tassonomie e Coreografia <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=2066775910>`_ del documento di architettura, con i link alle rispettive schede di dettaglio. La matrice Tipologie/Tassonomie indica le relazioni tra le Tipologie di contenuto e le tassonomie.
+La lista delle tassonomie è riportata anche nel foglio *Ontologia, Tassonomie e Coreografia* del `documento di architettura (ODS 65KB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Architettura-informazione-sito-Comuni.ods>`_, con i link alle rispettive schede di dettaglio. La matrice Tipologie/Tassonomie indica le relazioni tra le Tipologie di contenuto e le tassonomie.
 
 Come si può vedere sulla schede dettaglio nel documento di architettura, le tassonomie presentano vari livelli di gerarchia e granularità. Nel classificare i contenuti (luoghi, eventi, notizie, etc.) bisogna usare il maggior livello di dettaglio possibile. Ad esempio, la pagina informativa di un convegno userà la tassonomia "Tipi di evento", e in particolare la voce di terzo livello "Convegno" ("Evento culturale" > "Conferenza e summit" > "Convegno").
 
@@ -90,7 +90,7 @@ Il content management system dovrebbe nascondere le categorie (temporaneamente) 
 
 Navigazione e alberatura
 ------------------------
-La navigazione del sito del Comune è  definita nel `foglio Coreografia: sistema di navigazione <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=1853196915>`_. È organizzata in forma gerarchica ed è chiamata *alberatura*, in quanto formata da una radice (l'homepage) da cui si diramano le varie sezioni, organizzate in pagine lista e pagine di dettaglio. L'alberatura è visualizzabile sotto forma di `grafico dell'alberatura (PDF 745KB) <https://drive.google.com/file/d/1lSX0Rs0IYFd14x_N7C8B--zcO4VZD9dW/view?usp=sharing>`_.
+La navigazione del sito del Comune è  definita nel foglio *Coreografia: sistema di navigazione* del `documento di architettura (ODS 65KB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Architettura-informazione-sito-Comuni.ods>`_. È organizzata in forma gerarchica ed è chiamata *alberatura*, in quanto formata da una radice (l'homepage) da cui si diramano le varie sezioni, organizzate in pagine lista e pagine di dettaglio. L'alberatura è visualizzabile sotto forma di `grafico dell'alberatura (PDF 2MB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Alberatura-ModelloComuni-DesignersItalia.pdf>`_.
 
 La struttura di primo livello del sito è presentata agli utenti sotto forma di *menu di navigazione principale*.
 
@@ -301,7 +301,7 @@ La scheda servizio è stata progettata sulla base degli indicatori dell'`eGovern
   
 La scheda informativa di servizio vuole garantire buoni standard qualitativi soprattutto in merito al criterio della trasparenza, presentando in maniera chiara e comprensibile tutte le informazioni necessarie per poter portare a termine una richiesta da parte del cittadino.
 
-Gli *attributi* delle schede informative di servizio sono presentati nel `foglio Tipologia di contenuto: Servizio <https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=335720294>`_ del documento di architettura dell'informazione. La struttura della scheda è finalizata a comunicare:
+Gli *attributi* delle schede informative di servizio sono presentati nel foglio *Tipologia: Servizio* del `documento di architettura (ODS 65KB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Architettura-informazione-sito-Comuni.ods>`_. La struttura della scheda è finalizata a comunicare:
 
   - una **breve descrizione** del servizio;
   - **a chi è rivolto**, ovvero i destinatari;

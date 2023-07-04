@@ -9,10 +9,10 @@ L’uso di queste risorse permette di implementare efficacemente un servizio dig
  
 Come costruire un flusso di servizio:
 
-1. analizza la procedura da digitalizzare e `identifica l’archetipo a cui appartiene <https://docs.google.com/spreadsheets/d/12RgHGrhrGKhAGOUf2kOThrgIEyFngknVOhoVIrAeOOk/edit#gid=1049423963>`_;
-2. consulta il modello di servizio e l’esempio applicato per comprendere l’interazione tra le varie schermate (trovi il link nel `file excel degli archetipi <https://docs.google.com/spreadsheets/d/12RgHGrhrGKhAGOUf2kOThrgIEyFngknVOhoVIrAeOOk/edit#gid=1049423963>`_);
-3. consulta il relativo diagramma di flusso per capire quali moduli utilizzare e l’ordine di assemblaggio (trovi il link nel `file excel degli archetipi <https://docs.google.com/spreadsheets/d/12RgHGrhrGKhAGOUf2kOThrgIEyFngknVOhoVIrAeOOk/edit#gid=1049423963>`_).
+1. analizza la procedura da digitalizzare e `identifica l’archetipo a cui appartiene (ODS 23KB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/comprendi-lo-stato-dell-arte/Tipologie-flussi-servizio-Comuni.ods>`_;
+2. consulta il modello di servizio e l’esempio applicato per comprendere l’interazione tra le varie schermate (trovi il link nel `file excel degli archetipi (ODS 23KB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/comprendi-lo-stato-dell-arte/Tipologie-flussi-servizio-Comuni.ods>`_);
+3. consulta il relativo diagramma di flusso per capire quali moduli utilizzare e l’ordine di assemblaggio (trovi il link nel `file excel degli archetipi (ODS 23KB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/comprendi-lo-stato-dell-arte/Tipologie-flussi-servizio-Comuni.ods>`_).
 4. seleziona e organizza le sezioni usando la `libreria di elementi <https://www.figma.com/file/WkVMh3JnkyUQGE3POb0TSI/Designers-Italia---Documentazione-Moduli-e-Sezioni?node-id=0%3A1>`_, valutando quali varianti sono necessarie.
 
 
-Usa lo `strumento checklist <https://docs.google.com/document/d/1DqLvGOP4QNkRXG0bObjTOxxUIOJ3tR3Obbq4FruWpys/edit?usp=sharing>`_ per assicurarti di svolgere tutte le attività necessarie ad una corretta implementazione dei servizi digitali.
+Usa lo `strumento checklist (ODT 5KB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/comprendi-lo-stato-dell-arte/Strumento-checklist-servizi-Comuni.odt>`_ per assicurarti di svolgere tutte le attività necessarie ad una corretta implementazione dei servizi digitali.

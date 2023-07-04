@@ -19,4 +19,4 @@ I moduli che è possibile combinare per creare i flussi di servizio sono 12:
 
 I moduli *Trovare informazioni*, *Accedere al servizio* e *Acconsentire al trattamento dei dati* sono presenti in tutti gli archetipi. Il modulo *Inserire/controllare i dati personali* è anche presente in tutti gli archetipi, ma i suoi contenuti specifici (chiamati “sezioni”) variano a seconda dei servizi.
 
-`Scopri quali moduli utilizzare per ciascun archetipo <https://docs.google.com/spreadsheets/d/12RgHGrhrGKhAGOUf2kOThrgIEyFngknVOhoVIrAeOOk/edit#gid=1049423963>`_
+`Scopri quali moduli utilizzare per ciascun archetipo (ODS 23KB) <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/comprendi-lo-stato-dell-arte/Tipologie-flussi-servizio-Comuni.ods>`_
