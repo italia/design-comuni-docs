@@ -37,11 +37,11 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
      
    * - Libreria dei componenti UI per i servizi digitali
      - Figma
-     - `Vai alla libreria <https://www.figma.com/file/WkVMh3JnkyUQGE3POb0TSI/Designers-Italia---Documentazione-Moduli-e-Sezioni?node-id=0%3A1>`_
+     - `Vai alla libreria <https://www.figma.com/file/jj5iuCVAogSWCWsiSeXRoN/Comuni---Documentazione-moduli-e-sezioni?node-id=0%3A1&t=4h9t2M9t2AF2X8Wn-1>`_
      
    * - Libreria dei moduli e delle sezioni per i servizi digitali
      - Figma
-     - `Vai alla libreria <https://www.figma.com/file/WkVMh3JnkyUQGE3POb0TSI/Designers-Italia---Documentazione-Moduli-e-Sezioni?node-id=0%3A1>`_
+     - `Vai alla libreria <https://www.figma.com/file/jj5iuCVAogSWCWsiSeXRoN/Comuni---Documentazione-moduli-e-sezioni?node-id=0%3A1&t=4h9t2M9t2AF2X8Wn-1>`_
    
    * - Prototipi a media ed alta definizione per il sito e i servizi
      - Figma
