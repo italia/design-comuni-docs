@@ -11,7 +11,7 @@ Le risorse includono:
 
 - i diagrammi di flusso, ovvero un riassunto schematico delle interazioni per capire in che ordine comporre insieme i vari componenti per tipologia di flusso;
 - i `modelli di servizio e i prototipi ad alta definizione di esempi applicati <https://www.figma.com/proto/xSkfRizm0SsSg8Wytg1MRM/Hub-Link?page-id=0%3A1&node-id=1%3A707&viewport=241%2C48%2C0.68&scaling=min-zoom>`_, per comprendere il flusso di interazione;
-- la `libreria dei componenti <https://www.figma.com/file/WkVMh3JnkyUQGE3POb0TSI/Designers-Italia---Documentazione-Moduli-e-Sezioni?node-id=0%3A1>`_ che compongono l’interfaccia grafica;
+- la `libreria dei componenti <https://www.figma.com/file/jj5iuCVAogSWCWsiSeXRoN/Comuni---Documentazione-moduli-e-sezioni?node-id=0%3A1&t=4h9t2M9t2AF2X8Wn-1>`_ che compongono l’interfaccia grafica;
 - i template HTML, che consentono l’implementazione veloce del front-end.
 
 
