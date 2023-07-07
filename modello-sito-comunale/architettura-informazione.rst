@@ -156,7 +156,7 @@ La homepage del sito di un Comune è composta da:
 
 La homepage deve presentare anche dei link in chiaro alle domande frequenti, alla richiesta di assistenza, alla prenotazione appuntamento e alla segnalazione disservizio.
 
-`Vai ai layout hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?node-id=0%3A2121&t=3v6HDPIEBkHrVFvA-1>`
+`Vai ai layout hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?node-id=0%3A2121&t=3v6HDPIEBkHrVFvA-1>`_
 
 Pagine lista di primo livello
 ------------------------------
