@@ -121,7 +121,7 @@ L’utente accede all’interfaccia di ricerca globale nel sito attraverso l’i
 - **tipologie di contenuto**, raggruppati in base alle voci della navigazione (Unità organizzativa, Persona pubblica, Documenti, Servizi, Luogo, Evento);
 - **argomenti**, ovvero i tag tematici con cui possono essere taggati tutti i contenuti del sito.
 
-`Naviga il prototipo desktop <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?type=design&node-id=2278%3A304333&mode=design&t=3e0c4HMRDXflkJgE-1>`_
+`Naviga il prototipo desktop <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?type=design&node-id=2278%3A304333&mode=design&t=3e0c4HMRDXflkJgE-1`_
 
 `Vai ai layout hi-fi <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?node-id=2216%3A296171&t=3v6HDPIEBkHrVFvA-1>`_
 
