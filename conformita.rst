@@ -19,3 +19,4 @@ Il DTD verifica il rispetto di tutti i criteri di conformità tramite controlli 
 
    conformita/conformita-modello-sito.rst
    conformita/conformita-servizi-digitali.rst
+   conformita/buone-pratiche-asseverazione.rst
