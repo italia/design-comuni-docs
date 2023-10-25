@@ -139,4 +139,4 @@ L’utente può accedere alla all’interfaccia di ricerca contestuale per i ser
 
 La ricerca contestuale è presente anche nelle pagine di Categorie di servizi. In questo caso la ricerca filtra i risultati per tipologia di contenuto (“Servizi”) e per categoria di servizio. Per esempio, nella categoria “Anagrafe e stato civile” la ricerca contestuale restituisce soltanto risultati di tipo “Servizio” che appartengono alla categoria “Anagrafe e stato civile”.
 
-`Vai al wireframe della pagina Servizi e della pagina Categoria di servizio <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?node-id=2008%3A287250&t=3v6HDPIEBkHrVFvA-1>`_
+`Vai ai layout hi-fi delle pagine Servizi e Categoria di servizio <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?node-id=2008%3A287250&t=3v6HDPIEBkHrVFvA-1>`_
