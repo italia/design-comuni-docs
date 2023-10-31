@@ -35,9 +35,13 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
      - Repository GitHub con installazione per Drupal
      - `Vai al tema Drupal <https://github.com/italia/design-comuni-drupal-theme>`_
      
-   * - Libreria dei componenti UI per i servizi digitali
+   * - Libreria dei componenti UI 
      - Figma
-     - `Vai alla libreria <https://www.figma.com/file/jj5iuCVAogSWCWsiSeXRoN/Comuni---Documentazione-moduli-e-sezioni?node-id=0%3A1&t=4h9t2M9t2AF2X8Wn-1>`_
+     - `Vai alla libreria <https://www.figma.com/file/WWt2dI4AnnHDj53jHH41ko/Comuni---Libreria-componenti?type=design&node-id=330-40976&mode=design&t=8ERU4jRRe8NUkzOo-0>`_
+
+   * - Layout Hi-fi delle principali pagine del modello
+     - Figma
+     - `Vai ai layout <https://www.figma.com/file/FHlE0r9lhfvDR0SgkDRmVi/Comuni---Modello-sito-e-servizi?type=design&node-id=1-1310&mode=design&t=5NPYXjwWBvKoeDl9-0>`_
      
    * - Libreria dei moduli e delle sezioni per i servizi digitali
      - Figma
