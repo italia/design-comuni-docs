@@ -48,7 +48,13 @@ Buone pratiche necessarie per superare l'asseverazione
        - Contatti
 
    * - Persona
-     - Amministrazione > Politici o personale amministrativo
+     - Amministrazione > Politici e/o personale amministrativo
      - - Incarico
        - Organizzazione/i di appartenenza
        - Contatti (non necessariamente personali, ma almeno della struttura di riferimento)
+
+   * - Notizia
+     - Novità > Notizie e/o comunicati e/o avvisi
+     - - Testo completo della notizia, del comunicato o dell'avviso
+       - Data
+       - A cura di (ufficio)
