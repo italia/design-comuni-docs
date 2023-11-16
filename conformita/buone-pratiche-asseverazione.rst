@@ -5,11 +5,11 @@ Buone pratiche necessarie per superare l'asseverazione
 
 2. Ogni pagina/contenuto deve essere pubblicato nella sezione più coerente rispetto all'alberatura del sito e tutte le pagine devono avere breadcrumb coerenti con la loro posizione nel menu e nella struttura del sito (Esempio: la pagina riportata nella Home nella sezione "Notizie" non passerebbe il controllo con la seguente breadcrumb: "Home > Festa del patrono". La breadcrumb corretta sarebbe "Home > Novità > Notizie > Festa del patrono"). Anche nella parte di pacchetto “cittadino attivo” è necessario che su ogni pagina di ogni servizio siano sempre esplicitati almeno i primi due livelli di breadcrumb: Home > Servizi > Pagina del servizio.
 
-2. Voci di menu e titoli di pagina non possono essere interamente in maiuscolo o in corsivo (a meno che non siano sigle o acronimi)
+3. Voci di menu e titoli di pagina non possono essere interamente in maiuscolo o in corsivo (a meno che non siano sigle o acronimi)
 
-3. Usare in modo corretto e sporadico il grassetto, il corsivo e maiuscolo
+4. Usare in modo corretto e sporadico il grassetto, il corsivo e maiuscolo
 
-4. Tutte le pagine devono avere un titolo coerente con il tipo di contenuto, breadcrumb coerenti con l'alberatura del sito e contenuti chiari, coerenti, corretti e completi delle informazioni essenziali. In particolare, i seguenti content type devono necessariamente essere presenti nel sito come pagine singole dedicate nelle sezioni di riferimento, devono essere correttamente aggiornati e includere almeno i seguenti attributi (N.B. Le descrizioni devono essere sempre presenti come testo in pagina):
+5. Tutte le pagine devono avere un titolo coerente con il tipo di contenuto, breadcrumb coerenti con l'alberatura del sito e contenuti chiari, coerenti, corretti e completi delle informazioni essenziali. In particolare, i seguenti content type devono necessariamente essere presenti nel sito come pagine singole dedicate nelle sezioni di riferimento, devono essere correttamente aggiornati e includere almeno i seguenti attributi (N.B. Le descrizioni devono essere sempre presenti come testo in pagina):
 
 .. list-table::
    :widths: 10 30 30
