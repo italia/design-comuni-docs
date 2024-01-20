@@ -49,4 +49,4 @@ Le voci dell’indice di primo livello della sezione Amministrazione Trasparente
 
 Ontologia
 ----------
-È disponibile il `profilo applicativo dell'ontologia <https://ontopia-lode.agid.gov.it/lode/extract?url=https://w3id.org/italia/onto/Transparency>`_ della struttura dell'Amministrazione Trasparente.
+È disponibile il `profilo applicativo dell'ontologia <https://schema.gov.it/semantic-assets/details?uri=https%3A%2F%2Fw3id.org%2Fitalia%2Fonto%2FTransparency>`_ della struttura dell'Amministrazione Trasparente.
