@@ -1,12 +1,13 @@
 Mockup ad alta definizione
 =============================
 
-Per facilitare l’adozione del modello di sito istituzionale dei Comuni, sono stati realizzati i layout ad alta definizione delle principali pagine del sito, sia per Figma che per Sketch.
+Per rendere più semplice l'uso del modello di sito, abbiamo messo a disposizione i layout ad alta definizione delle principali tipologie di pagina, disponibili sia per Figma che per Sketch.
 
-Sono disponibili nella pagina `Releases <https://github.com/italia/design-comuni-ui-kit/releases>`_ del repository GitHub dedicato oppure, solo la versione Figma, nello `spazio Community <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_.
+Esistono due files:
 
-Il file `comuni-modello-sito-e-servizi` include gli esempi di pagina reali, i templates riutilizzabili per creare nuove pagine e i prototipi dei principali flussi di servizio.
+1. **comuni-modello-sito-e-servizi**: include gli esempi di pagina reali, i templates riutilizzabili per creare nuove pagine e i prototipi dei principali flussi di servizio;
+2. **comuni-libreria-componenti**: include tutti i componenti necessari per la progettazione dell'interfaccia. È una libreria, pertanto deve essere collegata al file principale per poter essere utilizzata correttamente (`Come aggiungere una libreria in Figma (inglese) <https://help.figma.com/hc/en-us/articles/1500008731201-Enable-or-disable-a-library-in-a-design-file>`_, `Come aggiungere una libreria in Sketch (inglese) <https://www.sketch.com/docs/libraries/creating-and-adding-libraries/>`_)
 
-Il file `comuni-libreria-componenti` include tutti i componenti fondamentali utilizzati nei layout e template per la costruzione dell'interfaccia. Quest'ultimo, deve essere collegato al file `comuni-modello-sito-e-servizi` come libreria esterna per poter essere usato correttamente. 
-`Come aggiungere una libreria in Figma (inglese) <https://help.figma.com/hc/en-us/articles/1500008731201-Enable-or-disable-a-library-in-a-design-file>`_
-`Come aggiungere una libreria in Sketch (inglese) <https://www.sketch.com/docs/libraries/creating-and-adding-libraries/>`_
+Queste risorse sono disponibili su:
+- `Repository GitHub <https://github.com/italia/design-comuni-ui-kit/releases>`_;
+- `Figma Community <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_(solo per la versione Figma).
