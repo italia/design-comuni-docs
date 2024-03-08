@@ -5,8 +5,6 @@ Mockup ad alta definizione
    :alt: La figura mostra la copertina delle risorse per la progettazione dell'interfaccia.
    :name: layout-comuni
 
-   La copertina delle risorse per progettare l'interfaccia.
-
 Per rendere più semplice l'uso del modello di sito, abbiamo messo a disposizione i layout ad alta definizione delle principali tipologie di pagina, disponibili sia per Figma che per Sketch.
 
 Esistono due files:
@@ -16,5 +14,5 @@ Esistono due files:
 
 Queste risorse sono disponibili su:
 
-- `Repository GitHub <https://github.com/italia/design-comuni-ui-kit/releases>`_;
-- `Figma Community <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_(solo per la versione Figma).
+- `Repository GitHub <https://github.com/italia/design-comuni-ui-kit/releases>`_ nella pagina dedicata alle *releases*;
+- `Figma Community <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_ (solo per la versione Figma).
