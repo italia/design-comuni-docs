@@ -1,6 +1,12 @@
 Mockup ad alta definizione
 =============================
 
+.. figure:: media/layout-comuni.png
+   :alt: La figura mostra la copertina delle risorse per la progettazione dell'interfaccia.
+   :name: layout-comuni
+
+   La copertina delle risorse per progettare l'interfaccia.
+
 Per rendere più semplice l'uso del modello di sito, abbiamo messo a disposizione i layout ad alta definizione delle principali tipologie di pagina, disponibili sia per Figma che per Sketch.
 
 Esistono due files:
