@@ -109,7 +109,25 @@ Riferimenti tecnici e normativi: `CAD - Art. 41 <https://docs.italia.it/italia/p
      - /
      
    * - **Fallimento**
-     - Anche solo un servizio richiede all’utente l’inserimento di dati o preferenze già forniti al Comune.
+     - Anche solo un servizio richiede all’utente l’inserimento di dati o preferenze già forniti al Comune, con particolare riferimento a: 
+   
+     1. Dati anagrafici: nome, cognome, luogo di nascita, data di nascita, codice fiscale;
+
+     2. Residenza: Comune, Provincia, Indirizzo (ed eventuale numero civico), CAP;
+
+     3. Dati di contatto: numero di telefono, email, PEC;
+
+     4. Composizione del nucleo familiare: numero componenti del nucleo familiare, nominativi completi dei componenti del nucleo familiare, anno di nascita dei componenti del nucleo familiare;
+
+     5. Indicatori di situazione economica: ISEE;
+
+     6. Indicatori catastali per ciascun immobile: Comune catastale, numero di particella, subalterno, sezione, foglio;
+
+     7. Informazioni per ciascun autoveicolo: tipo veicolo, modello veicolo, targa veicolo;
+
+     8. Informazioni finanziarie: IBAN;
+
+     9. Informazioni aziendali: denominazione sociale, P.IVA, numero REA, indirizzo sede legale, recapiti (telefono, mail, PEC).
 
 
      
@@ -389,13 +407,13 @@ Riferimenti tecnici e normativi: `Raccomandazioni AgID in merito allo standard T
    :header-rows: 0
 
    * - **Successo**
-     - Tutte le pagine dei servizi digitali utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto.
+     - Tutte le pagine dei servizi digitali utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto (la versione del TLS e la suite di cifratura associata soddisfano i requisiti indicati tra le `Raccomandazioni AGID in merito allo standard Transport Layer Security (TLS) <https://cert-agid.gov.it/wp-content/uploads/2020/11/AgID-RACCSECTLS-01.pdf>`_).
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Anche solo una pagina dei servizi digitali non utilizza il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto.
+     - Anche solo una pagina dei servizi digitali non utilizza il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto (la versione del TLS e la suite di cifratura associata non soddisfano i requisiti indicati tra le `Raccomandazioni AGID in merito allo standard Transport Layer Security (TLS) <https://cert-agid.gov.it/wp-content/uploads/2020/11/AgID-RACCSECTLS-01.pdf>`_).
   
 
 **C.SE.5.2 - Sottodominio servizi**
