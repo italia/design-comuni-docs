@@ -77,7 +77,7 @@ Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al citt
         - Contatti (indicando l'Unità organizzativa responsabile);
         - Argomenti.
         
-       **e** devono essere presenti almeno 10 schede servizio accessibili dalla pagina "servizi" **e** tutti i servizi comunali messi a disposizione nel sito o in altre piattaforme devono essere indicizzati all’interno della pagina di primo livello “servizi” e presentati utilizzando schede servizio che abbiano le caratteristiche richieste **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
+       **e** devono essere presenti almeno 10 schede servizio accessibili dalla pagina "servizi" **e** se il servizio prevede un pagamento è necessario indicare l’informazione sul pagamento (in formato testuale) e i relativi costi **e** tutti i servizi comunali messi a disposizione nel sito o in altre piattaforme devono essere indicizzati all’interno della pagina di primo livello “servizi” e presentati utilizzando schede servizio che abbiano le caratteristiche richieste **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio
      
    * - **Tolleranza**
      - Anche solo in una scheda servizio fino a 2 delle seguenti voci obbligatorie e i relativi contenuti non sono presenti:
@@ -107,7 +107,7 @@ Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al citt
        - Condizioni di servizio;
        - Contatti
 
-       **e** devono essere presenti almeno 10 schede servizio accessibili dalla pagina "Servizi" **e** tutti i servizi comunali messi a disposizione nel sito o in altre piattaforme devono essere indicizzati all’interno della pagina di primo livello “servizi” e presentati utilizzando schede servizio che abbiano le caratteristiche richieste **e** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+       **e** devono essere presenti almeno 10 schede servizio accessibili dalla pagina "Servizi" **e** se il servizio prevede un pagamento è necessario indicare l’informazione sul pagamento (in formato testuale) e i relativi costi **e** tutti i servizi comunali messi a disposizione nel sito o in altre piattaforme devono essere indicizzati all’interno della pagina di primo livello “servizi” e presentati utilizzando schede servizio che abbiano le caratteristiche richieste **e** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
      
    * - **Fallimento**
      - Anche solo in una scheda servizio più di 2 delle seguenti voci obbligatorie e i relativi contenuti non sono presenti:
@@ -137,7 +137,7 @@ Riferimenti normativi e tecnici: sezione `Scheda informativa di servizio al citt
        - Condizioni di servizio;
        - Contatti.
        
-       **o** non sono presenti almeno 10 schede servizio accessibili dalla pagina "Servizi" **o** almeno un servizio comunale messo a disposizione nel sito o in altre piattaforme non è indicizzato all’interno della pagina di primo livello “servizi” o non è presentato utilizzando una scheda servizio che abbiano le caratteristiche richieste **o** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
+       **o** non sono presenti almeno 10 schede servizio accessibili dalla pagina "Servizi" **o** il servizio prevede un pagamento e non è indicata l’informazione sul pagamento (in formato testuale) o i relativi costi **o** almeno un servizio comunale messo a disposizione nel sito o in altre piattaforme non è indicizzato all’interno della pagina di primo livello “servizi” o non è presentato utilizzando una scheda servizio che abbiano le caratteristiche richieste **o** il sito presenta i data attribute indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_.
 
      
      
@@ -222,7 +222,7 @@ Riferimenti normativi e tecnici: i titoli delle pagine di secondo livello sono i
    :header-rows: 0
 
    * - **Successo**
-     - Tutti i titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_:
+     - Tutti i titoli delle pagine di secondo livello usati rispecchiano quelli presenti nel `documento di Architettura dell'informazione <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Architettura-informazione-sito-Comuni.ods>`_:
      
         - Per la sezione *Amministrazione*, sono: “Organi di governo”, “Aree amministrative”, “Uffici”, “Enti e fondazioni”, “Politici”, “Personale amministrativo”, “Documenti e dati”;
         - Per la sezione *Novità*, sono: “Notizie”, “Comunicati”, “Avvisi”;
@@ -231,10 +231,10 @@ Riferimenti normativi e tecnici: i titoli delle pagine di secondo livello sono i
        **e** i titoli delle pagine di secondo livello e i rispettivi titoli usati nelle breadcrumb devono corrispondere **e** la posizione della pagina deve essere indicata nella struttura delle breadcrumb ed essere al livello corretto (es: Home/Servizi/Ambiente) **e** le URL delle pagine devono seguire l’organizzazione del sito **e** le pagine e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
      
    * - **Tolleranza**
-     - Almeno il 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_ **e** i titoli delle pagine di secondo livello e i rispettivi titoli usati nelle breadcrumb devono corrispondere **e** la posizione della pagina deve essere indicata nella struttura delle breadcrumb ed essere al livello corretto (es: Home/Servizi/Ambiente) **e** le pagine e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Almeno il 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nel `documento di Architettura dell'informazione <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Architettura-informazione-sito-Comuni.ods>`_ **e** i titoli delle pagine di secondo livello e i rispettivi titoli usati nelle breadcrumb devono corrispondere **e** la posizione della pagina deve essere indicata nella struttura delle breadcrumb ed essere al livello corretto (es: Home/Servizi/Ambiente) **e** le pagine e le relative sezioni di pagina hanno un contenuto coerente con i titoli delle pagine **e** il sito presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
    * - **Fallimento**
-     - Meno del 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nella `documentazione <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_ **o** anche solo il titolo di una pagina di secondo livello e il rispettivo titolo usato nelle breadcrumb non corrispondono **o** la posizione di anche solo una pagina non è indicata nella struttura delle breadcrumb o non è al livello corretto **o** anche solo una delle pagine o le relative sezioni di pagina non hanno un contenuto coerente con i titoli delle pagine **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
+     - Meno del 50% dei titoli delle pagine di secondo livello usati rispecchiano quelli presenti nel `documento di Architettura dell'informazione <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Architettura-informazione-sito-Comuni.ods>`_ **o** anche solo il titolo di una pagina di secondo livello e il rispettivo titolo usato nelle breadcrumb non corrispondono **o** la posizione di anche solo una pagina non è indicata nella struttura delle breadcrumb o non è al livello corretto **o** anche solo una delle pagine o le relative sezioni di pagina non hanno un contenuto coerente con i titoli delle pagine **o** il sito non presenta i *data attribute* indicati nella `Documentazione delle App di valutazione dell’adesione ai modelli <https://docs.italia.it/italia/designers-italia/app-valutazione-modelli-docs/>`_ per questo criterio.
 
 
 
@@ -580,13 +580,13 @@ Riferimenti tecnici e normativi: `Raccomandazioni AgID in merito allo standard T
    :header-rows: 0
 
    * - **Successo**
-     - Tutte le pagine del sito utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto (la versione del TLS e la suite di cifratura associata sono adatte).
+     - Tutte le pagine del sito utilizzano il protocollo https **e** il certificato https è valido **e** il certificato https non è obsoleto (la versione del TLS e la suite di cifratura associata soddisfano i requisiti indicati tra le `Raccomandazioni AGID in merito allo standard Transport Layer Security (TLS) <https://cert-agid.gov.it/wp-content/uploads/2020/11/AgID-RACCSECTLS-01.pdf>`_.
      
    * - **Tolleranza**
      - /
 
    * - **Fallimento**
-     - Anche solo una pagina del sito non utilizza il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata è inadatta).
+     - Anche solo una pagina del sito non utilizza il protocollo https **o** il certificato https è scaduto **o** il certificato https è obsoleto (la versione del TLS è obsoleta o la suite di cifratura associata non soddisfano i requisiti indicati tra le `Raccomandazioni AGID in merito allo standard Transport Layer Security (TLS) <https://cert-agid.gov.it/wp-content/uploads/2020/11/AgID-RACCSECTLS-01.pdf>`_.
 
 
 **C.SI.5.2 - Dominio istituzionale**
