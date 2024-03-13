@@ -112,21 +112,13 @@ Riferimenti tecnici e normativi: `CAD - Art. 41 <https://docs.italia.it/italia/p
      - Anche solo un servizio richiede all’utente l’inserimento di dati o preferenze già forniti al Comune, con particolare riferimento a: 
    
      1. Dati anagrafici: nome, cognome, luogo di nascita, data di nascita, codice fiscale;
-
      2. Residenza: Comune, Provincia, Indirizzo (ed eventuale numero civico), CAP;
-
      3. Dati di contatto: numero di telefono, email, PEC;
-
      4. Composizione del nucleo familiare: numero componenti del nucleo familiare, nominativi completi dei componenti del nucleo familiare, anno di nascita dei componenti del nucleo familiare;
-
      5. Indicatori di situazione economica: ISEE;
-
      6. Indicatori catastali per ciascun immobile: Comune catastale, numero di particella, subalterno, sezione, foglio;
-
      7. Informazioni per ciascun autoveicolo: tipo veicolo, modello veicolo, targa veicolo;
-
      8. Informazioni finanziarie: IBAN;
-
      9. Informazioni aziendali: denominazione sociale, P.IVA, numero REA, indirizzo sede legale, recapiti (telefono, mail, PEC).
 
 
