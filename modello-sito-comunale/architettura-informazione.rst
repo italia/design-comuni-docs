@@ -360,3 +360,11 @@ Si riporta il template del codice, con gli attributi in formato "<nomeattributo>
 .. literalinclude:: template-dati-strutturati-scheda-servizio.html
 
 L'attributo `availableChannel>serviceUrl` **deve** essere presente in quei servizi erogati anche in modalità digitale e deve indicare l'url di accesso al servizio digitale.
+
+
+Schede per i servizi ANPR e SUAP
+---------------------------------------
+
+Sono disponibili i layout hi-fi delle schede per i servizi ANPR e SUAP con esempi di contenuto da cui gli enti possono prendere spunto per presentare questi servizi al pubblico sul proprio sito. 
+
+Per accedere alla risorsa, vai al `file del modello Comuni sulla Community Figma <https://www.figma.com/community/file/1262690210012419806/comuni-modello-sito-e-servizi>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Servizio».
