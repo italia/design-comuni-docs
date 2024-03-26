@@ -43,7 +43,7 @@ Riferimenti tecnici e normativi: `Documentazione del modello Comuni <https://doc
      - L’utente riceve la notifica di completamento del processo di presentazione dell’istanza all’interno della propria area personale del sito **e** in modalità multicanale attraverso almeno un canale aggiuntivo.
 
    * - **Tolleranza**
-     - L’utente non riceve la notifica di completamento del processo di presentazione dell’istanza all’interno della propria area personale del sito ma la riceve attraverso almeno un altro canale.
+     - L’utente riceve la notifica di completamento del processo di presentazione dell’istanza tramite un qualsiasi canale.
 
    * - **Fallimento**
      - L’utente non riceve nessuna notifica di completamento del processo di presentazione dell’istanza.
