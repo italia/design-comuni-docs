@@ -357,7 +357,7 @@ Riferimenti tecnici e normativi: `Normativa GDPR (Artt. 13 e 14, Reg. UE n. 679/
 
 **C.SE.4.1 - Velocità e tempi di risposta**
 
-Nel caso in cui l’area servizi per il cittadino presenti livelli di prestazioni (media pesata di 6 metriche standard), inferiori a 50 secondo quanto calcolato e verificato tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`_, il Comune pubblica nell'area servizi per il cittadino del sito comunale un "Piano di miglioramento dei servizi" che mostri, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
+Nel caso in cui l’area servizi per il cittadino presenti livelli di prestazioni (media pesata di 6 metriche standard), inferiori a 50 secondo quanto calcolato e verificato tramite le `librerie Lighthouse <https://web.dev/performance-scoring/>`_, il Comune pubblica nell'area servizi per il cittadino del sito comunale un "Piano di miglioramento del sito" o un "Piano di miglioramento dei servizi" che mostri, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
 
 Riferimenti tecnici e normativi: è possibile produrre il report usando `Lighthouse PageSpeed Insights <https://pagespeed.web.dev/>`_; `Lighthouse performance scoring guide <https://web.dev/performance-scoring/>`_; `Documentazione del modello Comuni <https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/>`_.
 
@@ -369,11 +369,11 @@ Riferimenti tecnici e normativi: è possibile produrre il report usando `Lightho
      - Tutte le pagine dei servizi digitali presentano almeno un punteggio di prestazioni pari a 50 quando testato in modalità “mobile” con Lighthouse.
      
    * - **Tolleranza**
-     - Tutte le pagine dei servizi digitali presentano un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento dei servizi” è raggiungibile dal footer **e** il “Piano di miglioramento dei servizi” mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
+     - Tutte le pagine dei servizi digitali presentano un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento del sito” o il "Piano di miglioramento dei servizi" è raggiungibile dal footer **e** il “Piano di miglioramento del sito” o il "Piano di miglioramento dei servizi" mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
 
 
    * - **Fallimento**
-     - Anche solo una pagina dei servizi digitali presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento dei servizi” non è raggiungibile dal footer **o** il “Piano di miglioramento dei servizi” non mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
+     - Anche solo una pagina dei servizi digitali presenta un punteggio inferiore a 50 quando testato in modalità “mobile” con Lighthouse **e** il “Piano di miglioramento del sito” o il "Piano di miglioramento dei servizi" non è raggiungibile dal footer **o** il “Piano di miglioramento del sito” o il "Piano di miglioramento dei servizi" non mostra, per ciascuna voce che impatta negativamente le prestazioni, le azioni future di miglioramento e le relative tempistiche di realizzazione attese.
 
   
 ``Sicurezza``
