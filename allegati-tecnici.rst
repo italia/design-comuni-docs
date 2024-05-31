@@ -11,10 +11,14 @@ La seguente tabella raccoglie tutti i documenti tecnici relativi al progetto e l
      - Tipo file
      - Collegamento
 
-   * - Documento di Architettura dell'informazione
+   * - Documento di Architettura dell'informazione - Versione ODS
      - ODS, 65KB
      - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Architettura-informazione-sito-Comuni.ods>`_
-   
+
+   * - Documento di Architettura dell'informazione - Versione XLSX
+     - XLSX, 125KB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Architettura-informazione-sito-Comuni.ods>`_
+
    * - Grafico dell'alberatura
      - PDF, 2MB
      - `Scarica <https://designers.italia.it/files/resources/modelli/comuni/adotta-il-modello-di-sito-comunale/definisci-architettura-e-contenuti/Alberatura-ModelloComuni-DesignersItalia.pdf>`_
