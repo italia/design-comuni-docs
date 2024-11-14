@@ -273,6 +273,7 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
         - scegliere fra le date e gli orari disponibili;
         - scegliere l’argomento e spiegare il motivo della richiesta;
         - lasciare il proprio nominativo e i propri contatti;
+        - completare la prenotazione (che non deve rimanere in attesa di conferma);
         
        **e** il nominativo del profilo che si è autenticato per accedere al servizio è precompilato.
      
@@ -286,6 +287,7 @@ Riferimenti normativi e tecnici: `funzionalità <../modello-sito-comunale/funzio
         - scegliere fra le date e gli orari disponibili;
         - scegliere l’argomento e spiegare il motivo della richiesta;
         - lasciare il proprio nominativo e i propri contatti;
+        - completare la prenotazione (che non deve rimanere in attesa di conferma);
        
        **o** o il nominativo del profilo che si è autenticato per accedere al servizio non è precompilato.
 
