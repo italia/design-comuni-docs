@@ -1,7 +1,7 @@
 Sphinx==4.5.0
 sphinx-autobuild==2021.3.14
 docs-italia-theme @ git+https://github.com/italia/docs-italia-theme.git
-urllib3==1.26.19
+urllib3==2.5.0
 sphinxcontrib-applehelp==1.0.4
 sphinxcontrib-devhelp==1.0.2
 sphinxcontrib-htmlhelp==2.0.1
