@@ -9,5 +9,5 @@ Il progetto si è svolto in due macro-fasi: quella di progettazione iniziale del
    :caption: Indice dei contenuti
    :numbered:
 
-   ricerca-evoluzione-v2.0.rst
-   ricerca-iniziale-v1.0.rst
+   ricerca-e-progettazione/ricerca-evoluzione-v2.0.rst
+   ricerca-e-progettazione/ricerca-iniziale-v1.0.rst
