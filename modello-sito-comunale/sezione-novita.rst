@@ -18,7 +18,7 @@ La sezione è organizzata su tre livelli:
 Pagina di primo livello "Novità"
 ----------------------------------
 
-La pagina di primo livello è il punto di ingresso alla sezione. Presenta una barra "In evidenza" dove presentare i contenuti più importanti per l'ente, la lista dei contenuti più recenti con un campo di ricerca testuale e la navigazione alle pagine di secondo livello Notizie, Comunicati, Avvisi, Bandi e Concorsi.
+La pagina di primo livello è il punto di ingresso alla sezione. Presenta una sezione "In evidenza" dove presentare i contenuti più importanti e rilevanti, la lista dei contenuti più recenti con un campo di ricerca testuale e la navigazione alle pagine di secondo livello Notizie, Comunicati, Avvisi, Bandi e Concorsi.
 
 .. admonition:: Interfaccia e sviluppo
 
@@ -26,9 +26,9 @@ La pagina di primo livello è il punto di ingresso alla sezione. Presenta una ba
    - Consulta il template HTML della pagina.
 
 
-Pgine lista di secondo livello
+Pagine lista di secondo livello
 -------------------------------------
-Le pagine lista di secondo livello presentano l'elenco dei contenuti di ciascuna categoria. Il template prevede una sezione in evidenza per i contenuti prioritari, un campo di ricerca testuale, filtri per argomento e un sistema di paginazione dei risultati.
+Le pagine lista di secondo livello presentano l'elenco dei contenuti già filtrato per ciascuna categoria. Il template prevede una sezione in evidenza per i contenuti prioritari, un campo di ricerca testuale, filtri per argomento e un sistema di paginazione dei risultati.
 
 .. admonition:: Interfaccia e sviluppo
 
@@ -43,14 +43,14 @@ La notizia è un contenuto informativo di carattere editoriale che racconta atti
 La pagina foglia "Notizia" presenta il contenuto completo della notizia, l'immagine di copertina, i riferimenti all'ufficio o alla persona responsabile e i temi associati.
 
 
-.. admonition:: Contenuti
+.. admonition:: Architettura e contenuti
 
-   Per creare la pagina di una notizia, fai riferimento alla **tipologia di contenuto Notizia** nel documento di architettura.
+   Tipologia di contenuto: **Notizia**.
 
 .. admonition:: Interfaccia e sviluppo
 
-   - Trovi il layout hi-fi della pagina Notizie sotto PAGE LAYOUTS > Notizie nel file figma del modello.
-   - Consulta il template HTML della pagina
+   - Layout hi-fi: PAGE LAYOUTS > Notizie nel file figma del modello.
+   - Template HTML: 
 
 
 Comunicati
@@ -60,26 +60,28 @@ La pagina foglia "Comunicato" usa lo stesso content type della Notizia.
 → Consulta il layout hi-fi su Figma: foglio «PAGE LAYOUTS», board «Notizia»
 → Consulta il content type nel documento di architettura dell'informazione
 
-.. admonition:: Contenuti
+.. admonition:: Architettura e contenuti
 
-   Per creare la pagina di un comunicato, fai riferimento alla **tipologia di contenuto Notizia** nel documento di architettura.
+   Tipologia di contenuto: **Notizia**.
 
 .. admonition:: Interfaccia e sviluppo
 
-   - Trovi il layout hi-fi della pagina Notizie sotto PAGE LAYOUTS > Notizie nel file figma del modello. Puoi usare lo stesso layout per creare anche le pagine Comunicati
-   - Consulta il template HTML della pagina
+   - Layout hi-fi: PAGE LAYOUTS > Notizie nel file figma del modello.
+   - Template HTML: 
 
 Avvisi
 -----------
 L'avviso è un contenuto di servizio che comunica informazioni pratiche e operative di interesse immediato per i cittadini, come scadenze, interruzioni di servizi, modifiche alla viabilità. È essenziale, diretto e orientato all'azione: indica cosa cambia e cosa devono fare le persone.
 La pagina foglia "Avviso" usa lo stesso content type della Notizia.
 
-.. admonition:: Contenuti
+.. admonition:: Architettura e contenuti
 
-   Per creare la pagina di un avviso, fai riferimento alla **tipologia di contenuto Notizia** nel documento di architettura.
+   Tipologia di contenuto: **Notizia**.
 
-→ Consulta il layout hi-fi su Figma: foglio «PAGE LAYOUTS», board «Notizia»
-→ Consulta il content type nel documento di architettura dell'informazione
+.. admonition:: Interfaccia e sviluppo
+
+   - Layout hi-fi: PAGE LAYOUTS > Notizie nel file figma del modello.
+   - Template HTML: 
 
 Bandi e concorsi
 -----------------
@@ -89,13 +91,13 @@ La pagina lista "Bandi e concorsi" include una sezione in evidenza per i bandi p
 
 La pagina foglia "Bando" presenta tutte le informazioni relative a un bando: destinatari, modalità di partecipazione, scadenze, documentazione e graduatorie. Usa il content type "Bando o concorso".
 
-.. admonition:: Contenuti
+.. admonition:: Architettura e contenuti
 
-   Per creare la pagina di una notizia, fai riferimento alla **tipologia di contenuto Bando o concorso** nel documento di architettura.
+   Tipologia di contenuto: **Notizia**.
 
 .. admonition:: Interfaccia e sviluppo
 
-   - Trovi il layout hi-fi della pagina Bando o concorso sotto PAGE LAYOUTS > Novità nel file figma del modello.
-   - Consulta il template HTML della pagina
+   - Layout hi-fi: PAGE LAYOUTS > Notizie nel file figma del modello.
+   - Template HTML: 
 
 
