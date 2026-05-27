@@ -56,9 +56,6 @@ La pagina foglia "Notizia" presenta il contenuto completo della notizia, l'immag
 Comunicati
 -------------
 Il comunicato stampa è un contenuto ufficiale emesso dall'amministrazione comunale con l'obiettivo di informare i media e il pubblico su decisioni, posizioni istituzionali o fatti rilevanti. Ha un linguaggio formale e strutturato, spesso pronto per la pubblicazione giornalistica, e segue uno stile sintetico e dichiarativo.
-La pagina foglia "Comunicato" usa lo stesso content type della Notizia.
-→ Consulta il layout hi-fi su Figma: foglio «PAGE LAYOUTS», board «Notizia»
-→ Consulta il content type nel documento di architettura dell'informazione
 
 .. admonition:: Architettura e contenuti
 
@@ -84,7 +81,7 @@ L'avviso è un contenuto di servizio che comunica informazioni pratiche e operat
 
 Bandi e concorsi
 -----------------
-Il bando è un contenuto che descrive una procedura pubblica promossa dal Comune per selezionare soggetti, assegnare contributi o affidare servizi. Include informazioni su destinatari, requisiti, modalità di partecipazione, scadenze e documentazione necessaria. Può riguardare gare d'appalto, concorsi pubblici, contributi a cittadini o imprese e concessioni
+Il bando è un contenuto che descrive una procedura pubblica promossa dal Comune per selezionare soggetti, assegnare contributi o affidare servizi. Include informazioni su destinatari, requisiti, modalità di partecipazione, scadenze e documentazione necessaria. Può riguardare gare d'appalto, concorsi pubblici, contributi a cittadini o imprese e concessioni.
 
 .. admonition:: Architettura e contenuti
 
