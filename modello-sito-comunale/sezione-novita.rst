@@ -18,11 +18,15 @@ La sezione è organizzata su tre livelli:
 Pagina di primo livello "Novità"
 ----------------------------------
 
-La pagina di primo livello è il punto di ingresso alla sezione. Presenta i contenuti più recenti o in evidenza e organizza la navigazione verso le quattro categorie di contenuti. Include una sezione in evidenza per i contenuti prioritari, un campo di ricerca testuale e la possibilità di esplorare i contenuti per categoria.
+La pagina di primo livello è il punto di ingresso alla sezione. Presenta una barra "In evidenza" dove presentare i contenuti più importanti per l'ente, la lista dei contenuti più recenti con un campo di ricerca testuale e la navigazione alle pagine di secondo livello Notizie, Comunicati, Avvisi, Bandi e Concorsi.
+
+.. admonition:: Interfaccia
+
+   Trovi il layout hi-fi della pagina sotto PAGE LAYOUTS > Novità nel file figma del modello.
 
 → Consulta il layout hi-fi su Figma: foglio «PAGE LAYOUTS», board «Novità»
 
-Le pagine lista di secondo livello
+Pgine lista di secondo livello
 -------------------------------------
 Le pagine lista di secondo livello seguono il template Lista e presentano l'elenco dei contenuti di ciascuna categoria. Il template prevede una sezione in evidenza per i contenuti prioritari, un campo di ricerca testuale, filtri per argomento e un sistema di paginazione dei risultati.
 → Consulta il template nel file UI kit su Figma: foglio «TEMPLATES», board «Templates»
