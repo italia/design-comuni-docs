@@ -5,10 +5,9 @@ La sezione Novità raccoglie le comunicazioni istituzionali del Comune verso il 
 La sezione è accessibile dal menu di navigazione principale tramite la voce "Novità".
 
 .. figure:: images/struttura-novita.png
-   :height: 370px
-   :width: 400 px
-   :alt: Struttura della sezione Novità
-   :align: center
+    :alt: Struttura della sezione Novità
+    :name: Struttura della sezione Novità
+
 
 
 La sezione è organizzata su tre livelli:
