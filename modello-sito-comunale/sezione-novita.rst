@@ -22,8 +22,9 @@ La pagina di primo livello è il punto di ingresso alla sezione. Presenta una se
 
 .. admonition:: Interfaccia e sviluppo
 
-   - Trovi il layout hi-fi della pagina sotto PAGE LAYOUTS > Novità nel file figma del modello.
-   - Consulta il template HTML della pagina.
+   - Layout hi-fi: PAGE LAYOUTS > Notizie nel file figma del modello.
+   - Template HTML: 
+
 
 
 Pagine lista di secondo livello
@@ -32,9 +33,8 @@ Le pagine lista di secondo livello presentano l'elenco dei contenuti già filtra
 
 .. admonition:: Interfaccia e sviluppo
 
-   - Trovi il layout hi-fi della pagina Notizie sotto PAGE LAYOUTS > Notizie nel file figma del modello. Puoi usare lo stesso layout per creare anche le pagine Comunicati
-   - Consulta il template HTML della pagina
-
+   - Layout hi-fi: PAGE LAYOUTS > Notizie nel file figma del modello.
+   - Template HTML: 
 
 
 Notizie
@@ -72,7 +72,6 @@ La pagina foglia "Comunicato" usa lo stesso content type della Notizia.
 Avvisi
 -----------
 L'avviso è un contenuto di servizio che comunica informazioni pratiche e operative di interesse immediato per i cittadini, come scadenze, interruzioni di servizi, modifiche alla viabilità. È essenziale, diretto e orientato all'azione: indica cosa cambia e cosa devono fare le persone.
-La pagina foglia "Avviso" usa lo stesso content type della Notizia.
 
 .. admonition:: Architettura e contenuti
 
@@ -85,15 +84,11 @@ La pagina foglia "Avviso" usa lo stesso content type della Notizia.
 
 Bandi e concorsi
 -----------------
-Il bando è un contenuto che descrive una procedura pubblica promossa dal Comune per selezionare soggetti, assegnare contributi o affidare servizi. Include informazioni su destinatari, requisiti, modalità di partecipazione, scadenze e documentazione necessaria. Può riguardare gare d'appalto, concorsi pubblici, contributi a cittadini o imprese e concessioni.
-
-La pagina lista "Bandi e concorsi" include una sezione in evidenza per i bandi prioritari, un campo di ricerca testuale, filtri per stato e tipologia e i collegamenti ai principali portali istituzionali per la pubblicazione dei bandi.
-
-La pagina foglia "Bando" presenta tutte le informazioni relative a un bando: destinatari, modalità di partecipazione, scadenze, documentazione e graduatorie. Usa il content type "Bando o concorso".
+Il bando è un contenuto che descrive una procedura pubblica promossa dal Comune per selezionare soggetti, assegnare contributi o affidare servizi. Include informazioni su destinatari, requisiti, modalità di partecipazione, scadenze e documentazione necessaria. Può riguardare gare d'appalto, concorsi pubblici, contributi a cittadini o imprese e concessioni
 
 .. admonition:: Architettura e contenuti
 
-   Tipologia di contenuto: **Notizia**.
+   Tipologia di contenuto: **Bando o concorso**.
 
 .. admonition:: Interfaccia e sviluppo
 
