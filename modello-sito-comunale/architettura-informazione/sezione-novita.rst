@@ -10,6 +10,7 @@ La sezione è accessibile dal menu di navigazione principale tramite la voce "No
    :alt: Struttura della sezione Novità
    :align: center
 
+
 La sezione è organizzata su tre livelli:
 
 - Primo livello: la pagina lista "Novità", che offre una panoramica generale di tutti i contenuti pubblicati dal Comune e permette all'utente di orientarsi verso la categoria di interesse;
