@@ -9,12 +9,11 @@ La sezione è accessibile dal menu di navigazione principale tramite la voce "No
     :name: Struttura della sezione Novità
 
 
-
 La sezione è organizzata su tre livelli:
 
-- Primo livello: la pagina lista "Novità", che offre una panoramica generale di tutti i contenuti pubblicati dal Comune e permette all'utente di orientarsi verso la categoria di interesse;
-- Secondo livello: quattro pagine lista, una per ciascuna tipologia di contenuto (Notizie, Comunicati, Avvisi, Bandi e concorsi). Ogni pagina raccoglie tutti i contenuti di quella categoria, con strumenti di ricerca e filtro per facilitare la consultazione. Queste pagine seguono il template Lista, descritto nel capitolo successivo;
-- Pagine foglia: le pagine di dettaglio dei singoli contenuti, dove è presente tutta l'informazione relativa a una notizia, un comunicato, un avviso o un bando specifico.
+- Primo livello: la pagina lista "Novità", che offre una panoramica generale di tutti i contenuti pubblicati dal Comune e permette all'utente di orientarsi verso la categoria di interesse.
+- Secondo livello: quattro pagine lista, una per ciascuna tipologia di contenuto (Notizie, Comunicati, Avvisi, Bandi e concorsi). Ogni pagina raccoglie tutti i contenuti di quella categoria, con strumenti di ricerca e filtro per facilitare la consultazione.
+- Terzo livello: le pagine di dettaglio dei singoli contenuti, dove è presente tutta l'informazione relativa a una notizia, un comunicato, un avviso o un bando specifico.
 
 Pagina di primo livello "Novità"
 ----------------------------------
